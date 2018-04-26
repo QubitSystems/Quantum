@@ -837,7 +837,7 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
 .calculator .cryptonatorwidget div { display: none; }
 
 /* Price Silder */
-.price-silder { bottom: 0; background: rgba(255, 255, 255, 0.2); padding: 15px 0; position: relative; overflow: hidden; }
+.price-silder { bottom: 0; background: rgba(0, 24, 65, 1); padding: 15px 0; position: relative; overflow: hidden; }
 .price-silder .media img { width: 40px; }
 .price-silder .media-body { line-height: 12px; }
 .price-silder .media-body span { font-size: 14px; }
