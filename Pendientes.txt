@@ -1,8 +1,8 @@
 Modificar altura de slide a criterio
 Fuente recomendada: Nexa Bold y Lato light
 Acomodar estilos de los sliders
-Reducir separacion entre nube y ¿Cómo iniciar?
-Centrar 2 cuadros
+Padding 30px ¿Cómo iniciar?
+Centrar 2 cuadros ¿Cómo iniciar?
 Preloader + tiempo
 
 
