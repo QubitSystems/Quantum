@@ -1,12 +1,7 @@
-Modificar altura de slide a criterio
 Fuente recomendada: Nexa Bold y Lato light
-Acomodar estilos de los sliders
-Padding 30px ¿Cómo iniciar?
-Centrar 2 cuadros ¿Cómo iniciar?
-Preloader + tiempo
-
-
-Slide
-1. Servicios -> Academy
-2. Oportunidad -> 
-3. Criptomoneda -> Spear
+Imagenes de paquetes(3 o 2)
+Iconos de Quantum Club (inicio)
+Slider home (ES tu oportunidada)
+Portada videos
+PDF / Power Point
+Servicios / contactenos
