@@ -25,18 +25,18 @@ if(isset($_POST["action"])) {
 	$errmsg='';
   // Check if name has been entered
   if (!$_POST['name']) {
-   $errmsg = 'Please enter your name';
+   $errmsg = 'Ingresar un nombre';
   }
 
   
   // Check if email has been entered and is valid
   if (!$_POST['email'] || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
-   $errmsg = 'Please enter a valid email address';
+   $errmsg = 'Ingresar un email valido';
   }
   
   //Check if message has been entered
   if (!$_POST['message']) {
-   $errmsg = 'Please enter your message';
+   $errmsg = 'Ingrese un mensaje';
   }
  
 	$result='';
