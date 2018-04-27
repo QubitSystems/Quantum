@@ -153,7 +153,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid #e0e0e0; border-top: 0px;
 /***************************
    Section padding 
 ****************************/
-.overview-block-ptb { padding: 80px 0; }
+.overview-block-ptb { padding: 45px 0; }
 .overview-block-pt { padding: 80px 0 0; }
 .overview-block-pb { padding: 0 0 80px; }
 .overview-block-ptb1 { padding: 10px 0; }
@@ -1115,9 +1115,9 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
  Testimonial 1
 *************************/
 .iq-testimonial .owl-carousel.owl-theme .owl-dots { margin-top: 20px; }
-.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot span { position: relative; width: 80px; height: 80px; margin: 0 6px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left; background: url("http://via.placeholder.com/430x450") no-repeat 0 0 !important; background-size: cover !important; transition: all 0.3s ease-in-out 0s; }
-.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(2) span { background: url("images/testimonio3.jpg") no-repeat 0 0 !important; background-size: cover !important; }
-.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(3) span { background: url("http://via.placeholder.com/430x450") no-repeat 0 0 !important; background-size: cover !important; }
+.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot span { position: relative; width: 80px; height: 80px; margin: 0 6px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left; background: url("../images/testimonio1.jpg") no-repeat 0 0 !important; background-size: cover !important; transition: all 0.3s ease-in-out 0s; }
+.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(2) span { background: url("../images/testimonio2.jpg") no-repeat 0 0 !important; background-size: cover !important; }
+.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(3) span { background: url("../images/testimonio3.jpg") no-repeat 0 0 !important; background-size: cover !important; }
 .iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot.active span { border: 4px solid #f9b707; }
 .iq-testimonial .owl-carousel .owl-item { padding: 30px; border-radius: 4px; }
 .iq-testimonial .testimonial .description { font-style: italic; font-size: 18px; }
