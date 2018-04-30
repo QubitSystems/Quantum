@@ -1,7 +1,9 @@
 Fuente recomendada: Nexa Bold y Lato light
-Imagenes de paquetes (documento)
-Iconos de Quantum Club (inicio)
-Slider home (ES tu oportunidad)
+Cuadrar nubes en responsive
+Preloader tiempo carga en demás pestañas
+¿Qué es lo que hacemos? - Quitar ultimos dos
+Imagenes de paquetes 3
+Oportunidad (video)
 Portada videos
-PDF / Power Point
+Recursos PDF / Power Point
 Servicios / contactenos
