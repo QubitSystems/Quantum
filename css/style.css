@@ -78,7 +78,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 /*---------------------------------------------------------------------
                                General
 -----------------------------------------------------------------------*/
-body { font-family: 'NexaBold', NexaBold; font-weight: normal; font-style: normal; font-size: 16px; line-height: 24px; color: #666666; overflow-x: hidden; }
+body { font-family: 'Lato', sans-serif; font-weight: normal; font-style: normal; font-size: 16px; line-height: 24px; color: #666666; overflow-x: hidden; }
 a, .button { transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; color: #151d2e; }
 a:focus { text-decoration: none !important; }
 a:focus, a:hover { color: #f9b707; text-decoration: none !important; }
@@ -1726,3 +1726,5 @@ footer.iq-footer-4 .newsletter-form .input-group .form-control { border: 1px sol
 .hebe .tp-arr-imgholder { width: 90px; height: 90px; position: absolute; left: 100%; display: block; background-size: cover; background-position: center center; top: 0px; right: -90px }
 .hebe.tp-rightarrow .tp-arr-imgholder { right: auto; left: -90px; }
 
+ 
+  

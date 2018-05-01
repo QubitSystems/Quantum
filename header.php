@@ -1,5 +1,5 @@
- <div class="header">
-        <div class="topbar">
+   <header class="transparent">
+       <div class="topbar">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -32,11 +32,11 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="logo">
-                            <a href="home.html"><img class="img-fluid" src="images/quantum-color.png" alt=""></a>
+                            <a href="home.html"><img class="img-fluid" src="images/quantum-white.png" alt="logo"></a>
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
-                               <li><a href="home.html">Inicio</a>
+                                <li><a class="active" href="home.html">Inicio</a>
                                 </li>
                                 <li><a href="opportunity.html">Oportunidad</a>
                                   
@@ -48,14 +48,21 @@
                                 
                                 </li>
                                 
-                                <li><a class="active" href="contact.html">Contacto</a>
+                                <li><a href="contact.html">Contacto</a>
                                     
                                 </li>
+                                <!--<li>
+                                    <div class="iq-search"> <a class="search-btn not_click" href="javascript:void(0);"> <span>Search Button</span></a>
+                                        <div class="search-box not-click">
+                                            <input type="email" class="form-control not-click" id="exampleInputEmail1" placeholder="Search">
+                                            <i class="ti-search"></i> </div>
+                                    </div>
+                                </li>-->
                             </ul>
                         </nav>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    
+    </header>
+ 

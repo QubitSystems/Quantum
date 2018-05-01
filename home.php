@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="images/favicon.ico" />
     <!-- Google Fonts -->
     <!--link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;Ubuntu:400,500,700" rel="stylesheet"-->
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+    <link rel="stylesheet" type="text/css" href="css/nexabold.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- Magnific Popup CSS -->
@@ -49,74 +49,10 @@
     
 
 	<!-- Header -->
-    <header class="transparent">
-       <div class="topbar">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-6">
-                        <div class="topbar-left">
-                            <ul class="list-inline">
-                               <!-- <li class="list-inline-item"><i class="fa fa-phone text-blue"></i> +0123 456 789</li>
-                                <li class="list-inline-item"><i class="fa fa-envelope-o"> </i> support@coinex.com</li>-->
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6">
-                        <div class="topbar-right text-right">
-                            <ul class="list-inline">
-                                <!--<li class="list-inline-item">
-                                    <ul class="list-inline iq-left">
-                                        <li class="list-inline-item"><a href="#" data-toggle="modal" data-target=".iq-login" data-whatever="@mdo"><i class="fa fa-lock"></i>Login</a></li>
-                                        <li class="list-inline-item"><a href="#" data-toggle="modal" data-target=".iq-register" data-whatever="@fat"><i class="fa fa-user"></i>Register</a></li>
-                                    </ul>
-                                </li>-->
-                                <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Quantum Academy</a></li>
-                                <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Oficina Virtual</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="iq-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="logo">
-                            <a href="home.html"><img class="img-fluid" src="images/quantum-white.png" alt="logo"></a>
-                        </div>
-                        <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
-                            <ul class="menu text-right">
-                                <li><a class="active" href="home.html">Inicio</a>
-                                </li>
-                                <li><a href="opportunity.html">Oportunidad</a>
-                                  
-                                </li>
-                                <li><a href="quantum.html">Quantum</a>
-                                    
-                                </li>
-                                <li><a href="services.html">Servicios</a>
-                                
-                                </li>
-                                
-                                <li><a href="contact.html">Contacto</a>
-                                    
-                                </li>
-                                <!--<li>
-                                    <div class="iq-search"> <a class="search-btn not_click" href="javascript:void(0);"> <span>Search Button</span></a>
-                                        <div class="search-box not-click">
-                                            <input type="email" class="form-control not-click" id="exampleInputEmail1" placeholder="Search">
-                                            <i class="ti-search"></i> </div>
-                                    </div>
-                                </li>-->
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Header End -->
+    <?php
+    include('header.php');
+    ?>
+   <!-- Header End -->
     
     <!-- Banner -->
     <div class="iq-bg banner-stars">
@@ -480,86 +416,10 @@
            
     <!--=================================
 Footer -->
-    <footer class="iq-footer">
-        <div class="footer-top iq-bg iq-bg-fixed iq-over-black-80" style="background-image:url(http://via.placeholder.com/1800x1200); ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12 iq-mtb-60">
-                        <div class="logo">
-                            <img class="img-fluid" src="images/ " alt="# ">
-                            <div class="iq-font-white iq-mt-15 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</div>
-                        </div>
-                    </div>
-              
-                   <!-- <div class="col-lg-2 col-md-6 col-sm-12 iq-mtb-60 footer-menu">
-                        <h5 class="small-title iq-tw-5 iq-font-white">Menu</h5>
-                        <ul class="iq-pl-0">
-                            <li><a href="# ">Home</a></li>
-                            <li><a href="# ">About Us</a></li>
-                            <li><a href="# ">Services</a></li>
-                            <li><a href="# ">Faqs</a></li>
-                            <li><a href="# ">Contact Us</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 iq-contact iq-mtb-60">
-                        <h5 class="small-title iq-tw-5 iq-font-white">Contact CoinEx</h5>
-                        <div class="iq-mb-30">
-                            <div class="blog"><i class="ion-ios-telephone-outline"></i>
-                                <div class="content ">
-                                    <div class="iq-tw-6 title ">Phone</div> +0123 456 789</div>
-                            </div>
-                        </div>
-                        <div class="iq-mb-30">
-                            <div class="blog "><i class="ion-ios-email-outline"></i>
-                                <div class="content ">
-                                    <div class="iq-tw-6 title ">Mail</div> mail@coinex.com</div>
-                            </div>
-                        </div>
-                        <div class="blog"><i class="ion-ios-location-outline"></i>
-                            <div class="content ">
-                                <div class="iq-tw-6 title ">Address</div> 1234 North Luke Lane, South Bend,IN 360001</div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 iq-mb-60">
-                        <div class="call-back">
-                            <h5 class="small-title iq-tw-5 iq-font-white">Request a Call Back</h5>
-                            <form>
-                                <div class="form-group iq-mb-20">
-                                    <input type="text" class="form-control" id="exampleInputName" placeholder="Enter Name">
-                                </div>
-                                <div class="form-group iq-mb-20">
-                                    <input type="text" class="form-control" id="exampleInputPhone" placeholder="Phone Number">
-                                </div>
-                                <div class="form-group iq-mb-20">
-                                    <input type="text" class="form-control" id="exampleInputsubject" placeholder="Subject">
-                                </div>
-                                <a class="button" href="#">Submit</a>
-                            </form>
-                        </div>
-                    </div>-->
-          
-                    
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom iq-ptb-20 ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <div class="iq-copyright iq-mt-10 iq-font-white">Copyright <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> <a href="#">Quantum Club</a> All Rights Reserved </div>
-                    </div>
-                    <div class="col-sm-6">
-                        <ul class="iq-media-blog ">
-                            <li><a href="https://twitter.com/QuantumClubPro"><i class="fa fa-twitter "></i></a></li>
-                            <li><a href="https://es-la.facebook.com/QuantumClubpro/"><i class="fa fa-facebook "></i></a></li>
-                            <li><a href="# "><i class="fa fa-google "></i></a></li>
-                            <li><a href="https://www.youtube.com/channel/UCy9sL3sAOfd-ITiOUDRDSGA/videos"><i class="fa fa-youtube "></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php
+    include('footer.php');
+    ?>
+    
     <!--=================================
 Footer -->
     <!--=================================
