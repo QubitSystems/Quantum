@@ -345,11 +345,7 @@
 							</h4>
                             <p>Desarrolla un sistema para mejorar tus márgenes de ganancia.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
-                        <div class="iq-feature2 iq-mtb-20 first-l">
-                            <h4 class="iq-font-black iq-tw-5">Proteger tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
-							</h4>
-                            <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
-                        </div>
+                     
                     </div>
                     <div class="col-lg-4 col-md-12 align-self-center text-center">
                         <img class="img-fluid" src="images/quantum-logo.png"  alt="">
@@ -360,16 +356,17 @@
 							</h4>
                             <p>Traza un plan y gestiona correctamente, convierte en cifras creíbles tu plan de vida.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
-                        <div class="iq-feature2 iq-mtb-20 second-r">
-                            <h4 class="iq-font-black iq-tw-5"><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/05.png" alt=""></span>Vivir de tu rentabilidad
+                        
+                           <div class="iq-feature2 iq-mtb-20 first-l">
+                            <h4 class="iq-font-black iq-tw-5">Proteger tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
 							</h4>
-                            <p>Un Quantum Manager debe disponer los activos de modo que aseguren la máxima renta disponible, preservar su valor.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
+                            <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
-                        <div class="iq-feature2 iq-mtb-20 first-r">
-                            <h4 class="iq-font-black iq-tw-5"><span class="iq-icon iq-mr-10"><!--<img class="img-fluid" src="images/services/icon/06.png" alt="">--></span>Experts Support
+                     <!-- <div class="iq-feature2 iq-mtb-20 first-r">
+                            <h4 class="iq-font-black iq-tw-5"><span class="iq-icon iq-mr-10"><!--<img class="img-fluid" src="images/services/icon/06.png" alt="">></span>Experts Support
 							</h4>
                             <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. <a href="#" class="iq-font-green">[ ... ]</a></p>
-                        </div>
+                        <</div>-->
                     </div>
                     <div class="particles text-center"><img class="img-fluid" src="images/particles.png" alt=""></div>
                 </div>

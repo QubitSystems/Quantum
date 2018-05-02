@@ -1,7 +1,8 @@
 
 <?php
     //sesion 
-    include('');
+    include('control_session.php');
+    validar_Session();
 ?>
 <!doctype html>
 <html lang="en">

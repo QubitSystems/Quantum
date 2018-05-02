@@ -1,4 +1,8 @@
-<?php?>
+<?php
+    include('control_session.php');
+    break_Session_Invalid();
+    is_Invalid();
+?>
 <!doctype html>
 <html lang="en">
 
@@ -58,16 +62,19 @@
         <div class="container" style="height:500px;">
                  <div class="box">
                         <h2>LOGIN</h2>
-                     <form>
+                     <form action="controlador_inicio_session.php" method="post">
                          <div class="inputBox">
-                             <input type="text" name="user" required="">
+                             <input type="text" id="user" name="user"  required="">
                             <label>Username</label>
                          </div>
                         <div class="inputBox">
-                            <input type="password" name="pass" required="">
+                            <input type="password" id="pass" name="pass"  required="">
                             <label>Password</label>
                             </div>
-                         <input type="submit" name="" value="Iniciar Sesion">
+                         <center><input class="btn" type="submit" name="send-message" value="Iniciar Session"/></center>
+                         <!--button type="submit" style="background: transparent; border: none;outline: none;color:#fff;align-content: center;
+                                                      background: #03a9f4;padding: 10px 20px;cursor: pointer;border-radius: 5px;">Iniciar Sesion</button>
+                         <!--input type="submit" name="" id=""  value="Iniciar Sesion"-->
                      </form>
             </div>
         </div>
@@ -250,6 +257,7 @@
             border: none;
             outline: none;
             color:#fff;
+            align-content: center;
             background: #03a9f4;
             padding: 10px 20px;
             cursor: pointer;

@@ -5,7 +5,7 @@
 			
 		}
 		else{
-			//header("Location: http://localhost:8080/PAGINA ANDEAN/login.php"); 
+			header("Location:http://localhost/Repositorio/Quantum/login.php"); 
 			exit;
 		}
 
@@ -13,7 +13,7 @@
 
 		if($now > $_SESSION['expire']){
 			session_destroy();
-			//header("Location: http://localhost:8080/PAGINA ANDEAN/login.php");
+			header("Location: http://localhost/Repositorio/Quantum/login.php");
 			
 		}
 	}
@@ -22,7 +22,7 @@
 		session_start();
 		unset($_SESSION['username']);
 		session_destroy();
-		//header("Location: http://localhost:8080/PAGINA ANDEAN/login.php");
+		header("Location: http://localhost/Repositorio/Quantum/login.php");
 		
 	}
 	

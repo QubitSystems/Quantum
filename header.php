@@ -32,23 +32,23 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="logo">
-                            <a href="home.html"><img class="img-fluid" src="images/quantum-white.png" alt="logo"></a>
+                            <a href="home.php"><img class="img-fluid" src="images/quantum-white.png" alt="logo"></a>
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
-                                <li><a class="active" href="home.html">Inicio</a>
+                                <li><a class="active" href="home.php">Inicio</a>
                                 </li>
-                                <li><a href="opportunity.html">Oportunidad</a>
+                                <li><a href="opportunity.php">Oportunidad</a>
                                   
                                 </li>
-                                <li><a href="quantum.html">Quantum</a>
+                                <li><a href="quantum.php">Quantum</a>
                                     
                                 </li>
-                                <li><a href="services.html">Servicios</a>
+                                <li><a href="services.php">Servicios</a>
                                 
                                 </li>
                                 
-                                <li><a href="contact.html">Contacto</a>
+                                <li><a href="contact.php">Contacto</a>
                                     
                                 </li>
                                 <!--<li>

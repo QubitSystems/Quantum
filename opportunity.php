@@ -54,104 +54,94 @@
     
     <div class="clearfix"></div>
     <!-- Banner -->
-    <div id="rev_slider_3_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="coinex18" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-        <!-- START REVOLUTION SLIDER 5.4.6.3 fullwidth mode -->
-        <div id="rev_slider_3_1" class="rev_slider fullwidthabanner tp-overflow-hidden" style="display:none;" data-version="5.4.6.3">
-            <ul>
-                <!-- SLIDE  -->
-                <li data-index="rs-9" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    <div class="rs-background-video-layer" 
-                         data-forcerewind="on" 
-                        data-volume="mute" 
-                         data-ytid="T8--OggjJKQ" 
-                         data-videoattributes="version=3&enablejsapi=1&html5=1& hd=1&wmode=opaque&showinfo=0& ref=0;;origin=http://server.local;" 
-                         data-videorate="1.5" 
-                         data-videowidth="100%" 
-                         data-videoheight="100%" 
-                         data-videocontrols="none" 
-                         data-videostartat="00:10" 
-                         data-videoendat="00:50" 
-                         data-videoloop="loopandnoslidestop" 
-                         data-forceCover="1" 
-                         data-aspectratio="16:9" 
-                        data-autoplay="true" 
-                        data-autoplayonlyfirsttime="false" 
-                        data-nextslideatend="true"></div>
-                   
-                    <!-- MAIN IMAGE -->
-                    <img src=””   alt=””  width=”1920″ height=”1080″ data-bgposition=”center center” data-bgfit=”cover” data-bgrepeat=”no-repeat” class=”rev-slidebg” data-autoplay="true"> 
-                    <!--<img src=”https://youtu.be/uOGCKx2InuU”  alt=””  width=”1920″ height=”1080″ data-bgposition=”center center” data-bgfit=”cover” data-bgrepeat=”no-repeat” class=”rev-slidebg”>-->
-                    <!-- LAYERS -->
-                    <!-- LAYER NR. 1
-                    <div class="tp-caption   tp-resizeme" id="slide-9-layer-11" data-x="right" data-hoffset="-292" data-y="bottom" data-voffset="-25" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"><img src="revslider/assets/19086-14.png" alt="" data-ww="966px" data-hh="653px" data-no-retina> </div>
-                    <!-- LAYER NR. 2
-                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-1" id="slide-9-layer-2" data-x="-109" data-y="-20" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":1020,"speed":1000,"frame":"0","from":"x:left;y:top;z:{-20,20};opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;"><img src="revslider/assets/2c90a-15.png" alt="" data-ww="244px" data-hh="191px" data-no-retina> </div>
-                    <!-- LAYER NR. 3 
-                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-1" id="slide-9-layer-4" data-x="-110" data-y="bottom" data-voffset="30" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":1530,"speed":1000,"frame":"0","from":"x:left;y:middle;z:{-20,20};opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7;"><img src="revslider/assets/2c90a-15.png" alt="" data-ww="222px" data-hh="174px" data-no-retina> </div>
-                    <!-- LAYER NR. 4 
-                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-1" id="slide-9-layer-3" data-x="right" data-hoffset="-173" data-y="-109" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2110,"speed":1000,"frame":"0","from":"x:[175%];y:[-175%];opacity:{0,1};","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8;"><img src="revslider/assets/086e2-16.png" alt="" data-ww="267px" data-hh="256px" data-no-retina> </div>
-                    <!-- LAYER NR. 5 
-                    <div class="tp-caption   tp-resizeme" id="slide-9-layer-9" data-x="30" data-y="186" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":3110,"speed":1500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9; white-space: nowrap; font-size: 65px; line-height: 80px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Ubuntu;text-transform:uppercase;">the most important
-                        <br>invention in <span class="iq-font-yellow iq-tw-6">history!</span></div>
-                    <!-- LAYER NR. 6 
-                    <div class="tp-caption   tp-resizeme" id="slide-9-layer-5" data-x="30" data-y="center" data-voffset="2" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":3960,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; white-space: nowrap; font-size: 14px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        <br> industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing
-                        <br> and typesetting industry. Lorem Ipsum has been the industry's standard. </div>
-                    <!-- LAYER NR. 7 
-                    <div class="tp-caption button rev-btn " id="slide-9-layer-8" data-x="30" data-y="455" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":4500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[35,35,35,35]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[35,35,35,35]">Read More</div>-->
-                </li>
-                <!-- SLIDE  -->
-                <!--<li data-index="rs-10" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    <img src="revslider/assets/transparent.png" data-bgcolor='#151d2e' style='background:#151d2e' alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
-                    <!-- LAYERS -->
-                    <!-- LAYER NR. 8 
-                    <div class="tp-caption   tp-resizeme" id="slide-10-layer-9" data-x="30" data-y="247" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":3220,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 62px; line-height: 68px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Ubuntu;text-transform:uppercase;"><span class="iq-font-yellow iq-tw-6">explore Bitcoin</span> </div>
-                    <!-- LAYER NR. 9 
-                    <div class="tp-caption   tp-resizeme" id="slide-10-layer-10" data-x="30" data-y="318" data-width="['558']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":3960,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 558px; max-width: 558px; white-space: nowrap; font-size: 60px; line-height: 68px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Ubuntu;text-transform:uppercase;">It's free market ! </div>
-                    <!-- LAYER NR. 10 
-                    <div class="tp-caption   tp-resizeme" id="slide-10-layer-5" data-x="30" data-y="center" data-voffset="45" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":4660,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 14px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        <br> industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing
-                        <br> and typesetting industry. Lorem Ipsum has been the industry's standard. </div>
-                    <!-- LAYER NR. 11 
-                    <div class="tp-caption button white rev-btn " id="slide-10-layer-8" data-x="30" data-y="505" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":4930,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[35,35,35,35]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[35,35,35,35]">Read More</div>
-                    <!-- LAYER NR. 12 
-                    <div class="tp-caption   tp-resizeme" id="slide-10-layer-16" data-x="right" data-hoffset="-55" data-y="59" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="revslider/assets/89b8d-17.png" alt="" data-ww="466px" data-hh="745px" data-no-retina> </div>
-                    <!-- LAYER NR. 13 
-                    <div class="tp-caption   tp-resizeme" id="slide-10-layer-14" data-x="133" data-y="bottom" data-voffset="4" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2500,"speed":1000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10;"><img src="revslider/assets/8ce56-18.png" alt="" data-ww="186px" data-hh="170px" data-no-retina> </div>
-                    <!-- LAYER NR. 14 
-                    <div class="tp-caption   tp-resizeme" id="slide-10-layer-15" data-x="-500" data-y="center" data-voffset="21" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11;"><img src="revslider/assets/94f40-19.png" alt="" data-ww="556px" data-hh="719px" data-no-retina> </div>-->
-                <!--</li>
-                <!-- SLIDE  -->
-                <!--<li data-index="rs-11" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    <!-- MAIN IMAGE -->
-                    <!--<img src="revslider/assets/transparent.png" data-bgcolor='#000000' style='background:#000000' alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
-                    <!-- LAYERS -->
-                    <!-- LAYER NR. 15 
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-9" data-x="30" data-y="217" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":4670,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 62px; line-height: 62px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Ubuntu;text-transform:uppercase;">Provides To Make Batter </div>
-                    <!-- LAYER NR. 16 
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-10" data-x="30" data-y="center" data-voffset="-60" data-width="['587']" data-height="['70']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":5730,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 587px; max-width: 587px; max-width: 70px; max-width: 70px; white-space: nowrap; font-size: 68px; line-height: 60px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Ubuntu;text-transform:uppercase;"><span class="iq-font-yellow iq-tw-6">cryptocurrency ! </span></div>
-                    <!-- LAYER NR. 17 
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-5" data-x="30" data-y="center" data-voffset="21" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":6800,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 14px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        <br> industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing
-                        <br> and typesetting industry. Lorem Ipsum has been the industry's standard. </div>
-                    <!-- LAYER NR. 18 
-                    <div class="tp-caption button rev-btn " id="slide-11-layer-8" data-x="30" data-y="485" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":7470,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[35,35,35,35]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[35,35,35,35]">Read More</div>
-                    <!-- LAYER NR. 19
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-14" data-x="right" data-hoffset="99" data-y="7" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2390,"speed":1000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="revslider/assets/594af-22.png" alt="" data-ww="128px" data-hh="127px" data-no-retina> </div>
-                    <!-- LAYER NR. 20
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-15" data-x="right" data-hoffset="237" data-y="center" data-voffset="-216" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":3180,"speed":1000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10;"><img src="revslider/assets/37db8-23.png" alt="" data-ww="115px" data-hh="114px" data-no-retina> </div>
-                    <!-- LAYER NR. 21 
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-16" data-x="right" data-hoffset="61" data-y="center" data-voffset="-81" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":3930,"speed":1000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11;"><img src="revslider/assets/59100-24.png" alt="" data-ww="188px" data-hh="187px" data-no-retina> </div>
-                    <!-- LAYER NR. 22 
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-13" data-x="right" data-hoffset="-16" data-y="center" data-voffset="87" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 12;"><img src="revslider/assets/48723-21.png" alt="" data-ww="410px" data-hh="279px" data-no-retina> </div>
-                    <!-- LAYER NR. 23 
-                    <div class="tp-caption   tp-resizeme" id="slide-11-layer-18" data-x="center" data-hoffset="4" data-y="bottom" data-voffset="-58" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;"><img src="revslider/assets/ae6ae-25.png" alt="" data-ww="1920px" data-hh="230px" data-no-retina> </div>-->
-                <!--</li>-->
-            </ul>
-            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
-        </div>
+   
+     <!--<iframe width="100%" height="480" src="https://www.youtube.com/embed/uOGCKx2InuU?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=uOGCKx2InuU&autoplay=1" frameborder="0" allow="autoplay; encrypted-media"  allowfullscreen></iframe>-->
+  <!--<section class="overview-block-ptb iq-feature-aria" >
+        <div class="container" >
+            <div class="col-lg-12">
+            <video preload autoplay poster="http://sandbox.thewikies.com/vfe-generator/images/big-buck-bunny_poster.jpg" width="100%" height="480px">
+            <source src="../Quantum/images/servicios%20quantum%20club.mp4" type="video/mp4">
+            Tu navegador no soporta HTML5 Video  
+            </video>
+            </div>
+   
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
-    <!-- Banner End -->
+    </section>-->
+  <!--  <div class="video-container">
+        
+             <iframe  style="width=1370px; heigth=750px" width="1370px" height="750px"src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=HrKuIxveC4M&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            
+   <!--	<video autoplay loop class="fillWidth visible-lg">
+            <source src="../Quantum/images/servicios%20quantum%20club.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>-->
+  <!--  <style>
+body
+{
+  margin: 0;
+}
+.video-container 
+{
+  top: 0%;
+  left: 0%;
+  height: 750px;
+  width: 100%;
+  overflow: hidden;
+}
+video.fillWidth {
+  width: 100%;
+}
+    </style>-->
+    
+    <div class="video-container">
+<iframe width="1366" height="600" src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=HrKuIxveC4M&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <style>
+    .video-container {
+position: relative;
+padding-bottom: 56.25%; /* Para que el contenedor tenga relación de aspecto 16/9 */
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+    </style>
+  <!--  <style>
+    #video_background { 
+	position: absolute; 
+	bottom: 0px; 
+	right: 0px; 
+	min-width: 100%; 
+	min-height: 100%; 
+	width: auto; 
+	height: auto; 
+	z-index: -1000; 
+	overflow: hidden; 
+}
+#video_pattern { 
+	background:#fff; 
+	position: fixed; 
+	opacity: 0.8; 
+	left: 0px; 
+	top: 0px; 
+	width: 100%; 
+	height: 100%; 
+	z-index: 1; 
+}
+    </style>-->
+    <!-- Banner  End -->
     <!--======= Breadcrumb Inner Page =======-->
     <!-- Main Content -->
     <div class="main-content">
