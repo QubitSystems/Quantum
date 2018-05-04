@@ -244,7 +244,7 @@ height: 100%;
             <div class="container">
                     <div class="col-lg-12 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-bg" style="background-image: url('images/evento.png');"></div>
                             <div class="iq-blog">
                                 <h5 class="iq-tw-5 iq-mt-20 text-center">¿Quiere ser parte del proximo evento?
                                    <br> <a href="contacto.php"> Contactanos</a></h5>
