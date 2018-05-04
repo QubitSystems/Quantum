@@ -10,7 +10,7 @@
                                 <a class="nav-link iq-mb-0" id="pills-quantum-tab" data-toggle="pill" href="#pills-quantum" role="tab" aria-controls="pills-quantum" aria-selected="false">Quantum Academy</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link iq-mb-0" id="pills-vivo-tab" data-toggle="pill" href="#pills-vivo" role="tab" aria-controls="pills-vivo" aria-selected="false">Trading en Vivo</a>
+                                <a class="nav-link iq-mb-0" id="pills-vivo-tab" data-toggle="pill" href="#pills-vivo" role="tab" aria-controls="pills-vivo" aria-selected="false">Forex Spiner</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link iq-mb-0" id="pills-fondo-tab" data-toggle="pill" href="#pills-fondo" role="tab" aria-controls="pills-fondo" aria-selected="false">Fondo de Inversion 3.0</a>
