@@ -19,7 +19,7 @@ include("head.php");
     <!-- Header End -->
     <div class="clearfix"></div>
     <!--======= Breadcrumb Inner Page =======-->
-    <section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('images/contacto.jpg'); background-position: center center;">
+    <section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('images/broker.jpg'); background-position: center center;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
