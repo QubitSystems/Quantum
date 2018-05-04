@@ -55,47 +55,7 @@
     <div class="clearfix"></div>
     <!-- Banner -->
    
-     <!--<iframe width="100%" height="480" src="https://www.youtube.com/embed/uOGCKx2InuU?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=uOGCKx2InuU&autoplay=1" frameborder="0" allow="autoplay; encrypted-media"  allowfullscreen></iframe>-->
-  <!--<section class="overview-block-ptb iq-feature-aria" >
-        <div class="container" >
-            <div class="col-lg-12">
-            <video preload autoplay poster="http://sandbox.thewikies.com/vfe-generator/images/big-buck-bunny_poster.jpg" width="100%" height="480px">
-            <source src="../Quantum/images/servicios%20quantum%20club.mp4" type="video/mp4">
-            Tu navegador no soporta HTML5 Video  
-            </video>
-            </div>
-   
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
-    </section>-->
-  <!--  <div class="video-container">
-        
-             <iframe  style="width=1370px; heigth=750px" width="1370px" height="750px"src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=HrKuIxveC4M&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-            
-   <!--	<video autoplay loop class="fillWidth visible-lg">
-            <source src="../Quantum/images/servicios%20quantum%20club.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>-->
-  <!--  <style>
-body
-{
-  margin: 0;
-}
-.video-container 
-{
-  top: 0%;
-  left: 0%;
-  height: 750px;
-  width: 100%;
-  overflow: hidden;
-}
-video.fillWidth {
-  width: 100%;
-}
-    </style>-->
-    
+  
     <div class="video-container">
 <iframe width="1366" height="600" src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=HrKuIxveC4M&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
@@ -118,30 +78,7 @@ width: 100%;
 height: 100%;
 }
     </style>
-  <!--  <style>
-    #video_background { 
-	position: absolute; 
-	bottom: 0px; 
-	right: 0px; 
-	min-width: 100%; 
-	min-height: 100%; 
-	width: auto; 
-	height: auto; 
-	z-index: -1000; 
-	overflow: hidden; 
-}
-#video_pattern { 
-	background:#fff; 
-	position: fixed; 
-	opacity: 0.8; 
-	left: 0px; 
-	top: 0px; 
-	width: 100%; 
-	height: 100%; 
-	z-index: 1; 
-}
-    </style>-->
-    <!-- Banner  End -->
+  <!-- Banner  End -->
     <!--======= Breadcrumb Inner Page =======-->
     <!-- Main Content -->
     <div class="main-content">
@@ -339,7 +276,20 @@ height: 100%;
                 </div>
             </div>
         </section>-->
-		
+		    <section class="main-content">
+            <div class="container">
+                    <div class="col-lg-12 col-md-3 offset=-1 align-self-center text-center" >
+                            <div class="iq-features1">
+                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-blog">
+                                <h5 class="iq-tw-5 iq-mt-20 text-center">¿Quiere ser parte del proximo evento?
+                                   <br> <a href="contacto.php"> Contactanos</a></h5>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </section>
+    
         <section class="overview-block-ptb pading=45px">
             <div class="container">
                 <div class="row">
@@ -357,39 +307,71 @@ height: 100%;
                         <figure class="imghvr-shutter-out-diag-1">
                             <img src="images/silver.png">
                                 <figcaption>
-                                    <h3>Silver</h3>
+                                    <h3>Quantum Silver</h3>
                                     <p>$180<br>
 									3 meses<br>
 									100 puntos comisionables</p>
                                     <br>
-                                    <a href="contact.html"></a>
+                                    Kit de inicio (carpeta de materiales)<br>
+                                    Bono de 10$<br>
+                                    Quantum Academy (Servicio)<br>
+                                    Proyecciones de Inversion(Servicio)<br>
+                                    Trading Vip Free (Servicio)<br>
+                                    Forex Sniper (Servicio)<br>
+                                    Portafolio de Inversion3.0
+                                    <a href="contacto.php"></a>
                                 </figcaption>
                         </figure>
                     </div>
                    
+                      <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
+						<figure class="imghvr-shutter-out-diag-1">
+                            <img src="images/gold.png">
+                                <figcaption>
+                                        <H3>Quantum Gold</H3>
+                                        <br>
+                                        <p>$280<br>
+									6 meses<br>
+									200 puntos comisionables</p>
+                                    <br>
+                                    Kit de inicio (carpeta de materiales)<br>
+                                    Bono de 10$<br>
+                                    Quantum Academy (Servicio)<br>
+                                    Proyecciones de Inversion(Servicio)<br>
+                                    Trading Vip Free (Servicio)<br>
+                                    Forex Sniper (Servicio)<br>
+                                    Portafolio de Inversion3.0
+                                    
+                                        <a href="contacto.php"></a>
+                                </figcaption>
+                        </figure>
+                    </div>
+                       
+                    
                     <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
 						<figure class="imghvr-shutter-out-diag-1">
                             <img src="images/platinum.png">
                                 <figcaption>
-                                        <H3>Como cliente</H3>
-                                        <br>
-                                        <a href="contact.html"></a>
+                                        <H3>Quantum Platinum</H3>
+                                        <p>$480<br>
+									12 meses<br>
+									400 puntos comisionables</p>
+                                    <br>
+                                    Kit de inicio (carpeta de materiales)<br>
+                                    Bono de 10$<br>
+                                    Quantum Academy (Servicio)<br>
+                                    Proyecciones de Inversion(Servicio)<br>
+                                    Trading Vip Free (Servicio)<br>
+                                    Forex Sniper (Servicio)<br>
+                                    Portafolio de Inversion3.0
+                                    
+                                        <a href="contacto.php"></a>
                                 </figcaption>
                         </figure>
                     </div>
                     
                                   
-                    <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
-						<figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/gold.png">
-                                <figcaption>
-                                        <H3>Como cliente</H3>
-                                        <br>
-                                        <a href="contact.html"></a>
-                                </figcaption>
-                        </figure>
-                    </div>
-          
+                  
                     </div>
        
                 </div>
@@ -399,6 +381,23 @@ height: 100%;
 		
         <!-- Paquetes end-->
         <!--Informacion de los paquetes-->
+        <!-- Recursos-->
+             <section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('images/'); background-position: center center;">
+                 <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="heading-title">
+                            
+                    </div>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+    </section>
+          	
+	<br>
+        <!--Fin de recursos
         <section class="overview-block-ptb">
             <div class="container">
                 <div class="row">
@@ -424,7 +423,7 @@ height: 100%;
         <input type="text">
       </div>
       <div class="modal-footer">
-        <a type="button" class="btn btn-primary"href="recursos.html">Registrar</a>
+        <a type="button" class="btn btn-primary"href="recursos.php">Ingresar</a>
         
       </div>
     </div>

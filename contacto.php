@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="heading-title">
-                        <h3 class="title text-uppercase iq-font-white iq-tw-6">Contactenos</h3>
+                        <h3 class="title text-uppercase iq-font-white iq-tw-6">Contacto</h3>
                     </div>
                     <p></p>
                 </div>

@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="images/favicon.ico" />
     <!-- Google Fonts -->
     <!--link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;Ubuntu:400,500,700" rel="stylesheet"-->
-    <link rel="stylesheet" type="text/css" href="css/nexabold.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- Magnific Popup CSS -->
@@ -63,7 +63,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="revslider/assets/100x50_b78ec-04.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/slide1.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"  class="rev-slidebg" width=100%   data-no-retina>
+                        <img src="revslider/assets/slide1.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"  class="rev-slidebg"   data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" id="slide-5-layer-3" data-x="right" data-hoffset="106" data-y="bottom" data-voffset="196" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"x:[100%];y:bottom;opacity:{0,1};","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"><img src="revslider/assets/learning.png" alt="" data-ww="500px" data-hh="400px" data-no-retina> </div>
@@ -241,7 +241,7 @@
                     <div class="col-sm-12">
                         <div class="heading-title">
                             <h3 class="title iq-tw-5 iq-mb-20">¿Cómo iniciar?</h3>
-                            <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            <p>Formate como un QUANTUM MANAGER, un experto en dar soluciones financieras inteligentes y un lider de impacto mundial. </p>
                         </div>
                     </div>
                 </div>
@@ -357,7 +357,7 @@
                             <p>Traza un plan y gestiona correctamente, convierte en cifras creíbles tu plan de vida.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
                         
-                           <div class="iq-feature2 iq-mtb-20 first-l">
+                           <div class="iq-feature2 iq-mtb-20 second-r">
                             <h4 class="iq-font-black iq-tw-5">Proteger tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
 							</h4>
                             <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
@@ -368,7 +368,7 @@
                             <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. <a href="#" class="iq-font-green">[ ... ]</a></p>
                         <</div>-->
                     </div>
-                    <div class="particles text-center"><img class="img-fluid" src="images/particles.png" alt=""></div>
+                    <div class="particles text-center"><img class="img-fluid" src="images/particles.png" width="500px" height="520px" alt=""></div>
                 </div>
         </div>
         </section>

@@ -1,7 +1,6 @@
 <!doctype html>
 <?php  
-
-
+    
 ?>
 <html lang="en">
 <head>
@@ -59,7 +58,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="heading-title">
-                        <h3 class="title text-uppercase iq-font-white iq-tw-6">Video</h3>
+                        <h3 class="title text-uppercase iq-font-white iq-tw-6">Recursos Quantum</h3>
                     </div>
                     <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 </div>
@@ -67,8 +66,8 @@
         </div>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="home.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Video</li>
+                <li class="breadcrumb-item"><a href="inicio.php">Inicio</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Recursos</li>
             </ol>
         </nav>
     </section>
@@ -79,27 +78,59 @@
          <section class="overview-block-ptb pading=45px">
           <div class="container">
               <div class="row">
-                  
-                    <div class="col-lg-6 col-md-6 offset=-1 align-self-center text-center">
-                     <img alt="#" src="http://via.placeholder.com/315x150" class="img-fluid">
+                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                            <div class="iq-features1">
+                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-blog">
+                                <!--<div class="step">1</div>
+                                <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
+                                <h5 class="iq-tw-5 iq-mt-20 text-center">Plan de Beneficios </h5>
+                                <a href="#"></a>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 offset=-1 align-self-center text-center">
-                         <img alt="#" src="http://via.placeholder.com/315x150" class="img-fluid"> 
+                        <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                            <div class="iq-features1">
+                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-blog">
+                                <!--<div class="step">1</div>
+                                <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
+                                <h5 class="iq-tw-5 iq-mt-20 text-center">Recursos de Power Point </h5>
+                                <a href="#"></a>
+                            </div>
+                        </div>
                     </div>
-              </div>
+                
+                      
+                </div>
             </div>    
             </section>
      
         <section class="overview-block-ptb">
             <div class="container">
                 <div class="row">
+                    <div class="col-md-12 col-sm-4 offset=-1 align-self-center text-center">
+                        <div class="popup-gallery play-video">
+                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x500" class="img-fluid"> </div>
+                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                        </div>
+                        <div class="iq-news-detai iq-pt-15">
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image 555</h5> </a> </div>
+                            <div class="news-content">
+                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image 555</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
                             <div class="news-content">
                                 <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
                             </div>
@@ -117,6 +148,7 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>

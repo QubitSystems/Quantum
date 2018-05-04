@@ -2,12 +2,13 @@
         <div class="footer-top iq-bg iq-bg-fixed iq-over-black-80" style="background-image:url(http://via.placeholder.com/1800x1200); ">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12 iq-mtb-60">
-                        <div class="logo">
-                            <img class="img-fluid" src="images/" alt="# ">
-                            <div class="iq-font-white iq-mt-15 "></div>
+                    <div class="col-sm-12">
+                        <ul class="iq-media-blog">
+                        <li>Terminos y condiciones</li>
+                        <li>Politicas de Privacidad</li>
+                    
+                        </ul>
                         </div>
-                    </div>
                 </div>
             </div>
         </div>

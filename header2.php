@@ -32,13 +32,13 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="logo">
-                            <a href="home.php"><img class="img-fluid" src="images/quantum-color.png" alt="logo"></a>
+                            <a href="inicio.php"><img class="img-fluid" src="images/quantum-color.png" alt="logo"></a>
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
-                                <li><a  href="home.php">Inicio</a>
+                                <li><a  href="inicio.php">Inicio</a>
                                 </li>
-                                <li><a class="active" href="opportunity.php">Oportunidad</a>
+                                <li><a class="active" href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
                                 <li><a href="quantum.php">Quantum</a>
@@ -48,9 +48,13 @@
                                 
                                 </li>
                                 
-                                <li><a href="contact.php">Contacto</a>
+                                <li><a href="contacto.php">Contacto</a>
                                     
                                 </li>
+                                <li><a href="#">Brokers</a>
+                                    
+                                </li>
+                                
                                 <!--<li>
                                     <div class="iq-search"> <a class="search-btn not_click" href="javascript:void(0);"> <span>Search Button</span></a>
                                         <div class="search-box not-click">

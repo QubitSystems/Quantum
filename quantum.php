@@ -64,7 +64,7 @@
         </div>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="home.html">Inicio</a></li>
+                <li class="breadcrumb-item"><a href="inicio.php">Inicio</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Quantum</li>
             </ol>
         </nav>
@@ -103,8 +103,8 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title" >
-                            <h3 class="title iq-tw-5 iq-mb-20">Our Investors</h3>
-                            <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            <h3 class="title iq-tw-5 iq-mb-20">Quantum Club</h3>
+                            <p> </p>
                         </div>
                     </div>
                 </div>
@@ -116,15 +116,14 @@
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/roberto.jpg" alt="" > </div>
                                 <div class="team-description">
-                                    <div class="mt-10">+0123 456 789</div>
-                                    <div class="text-white">support@bitcoin.com</div>
+                                     <div class="team-description">
+                                    <div class="text-white">"Ingeniero,empresario,conferencista,trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"</div>
+                                </div>
                                 </div>
                                 <div class="team-social">
                                     <ul>
-                                        <li> <a href="#"> <i class="ion-social-facebook-outline"></i> </a> </li>
-                                        <li> <a href="#"> <i class="ion-social-twitter-outline"></i> </a> </li>
-                                        <li> <a href="#"> <i class="ion-social-rss-outline"></i> </a> </li>
-                                        <li> <a href="#"> <i class="ion-social-googleplus-outline"></i> </a> </li>
+                                        <li> <a href="https://twitter.com/robertotellou"> <i class="ion-social-twitter-outline"></i> </a> </li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -138,15 +137,11 @@
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/elias.jpg" alt="" > </div>
                                 <div class="team-description">
-                                    <div class="mt-10">+0123 456 789</div>
-                                    <div class="text-white">support@bitcoin.com</div>
+                                    <div class="text-white">"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</div>
                                 </div>
                                 <div class="team-social">
                                     <ul>
-                                        <li> <a href="#"> <i class="ion-social-facebook-outline"></i> </a> </li>
-                                        <li> <a href="#"> <i class="ion-social-twitter-outline"></i> </a> </li>
-                                        <li> <a href="#"> <i class="ion-social-rss-outline"></i> </a> </li>
-                                        <li> <a href="#"> <i class="ion-social-googleplus-outline"></i> </a> </li>
+                                        <li> <a href="https://twitter.com/EliasOrdonezM"> <i class="ion-social-twitter-outline"></i> </a> </li>
                                     </ul>
                                 </div>
                             </div>
@@ -161,87 +156,124 @@
         </section>
         <!-- Team -->
         <!-- pilares -->
-          <div class="main-content">
-        <section class="overview-block-ptb">
+        
+        <div class="main-content">
+            <section class="overview-blocl-ptb">
             <div class="container">
                 <div class="heading-title">
-                            <h3 class="title iq-tw-5 iq-mb-20">Pilares</h3>
+                    <h3 class="title iq-tw-5 iq-mb-20">Pilares</h3>
                 </div>
-                <div class="row">
+                <div class="iq-timeline">
                     <div class="col-md-12">
-                        <div class="iq-timeline">                      
-                            <div class="timeline">
-                                <span class="timeline-icon"></span>
-                                <span class="year"><img class="img-fluid" src="images/valores/1.jpg" alt="" > </span>
-                                <div class="timeline-content">
-                                    <h5 class="iq-font-dark iq-tw-5">Atención impecable al cliente</h5>
-                                    <span>Web Developer</span>
+                     <div class="timeline">
+                            <div class="row">
+                      <span class="timeline-icon"></span>
+                     <div class="timeline-content">
+                            <h5 class="iq-font-dark iq-tw-5">Atención impecable al cliente</h5>
+                                    
                                     <p class="iq-mt-10">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis justo id pulvinar suscipit. Pellentesque rutrum vehicula erat sed dictum. Integer quis turpis magna. Suspendisse tincidunt elit at erat tincidunt, vel vulputate arcu dapibus. Etiam accumsan ornare posuere.
-                                    </p>
-                                </div>
+                                       </p>
                             </div>
-                            <div class="timeline">
-                                <span class="timeline-icon"></span>
-                                <span class="year"><img class="img-fluid" src="images/valores/2.jpg" alt="" ></span>
-                                <div class="timeline-content">
-                                    <h5 class="iq-font-dark iq-tw-5">Comunicación fluida y transparente con nuestros clientes</h5>
-                                    <span>CoinEx</span>
-                                    <p class="iq-mt-10">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis justo id pulvinar suscipit. Pellentesque rutrum vehicula erat sed dictum. Integer quis turpis magna. Suspendisse tincidunt elit at erat tincidunt, vel vulputate arcu dapibus. Etiam accumsan ornare posuere.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="timeline">
-                                <span class="timeline-icon"></span>
-                                <span class="year"><img class="img-fluid" src="images/valores/3.jpg" alt="" ></span>
-                                <div class="timeline-content">
-                                    <h5 class="iq-font-dark iq-tw-5">Compromiso con sus metas y objetivos</h5>
-                                    <span>CoinEx</span>
-                                    <p class="iq-mt-10">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis justo id pulvinar suscipit. Pellentesque rutrum vehicula erat sed dictum. Integer quis turpis magna. Suspendisse tincidunt elit at erat tincidunt, vel vulputate arcu dapibus. Etiam accumsan ornare posuere.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="timeline">
-                                <span class="timeline-icon"></span>
-                                <span class="year"><img class="img-fluid" src="images/valores/4.jpg" alt="" ></span>
-                                <div class="timeline-content">
-                                    <h5 class="iq-font-dark iq-tw-5">Aportar con experiencias de alto valor a todas las personas involucradas</h5>
-                                    <span>CoinEx</span>
-                                    <p class="iq-mt-10">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis justo id pulvinar suscipit. Pellentesque rutrum vehicula erat sed dictum. Integer quis turpis magna. Suspendisse tincidunt elit at erat tincidunt, vel vulputate arcu dapibus. Etiam accumsan ornare posuere.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="timeline">
-                                <span class="timeline-icon"></span>
-                                <span class="year"><img class="img-fluid" src="images/valores/5.jpg" alt="" ></span>
-                                <div class="timeline-content">
-                                    <h5 class="iq-font-dark iq-tw-5">Responsabilidad y profesionalismo</h5>
-                                    <span>CoinEx</span>
-                                    <p class="iq-mt-10">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis justo id pulvinar suscipit. Pellentesque rutrum vehicula erat sed dictum. Integer quis turpis magna. Suspendisse tincidunt elit at erat tincidunt, vel vulputate arcu dapibus. Etiam accumsan ornare posuere.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="timeline">
-                                <span class="timeline-icon"></span>
-                                <span class="year"><img class="img-fluid" src="images/valores/6.jpg" alt="" ></span>
-                                <div class="timeline-content">
-                                    <h5 class="iq-font-dark iq-tw-5">Comportamiento ético y Transparencia</h5>
-                                    <span>CoinEx</span>
-                                    <p class="iq-mt-10">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis justo id pulvinar suscipit. Pellentesque rutrum vehicula erat sed dictum. Integer quis turpis magna. Suspendisse tincidunt elit at erat tincidunt, vel vulputate arcu dapibus. Etiam accumsan ornare posuere.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                           <img class="img-fluid" src="images/valores/1.jpg" alt="" >
                     </div>
+                    
+                            
+                        </div> 
+              
+                             </div>  
+                         
+                    </div>
+                    
+                    <div class="timeline">
+                                <div class="row">
+                            <span class="timeline-icon"></span>
+                            <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" > 
+                           <img class="img-fluid" src="images/valores/2.jpg" alt="" >
+                        </div>
+                            <div class="timeline-content">
+                          <h5 class="iq-font-dark iq-tw-5">Comunicación fluida y transparente con nuestros clientes</h5>
+                                   
+                                    <p class="iq-mt-10">
+                                       </p>
+                            </div>
+                           <br>
+                        </div>
+                   
+                            </div>  
+                    
+                    <div class="col-md-12">
+                     <div class="row">
+                      <span class="timeline-icon"></span>
+                     <div class="timeline-content">
+                            <h5 class="iq-font-dark iq-tw-5">Compromiso con sus metas y objetivos</h5>
+                            
+                                    <p class="iq-mt-10">
+                                        </p>
+                            </div>
+                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                           <img class="img-fluid" src="images/valores/3.jpg" alt="" >
+                    </div>
+                    
+                            
+                        </div>     
+                    </div>
+                    
+                    <div class="timeline">
+                     <div class="row">
+                     <span class="timeline-icon"></span>
+                       <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >           
+                           <img class="img-fluid" src="images/valores/4.jpg" alt="" >      
+                    </div>
+                          <div class="timeline-content">
+                          <h5 class="iq-font-dark iq-tw-5">Aportar con experiencias de alto valor a todas las personas involucradas</h5>
+                                    
+                                    <p class="iq-mt-10">
+                                        </p>
+                        </div> 
+                            <br>
                 </div>
+                            
+                    </div>
+                    
+                    <div class="col-md-12">
+                        <div class="row">
+                            <span class="timeline-icon"></span>
+                            <div class="timeline-content">
+                          <h5 class="iq-font-dark iq-tw-5">Responsabilidad y profesionalismo</h5>
+                                    
+                                    <p class="iq-mt-10">
+                                        </p>
+                            </div>
+                            <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" > 
+                           <img class="img-fluid" src="images/valores/5.jpg" alt="" >
+                        </div>
+                           <br>
+                        </div>
+           
+                    </div>
+                    
+                    <div class="timeline">
+                    <div class="row">
+                            <span class="timeline-icon"></span>
+                            <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" > 
+                           <img class="img-fluid" src="images/valores/6.jpg" alt="">
+                            </div>
+                            <div class="timeline-content">
+                           <h5 class="iq-font-dark iq-tw-5">Comportamiento ético y Transparencia</h5>
+                            
+                                    <p class="iq-mt-10">
+                                       </p>
+                        </div> 
+                       <br>
+                </div>
+                    </div>  
+                
+                 </div>
             </div>
-        </section>
-    </div>
+    </section>
+        </div>
+        <br>
         <!-- pilares end -->
         
     </div>

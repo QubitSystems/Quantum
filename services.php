@@ -241,33 +241,37 @@
             </div>
         </section>
         <!-- Tabing End -->
-        <div class="row">
-                    <div class="col-lg-6 col-md-12 iq-mt-20">
-                        <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/700x700');"></div>
+          <section class="overview-block-ptb pading=45px">
+          <div class="container">
+              <div class="row">
+                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                            <div class="iq-features1">
+                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center">Beneficios de ser un Quantum Manager </h5>
-                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                                <a href="opportunity.html">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"><a href="oportunidad.php">Beneficios de ser un Quantum Manager</a>
+                                </h5>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12 iq-mt-20">
-                        <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/700x700');"></div>
+                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                            <div class="iq-features1">
+                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
                             <div class="iq-blog">
-                                <!--<div class="step">2</div>
+                                <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center">Contacte con un asesor</h5>
-                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                                <a href="contact.html">Read More <i aria-hidden="true" class="ion-ios-arrow-forward"></i></a>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a href="contacto.php">Contacte con un asesor</a></h5>
+                               
                             </div>
                         </div>
                     </div>
-                    
+                
+                      
                 </div>
+            </div>    
+            </section>
+     
        
     </div>
     <!-- Main Content End -->

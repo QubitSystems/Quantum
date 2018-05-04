@@ -36,9 +36,9 @@
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
-                                <li><a class="active" href="home.php">Inicio</a>
+                                <li><a class="active" href="inicio.php">Inicio</a>
                                 </li>
-                                <li><a href="opportunity.php">Oportunidad</a>
+                                <li><a href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
                                 <li><a href="quantum.php">Quantum</a>
@@ -48,9 +48,13 @@
                                 
                                 </li>
                                 
-                                <li><a href="contact.php">Contacto</a>
+                                <li><a href="contacto.php">Contacto</a>
+                                   
+                                </li>
+                                <li><a href="#">Brokers</a>
                                     
                                 </li>
+                                
                                 <!--<li>
                                     <div class="iq-search"> <a class="search-btn not_click" href="javascript:void(0);"> <span>Search Button</span></a>
                                         <div class="search-box not-click">
