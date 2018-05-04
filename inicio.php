@@ -1,43 +1,6 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-    <title>Quantum Club</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
-    <!-- Google Fonts -->
-    <!--link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;Ubuntu:400,500,700" rel="stylesheet"-->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <!-- Magnific Popup CSS -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup/magnific-popup.css" />
-    <!-- owl-carousel CSS -->
-    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.css" />
-    <!-- Animate CSS -->
-    <link rel="stylesheet" type="text/css" href="css/animate.css" />
-    <!-- Font Awesome -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
-    <!-- Ionicons CSS -->
-    <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/shop.css">
-    <!-- REVOLUTION STYLE SHEETS -->
-    <link rel="stylesheet" type="text/css" href="revslider/css/settings.css">
-    <!-- style CSS -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
-    <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
-</head>
-
+<?php include("head.php");?>
 <body>
     <!-- loading -->
     <div id="loading">
@@ -63,7 +26,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="revslider/assets/100x50_b78ec-04.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/slide1.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"  class="rev-slidebg"   data-no-retina>
+                        <img src="revslider/assets/slide1.png" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"  class="rev-slidebg"   data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" id="slide-5-layer-3" data-x="right" data-hoffset="106" data-y="bottom" data-voffset="196" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"x:[100%];y:bottom;opacity:{0,1};","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"><img src="revslider/assets/learning.png" alt="" data-ww="500px" data-hh="400px" data-no-retina> </div>
@@ -88,7 +51,7 @@
 					<!-- SLIDE  -->
                     <li data-index="rs-8" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,default,default,default" data-thumb="" data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/slide1.png" data-bgcolor='#000000' style='background:#000000' alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <img src="revslider/assets/slide1.png" data-bgcolor='#000000' style='background:#000000' alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 26-->
                         <div class="tp-caption   tp-resizeme" id="slide-8-layer-11" data-x="180" data-y="220" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":660,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"><img src="revslider/assets/spear.png" alt="" data-ww="265px" data-hh="263px" data-no-retina> </div>
@@ -109,7 +72,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_bebf9-11.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <img src="revslider/assets/slide2.jpg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 9 -->
                         <div class="tp-caption   tp-resizeme" id="slide-7-layer-6" data-x="center" data-hoffset="" data-y="center" data-voffset="-98" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 72px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Ubuntu;text-transform:uppercase;">Es tu oportunidad</div>

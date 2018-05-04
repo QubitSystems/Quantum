@@ -213,11 +213,9 @@
               <div class="row">
                     <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
-<<<<<<< HEAD
+
                             <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
-=======
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150'); "></div>
->>>>>>> 8f1f42a3bbf42463c79898975575ab8bbccabb36
+                            
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
@@ -232,7 +230,8 @@
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a href="contacto.php">Contacte con un asesor</a></h5>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a href="contacto.php">
+                                    Contacte con un asesor<br><br></a></h5>
                                
                             </div>
                         </div>
