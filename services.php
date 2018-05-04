@@ -213,7 +213,7 @@
               <div class="row">
                     <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150'); "></div>
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->

@@ -41,7 +41,7 @@
                                 <li><a class="active" href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
-                                <li><a  href="quantum.php">Quantum</a>
+                                <li><a href="quantum.php">Quantum</a>
                                     
                                 </li>
                                 <li><a href="services.php">Servicios</a>
@@ -69,3 +69,4 @@
             </div>
         </div>
     </header>
+  
