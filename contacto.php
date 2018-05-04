@@ -64,7 +64,7 @@
         </div>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="home.html">Inicio</a></li>
+                <li class="breadcrumb-item"><a href="inicio.php">Inicio</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Contacto</li>
             </ol>
         </nav>

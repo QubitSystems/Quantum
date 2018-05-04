@@ -1,42 +1,8 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-    <title>Quantum Club</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;Ubuntu:400,500,700" rel="stylesheet">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <!-- Magnific Popup CSS -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup/magnific-popup.css" />
-    <!-- owl-carousel CSS -->
-    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.css" />
-    <!-- Animate CSS -->
-    <link rel="stylesheet" type="text/css" href="css/animate.css" />
-    <!-- Font Awesome -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
-    <!-- Ionicons CSS -->
-    <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/shop.css">
-    <!-- REVOLUTION STYLE SHEETS -->
-    <link rel="stylesheet" type="text/css" href="revslider/css/settings.css">
-    <!-- style CSS -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
-        <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
-
-</head>
+<?php
+    include("head.php");
+    ?>
 
 <body>
     <!-- loading -->
@@ -329,7 +295,6 @@ height: 100%;
                             <img src="images/gold.png">
                                 <figcaption>
                                         <H3>Quantum Gold</H3>
-                                        <br>
                                         <p>$280<br>
 									6 meses<br>
 									200 puntos comisionables</p>
@@ -382,20 +347,57 @@ height: 100%;
         <!-- Paquetes end-->
         <!--Informacion de los paquetes-->
         <!-- Recursos-->
-             <section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('images/'); background-position: center center;">
+           
+            <!-- <section class=" iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('images/quantum.jpg'); background-position: center center;">
                  <div class="container">
-            <div class="row">
+                <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="heading-title">
-                            
+                        <h3 class="title iq-font-white ">Recursos</h3>
                     </div>
                     <p></p>
                 </div>
             </div>
         </div>
-        
-    </section>
-          	
+        </section>-->
+            <div id="contenedor">
+                <h1>Recursos</h1>
+                  <button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Ir</button>
+            </div>
+        <style>
+            #contenedor{
+                background: url("images/quantum.jpg")fixed;
+                max-height: 100%;
+                height: 400px;
+                position: relative;
+                margin:0 auto;
+                padding: 5%;
+                background-size: cover;
+            }
+            #contenedor h1{
+                text-align: center;
+                margin-top: 80px;
+                color: #fff;
+            }
+            .button{
+                display: block;
+                width: 50px;
+                height: 50px;
+                position:absolute;
+                bottom: 0px;
+                left: 50%;
+                border-bottom-left-radius: 50px;
+                border-bottom-right-radius: 50px;
+                background-color: #333333;
+                background-repeat: no-repeat;
+                    
+            }
+            .button:hover{
+                background-color: #494949;
+                cursor: pointer;
+            }
+        </style>
+   
 	<br>
         <!--Fin de recursos
         <section class="overview-block-ptb">
