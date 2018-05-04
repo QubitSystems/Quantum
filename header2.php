@@ -36,22 +36,22 @@
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
-                                <li><a  href="inicio.php">Inicio</a>
+                                <li id="inicio"><a  href="inicio.php">Inicio</a>
                                 </li>
-                                <li><a class="active" href="oportunidad.php">Oportunidad</a>
+                                <li id="oportunidad"><a class="active" href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
-                                <li><a href="quantum.php">Quantum</a>
+                                <li id="quantum"><a href="quantum.php">Quantum</a>
                                     
                                 </li>
-                                <li><a href="services.php">Servicios</a>
+                                <li id="services"><a href="services.php">Servicios</a>
                                 
                                 </li>
                                 
-                                <li><a href="contacto.php">Contacto</a>
+                                <li id="contacto"><a href="contacto.php">Contacto</a>
                                     
                                 </li>
-                                <li><a href="broker.php">Brokers</a>
+                                <li id="broker"><a href="broker.php">Brokers</a>
                                     
                                 </li>
                                 

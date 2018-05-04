@@ -137,21 +137,17 @@
                      <div class="timeline">
                             <div class="row">
                       <span class="timeline-icon"></span>
-                     <div class="timeline-content">
+                            <div class="timeline-content">
                             <h5 class="iq-font-dark iq-tw-5">Atención impecable al cliente</h5>
                                     
                                     <p class="iq-mt-10">
                                        </p>
                             </div>
-                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
-                           <img class="img-fluid" src="images/valores/1.jpg" alt="" >
-                    </div>
-                    
-                            
-                        </div> 
-              
+                                <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                                        <img class="img-fluid" src="images/valores/1.jpg" alt="" >
+                                </div>
+                            </div> 
                              </div>  
-                         
                     </div>
                     
                     <div class="timeline">

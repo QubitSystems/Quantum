@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
     include("head.php");
-    ?>
+ ?>
 
 <body>
     <!-- loading -->
@@ -77,9 +77,7 @@ height: 100%;
                             <li class="nav-item">
                                 <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false">Event 19-Jun-17</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="evensix-tab" data-toggle="tab" href="#evensix" role="tab" aria-controls="evensix" aria-selected="false">Event 20-Jun-17</a>
-                            </li>
+                            
                         </ul>
                         <div class="tab-content iq-mt-30" id="myTabContent">
                             <div class="tab-pane fade show active" id="eventone" role="tabpanel" aria-labelledby="eventone-tab">
