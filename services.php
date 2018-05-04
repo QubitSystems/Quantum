@@ -142,10 +142,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" alt="" src="images/services/big/7.jpg">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/8.jpg"></div>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                             </div>
                             <!--end Trading en Vivo-->
@@ -166,11 +166,11 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" alt="" src="images/services/big/9.jpg">
                                     </div>
                                 </div>
                                                                     
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/10.jpg"></div>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                             </div>
                             <!--end Fondo de Inversion -->
@@ -194,10 +194,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" alt="" src="images/services/big/11.jpg">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/12.jpg"></div>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                             </div>
                             <!--end Portafolio 3.0-->
@@ -213,7 +213,7 @@
               <div class="row">
                     <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
