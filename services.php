@@ -128,7 +128,7 @@
                             <div class="tab-pane fade" id="pills-vivo" role="tabpanel" aria-labelledby="pills-vivo-tab">
                                 
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Trading en Vivo</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Forex Spiner</h3>
                                 </div>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <div class="row">
