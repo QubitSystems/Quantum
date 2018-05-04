@@ -13,12 +13,6 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="topbar-right text-right">
                             <ul class="list-inline">
-                                <!--<li class="list-inline-item">
-                                    <ul class="list-inline iq-left">
-                                        <li class="list-inline-item"><a href="#" data-toggle="modal" data-target=".iq-login" data-whatever="@mdo"><i class="fa fa-lock"></i>Login</a></li>
-                                        <li class="list-inline-item"><a href="#" data-toggle="modal" data-target=".iq-register" data-whatever="@fat"><i class="fa fa-user"></i>Register</a></li>
-                                    </ul>
-                                </li>-->
                                 <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Quantum Academy</a></li>
                                 <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Oficina Virtual</a></li>
                             </ul>
@@ -38,7 +32,7 @@
                             <ul class="menu text-right">
                                 <li id="inicio"><a  href="inicio.php">Inicio</a>
                                 </li>
-                                <li id="oportunidad"><a class="active" href="oportunidad.php">Oportunidad</a>
+                                <li id="oportunidad"><a class="" href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
                                 <li id="quantum"><a href="quantum.php">Quantum</a>

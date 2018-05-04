@@ -216,10 +216,10 @@
 
                             <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
                             
-                            <div class="iq-blog">
+                            <div class="iq-blog"style="background-image: url('images/beneficios.png');">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center"><a href="oportunidad.php">Beneficios de ser un Quantum Manager</a>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center" style="color:#fff"><a href="oportunidad.php">Beneficios de ser un Quantum Manager</a>
                                 </h5>
                             </div>
                         </div>
@@ -227,10 +227,10 @@
                     <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
                             <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
-                            <div class="iq-blog">
+                            <div class="iq-blog "style="background-image: url('images/beneficios.png');">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a href="contacto.php">
+                                <h5 class="iq-tw-5 iq-mt-20 text-center" style="color:#fff"> <a href="contacto.php">
                                     Contacte con un asesor<br><br></a></h5>
                                
                             </div>

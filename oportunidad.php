@@ -245,8 +245,8 @@ height: 100%;
                     <div class="col-lg-12 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
                             <div class="iq-bg" style="background-image: url('images/evento.png');"></div>
-                            <div class="iq-blog">
-                                <h5 class="iq-tw-5 iq-mt-20 text-center">¿Quiere ser parte del proximo evento?
+                            <div class="iq-blog" style="background-image: url('images/evento.png');">
+                                <h5 class="iq-tw-5 iq-mt-20 text-center " style="color:#fff">¿Quiere ser parte del proximo evento?
                                    <br> <a href="contacto.php"> Contactanos</a></h5>
                             </div>
                         </div>
