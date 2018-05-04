@@ -51,19 +51,13 @@ include("head.php");
                                  </div>           
                     <div class="col-lg-4 col-md-6 offset=-1 align-self-center text-center" >
                         <figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/">
-                                <figcaption>
-                                    <h3></h3>
-                                    
-                                    <br>
-                                    <a href="#"></a>
-                                </figcaption>
+                            <img src="images/broker1.png">
                         </figure>
                     </div>
                    
                     <div class="col-lg-4 col-md-6 offset=-1 align-self-center text-center" >
 						<figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/">
+                            <img src="images/broker2.png">
                                 <figcaption>
                                         <H3></H3>
                                         <br>
