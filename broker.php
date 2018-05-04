@@ -41,9 +41,9 @@ include("head.php");
     <div class="main-content">
         <!-- Contact Us -->
                     
-               <section class="overview-block-ptb iq-feature-aria">
+               <section class="overview-block-ptb iq-feature-aria pading=45px">
         <div class="container" style="height:500px;">
-                 <div class="box">
+                 <div class="broker">
                     <div class="container">
                              <div class="row">
                     
@@ -52,6 +52,12 @@ include("head.php");
                     <div class="col-lg-4 col-md-6 offset=-1 align-self-center text-center" >
                         <figure class="imghvr-shutter-out-diag-1">
                             <img src="images/broker1.png">
+                                <figcaption>
+                                    <h3></h3>
+                                    
+                                    <br>
+                                    <a href="#"></a>
+                                </figcaption>
                         </figure>
                     </div>
                    
