@@ -32,7 +32,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="logo">
-                            <a href="home.php"><img class="img-fluid" src="images/quantum-white.png" alt="logo"></a>
+                            <a href="inicio.php"><img class="img-fluid" src="images/quantum-white.png" alt="logo"></a>
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
