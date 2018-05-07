@@ -1315,12 +1315,12 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
 .iq-timeline .timeline:last-child:before { top: auto; bottom: 0; }
 .iq-timeline .timeline-icon { width: 18px; height: 18px; border-radius: 50%; background: #fff; border: 2px solid #f7f7f7; box-sizing: content-box; margin: auto; position: absolute; top: 0; left: 0; bottom: 0; right: -4px; }
 .iq-timeline .timeline-icon:before { content: ""; display: block; width: 8px; height: 8px; border-radius: 50%; background: #f9b707; margin: auto; position: absolute; top: 0; left: 0; bottom: 0; right: 0; }
-.iq-timeline .year { display: inline-block; padding: 8px 20px; margin: 0; font-size: 14px; color: #fff; background: #f9b707; text-align: center; position: absolute; top: 50%; right: 35%; transform: translateY(-50%); }
+.iq-timeline .year { display: inline-block; padding: 8px 20px; margin: 0; font-size: 12.5px; color: #fff; background: #f9b707; text-align: center; position: absolute; top: 50%; right: 20%; transform: translateY(-50%); }
 .iq-timeline .year:before { content: ""; border-right: 18px solid #f9b707; border-top: 20px solid transparent; border-bottom: 20px solid transparent; position: absolute; top: 0; left: -18px; }
 .iq-timeline .timeline-content { border-radius: 3px; width: 46.5%; padding: 30px; margin: 0 20px 0 0; background: #f7f7f7; position: relative; }
 .iq-timeline .timeline-content:after { content: ""; border-left: 20px solid #f7f7f7; border-top: 20px solid transparent; border-bottom: 20px solid transparent; position: absolute; top: 50%; right: -20px; transform: translateY(-50%); }
 .iq-timeline .timeline:nth-child(2n) { padding: 0 0 0 30px; }
-.iq-timeline .timeline:nth-child(2n) .year { right: auto; left: 35%; }
+.iq-timeline .timeline:nth-child(2n) .year { right: auto; left: 20%; }
 .iq-timeline .timeline:nth-child(2n) .year:before { border: 20px solid transparent; border-right: none; border-left: 18px solid #f9b707; left: auto; right: -18px; }
 .iq-timeline .timeline:nth-child(2n) .timeline-content { float: right; margin: 0 0 0 20px; }
 .iq-timeline .timeline:nth-child(2n) .timeline-content:after { border-left: none; border-right: 20px solid #f7f7f7; right: auto; left: -20px; }

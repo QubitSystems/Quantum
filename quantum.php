@@ -84,8 +84,8 @@
                         <div class="iq-team1 text-center iq-mtb-15">
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/roberto.jpg" alt="" > </div>
-                                <div class="team-description">
-									"Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"
+                                <div class="team-description"><div class="text-white">
+									"Ingeniero, empresario,<br> conferencista, trader profesional,<br> experto en sistema de gestion de calidad y procesos,<br>lector apasionado y<br> Black Velvet en Lean Six Sigma"</div>
 								</div>
                                 <div class="team-social">
                                     <ul>
@@ -104,7 +104,7 @@
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/elias.jpg" alt="" > </div>
                                 <div class="team-description">
-                                    <div class="text-white">"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</div>
+                                    <div class="text-white"style="text-align:center;">" Empresario, conferencista,<br>escritor, experto en marketing, apasionado por la estrategia y liderazgo."</div>
                                 </div>
                                 <div class="team-social">
                                     <ul>
@@ -124,7 +124,7 @@
         <!-- Team -->
         <!-- pilares -->
         
-        <div class="main-content">
+       <!-- <div class="main-content">
             <section class="overview-blocl-ptb">
             <div class="container">
                 <div class="heading-title">
@@ -235,9 +235,64 @@
             </div>
     </section>
         </div>
-        <br>
-        <!-- pilares end -->
+        <br>-->
         
+        <!-- pilares end -->
+        <div class="main-content">
+        <section class="overview-block-ptb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="iq-timeline">
+                            <div class="timeline">
+                                <span class="timeline-icon"></span>
+                                <span class="year"  >Atención impecable al cliente</span>
+                                <div class="timeline-content">
+                                    <img class="img-fluid" src="images/valores/1.jpg" alt="" >
+                                </div>
+                            </div>
+                            <div class="timeline">
+                                <span class="timeline-icon"></span>
+                                <span class="year" style="left:5%">Comunicación fluida y transparente con nuestros clientes</span>
+                                <div class="timeline-content">
+                                    <img class="img-fluid" src="images/valores/2.jpg" alt="" >
+                                </div>
+                            </div>
+                            <div class="timeline">
+                                <span class="timeline-icon"></span>
+                                <span class="year">Compromiso con sus metas y objetivos</span>
+                                <div class="timeline-content">
+                                    <img class="img-fluid" src="images/valores/3.jpg" alt="" >
+                                </div>
+                            </div>
+                            <div class="timeline">
+                                <span class="timeline-icon"></span>
+                                <span class="year" style="left:5%">Aportar con experiencias de alto valor a las personas involucradas</span>
+                                <div class="timeline-content">
+                                    <img class="img-fluid" src="images/valores/4.jpg" alt="" >
+                                </div>
+                            </div>
+                            <div class="timeline">
+                                <span class="timeline-icon"></span>
+                                <span class="year">Responsabilidad y profesionalismo</span>
+                                <div class="timeline-content">
+                                    <img class="img-fluid" src="images/valores/5.jpg" alt="" >
+                                </div>
+                            </div>
+                            <div class="timeline">
+                                <span class="timeline-icon"></span>
+                                <span class="year">Comportamiento ético y Transparente</span>
+                                <div class="timeline-content">
+                                    <img class="img-fluid" src="images/valores/6.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
     </div>
     <!-- Main Content End -->
     <!--=================================

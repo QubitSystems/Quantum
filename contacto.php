@@ -104,13 +104,13 @@
                         <form class="form-horizontal" id="contactform" method="post" action="../php/contact-form.php">
                             <div class="contact-form">
                                 <div class="section-field iq-mb-30">
-                                    <input id="name" type="text" placeholder="Nombre*" name="name">
+                                    <input id="name" type="text" placeholder="Nombre*" name="name"  >
                                 </div>
                                 <div class="section-field iq-mb-30">
                                     <input id="email" type="text" placeholder="Email*" name="email">
                                 </div>
                                 <div class="section-field iq-mb-30">
-                                    <input id="phone" type="text" placeholder="Telefono*" name="phone">
+                                    <input id="phone" type="text" placeholder="Telefono*" pattern="[0-9]{9}"name="phone">
                                 </div>
                                 <div class="section-field iq-mb-30">
                                     <textarea class="input-message" placeholder="Commentario*" name="message"></textarea>
@@ -165,6 +165,7 @@ Footer -->
     <script src="js/particles.js "></script>
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
+  
 </body>
 
 </html>

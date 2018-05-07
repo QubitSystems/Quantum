@@ -55,16 +55,13 @@
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">Simply dummy text of the Lorem Ipsum is printing and type setting. lorem Ipsum is simply dummy text of the printing.</li>
-                                            <li class="iq-mt-15">Dummy text of the printing and typesetting industry.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been. lorem Ipsum is simply dummy text of the printing.</li>
-                                        </ul>
+                                            <li class="iq-mt-15">Recibe las mejores proyecciones de inversion en tu celular por parte de los especialistas y profesionales</li>
+                                            <li class="iq-mt-15">Apalancate del conocimiento y experiencia en los mercados financieros de nuestros staff y comienza a ganar dinero como los expertos</li>
+                                    </ul>
                                     </div>
                                     <div class="col-sm-6">
                                         <img class="img-fluid" alt="" src="images/services/big/1.jpg">
@@ -72,23 +69,21 @@
                                 </div>
                                 
                                 <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/2.jpg"></div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p style="text-align:center">  "HAZ DINERO OPERANDO COMO LOS PROFESIONALES DEL TRADING"</p>
                             </div>
                             <!--end servicio Proyecciones Quantum-->
                             <!--servicio  Trading Vip-->
                             <div class="tab-pane fade" id="pills-vip" role="tabpanel" aria-labelledby="pills-vip-tab">
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Trading en Vivo</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Trading VIP</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Es un servicio de gestión exclusiva en el cual nuestros asesores y analistas detectaran las mejores oportunidades del mercado para brindarte asi las herramientas correctas con el servicio correcto y hacer que el dinero trabaje para ti de manera mas simple  </p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>
-                                            <li class="iq-mt-15">Dummy text of the printing and typesetting industry.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
+                                            <li class="iq-mt-15">Servicio exclusivo de gestion.</li>
+                                            <li class="iq-mt-15">Alternativa de inversion que no requiere de tiempo ni experiencia.</li>
+                                            <li class="iq-mt-15">Servicio que pone a trabajar tu dinero de manera automatica por nuestros especialistas.</li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -96,7 +91,7 @@
                                     </div>
                                 </div>
                                 <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/4.jpg"></div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p style="text-align:center">"ALTERNATIVA DE INVERSION QUE NO REQUIERE TIEMPO NI EXPERIENCIA"</p>
                             </div>
                             <!--end servicio Trading Vip-->
                             <!-- quantum academy-->
@@ -105,23 +100,24 @@
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20">Quantum Academy</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Fórmate como trader profesional con nosotros. Quantum Academy es la primera escuela on-line de aprendizaje dinámico y eficiente, nuestros profesores te tomarán de la mano y te guiarán en cada uno de nuestros módulos con el objetivo de que te convertirte en un trader apto para dar sus primeros pasos firmes en el mercado.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>
-                                            <li class="iq-mt-15">Dummy text of the printing and typesetting industry.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
+                                            <li class="iq-mt-15">La mejor educacion financiera y bursatil en una sola plataforma.</li>
+                                            <li class="iq-mt-15">Formate como un inversionista trader exitoso</li>
+                                            <li class="iq-mt-15">Formate como un experto en inversiones blockchian y criptomonedas</li>
+                                            
                                         </ul>
                                     </div>
+                                    
                                     <div class="col-sm-6">
                                         <img class="img-fluid" alt="" src="images/services/big/5.jpg">
                                     </div>
                                 </div>
+                                <br>
                                 <div class="iq-mb-20"><img class="img-fluid" alt="" src="images/services/big/6.jpg"></div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. aqui toy</p>
+                                <p style="text-align:center">“APRENDE DE LOS MEJORES PARA SER EL MEJOR”</p>
                             </div>
                             <!--end quantum academy-->
                             <!-- servicio trading en vivo-->
@@ -154,15 +150,16 @@
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20">Fondo de Inversion </h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Invierte y ahorra para tu futuro mediante nuestro servicio de ahorro e inversion.<br>Quantum Club te ofrece un plan de ahorro e inversión de alta rentabilidad basados en activos tecnológicos.Respaldada en nuestra criptomoneda SPEAR como principal activo digital, como oferta inicial solo estaran disponibles 1 000 000 de unidades. </p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>
-                                            <li class="iq-mt-15">Dummy text of the printing and typesetting industry.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
+                                            <li class="iq-mt-15">Inversion hecha a 12 meses.</li>
+                                            <li class="iq-mt-15">Rentabilidad fija y variable.</li>
+                                            <li class="iq-mt-15">Exclusivo para socios y clientes de Quantum Club.</li>
+                                            <li class="iq-mt-15">Respaldada en nuestra criptomoneda SPEAR como principal activo digital.</li>
+                                            
+                                            
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -171,7 +168,7 @@
                                 </div>
                                                                     
                                 <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/10.jpg"></div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p></p>
                             </div>
                             <!--end Fondo de Inversion -->
                             <!--servicio portafolio 3.0-->
@@ -182,15 +179,14 @@
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20">Portafolio 3.0</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Descubre como crear tu propio portafolio en criptomonedas con servicios hechos a tu medida y necesidad ademas descubre la forma correcta de hacer que el dinero trabaje para ti.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>
-                                            <li class="iq-mt-15">Dummy text of the printing and typesetting industry.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
-                                            <li class="iq-mt-15">Text of the printing and typesetting industry Lorem Ipsum has been.</li>
+                                            <li class="iq-mt-15">Servicios hechos a tú medida y necesidad.</li>
+                                            <li class="iq-mt-15">Recibe la mejor formacion financiera y bursatil.</li>
+                                            <li class="iq-mt-15">El portafolio de divisas mas completo.</li>
+                                            <li class="iq-mt-15">Servicio exclusivo de proyección y asesoria.</li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -198,7 +194,7 @@
                                     </div>
                                 </div>
                                 <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/12.jpg"></div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p style="text-align:center">"Servicios hechos a tú medida y necesidad"</p>
                             </div>
                             <!--end Portafolio 3.0-->
                         </div>

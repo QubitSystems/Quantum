@@ -3,10 +3,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <ul class="iq-media-blog">
-                        <li>Terminos y condiciones</li>
-                        <li>Politicas de Privacidad</li>
-                    
+                        <ul class="iq-media-blog" style="text-align:center">
+                        <li>Terminos y condiciones</li><br>
+                        <li>Politicas de Privacidad</li><br>
+                            <li>Politicas  de Reembolso y cancelacion</li><br>
+                            <li>Politicas de Spam</li><br>
+                        <li>SBS Noticias</li><br>
                         </ul>
                         </div>
                 </div>
@@ -25,6 +27,9 @@
                           
                             <li><a href="https://www.youtube.com/channel/UCy9sL3sAOfd-ITiOUDRDSGA/videos"><i class="fa fa-youtube "></i></a></li>
                         </ul>
+                    </div>
+                    <div class="col-sm-12" style="text-align:center">
+                        <li>Desarrollado por<a> Qubit</a></li>
                     </div>
                 </div>
             </div>
