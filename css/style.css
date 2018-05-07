@@ -580,7 +580,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid #e0e0e0; border-top: 0px;
 /*----------------------------------------------------------------------
                                  Buttons
 -----------------------------------------------------------------------*/
-.button { background: #f9b707; font-size: 16px; color: #ffffff; padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
+.button { background: #f9b707; font-size: 16px; color: #ffffff; padding: 10px 20px; margin-right: 0; border-radius: 20px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
 .button:hover, .button:focus { color: #ffffff; background: #151d2e; }
 .button.dark { background: #151d2e; font-size: 16px; color: #ffffff; padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
 .button.dark:hover, .button.dark:focus { color: #ffffff; background: #f9b707; }
@@ -1026,8 +1026,8 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
 **************************************/
 .iq-team1 .team-blog { position: relative; text-align: center; overflow: hidden;  }
 .iq-team1 .team-blog:before { position: absolute; content: ""; width: 100%; height: 100%; left: 0; top: 0; background: rgba(0, 0, 0, 0.8); opacity: 0;}
-.iq-team1 .team-blog .team-description { position: absolute; width: 100%; bottom: 0%; left: 0; color: #fff; margin-top: -20px; padding: 0; opacity: 0; font-size: 16px; }
-.iq-team1 .team-blog .team-description a:hover { color: #222222; }
+.iq-team1 .team-blog .team-description {position: absolute; width: 90%; bottom: 0%; left: 0; color: #fff; margin-top: -20px; padding: 0; opacity: 0; font-size: 16px; }
+.iq-team1 .team-blog .team-description a:hover {color: #222222; }
 .iq-team1 .team-blog:hover:before { opacity: 0.8; }
 .iq-team1 .team-blog .team-social { position: absolute; left: 0; bottom: 0%; width: 100%; opacity: 0; }
 .iq-team1 .team-blog .team-social ul { width: 100%; display: inline-block; padding: 0px 10px; }

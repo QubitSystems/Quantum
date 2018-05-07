@@ -55,7 +55,7 @@ height: 100%;
                     <div class="col-sm-12">
                         <div class="heading-title">
                             <h3 class="title iq-tw-5 iq-mb-20">Nuestros Eventos</h3>
-                            <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p>Contando siempre con asistencia masiva conoce nuestros eventos semanales y mensuales en distintos puntos de la ciudad y del país.</p>
                         </div>
                     </div>
                 </div>
@@ -63,19 +63,19 @@ height: 100%;
                     <div class="col-lg-12">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" id="eventone-tab" data-toggle="tab" href="#eventone" role="tab" aria-controls="eventone" aria-selected="true">Event 15-Jun-17</a>
+                                <a class="nav-link active" id="eventone-tab" data-toggle="tab" href="#eventone" role="tab" aria-controls="eventone" aria-selected="true">Evento 15-Dic-17</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventwo-tab" data-toggle="tab" href="#eventwo" role="tab" aria-controls="eventwo" aria-selected="false">Event 16-Jun-17</a>
+                                <a class="nav-link" id="eventwo-tab" data-toggle="tab" href="#eventwo" role="tab" aria-controls="eventwo" aria-selected="false">Evento 16-Ene-18</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventhree-tab" data-toggle="tab" href="#eventhree" role="tab" aria-controls="eventhree" aria-selected="false">Event 17-Jun-17</a>
+                                <a class="nav-link" id="eventhree-tab" data-toggle="tab" href="#eventhree" role="tab" aria-controls="eventhree" aria-selected="false">Evento 17-Feb-18</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventfour-tab" data-toggle="tab" href="#eventfour" role="tab" aria-controls="eventfour" aria-selected="false">Event 18-Jun-17</a>
+                                <a class="nav-link" id="eventfour-tab" data-toggle="tab" href="#eventfour" role="tab" aria-controls="eventfour" aria-selected="false">Evento 19-Mar-18</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false">Event 19-Jun-17</a>
+                                <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false">Evento 20-Abr-18</a>
                             </li>
                             
                         </ul>
@@ -85,12 +85,12 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img src="images/eventos/desayuno.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10">Desayuno Quantico</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Rinks Cooper</div>
+                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9.00 AM TO 10.00 AM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>MSG Ground, Hall 1, USA</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
                             </div>
@@ -99,12 +99,12 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img src="images/eventos/trading-day.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10">Trading Day Noviembre</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Rinks Cooper</div>
+                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9.00 AM TO 10.00 AM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>MSG Ground, Hall 1, USA</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
                             </div>
@@ -113,12 +113,12 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img src="images/eventos/casa-andina.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10">Casa Andina</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Rinks Cooper</div>
+                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span>  Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9.00 AM TO 10.00 AM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>MSG Ground, Hall 1, USA</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
                             </div>
@@ -127,12 +127,12 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img src="images/eventos/jdgomez.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10">Juan Diego Gómez en Lima</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Rinks Cooper</div>
+                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span>  Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9.00 AM TO 10.00 AM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>MSG Ground, Hall 1, USA</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
                             </div>
@@ -141,12 +141,12 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img src="images/eventos/presentacion.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10">Pre Lanzamiento</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Rinks Cooper</div>
+                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9.00 AM TO 10.00 AM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>MSG Ground, Hall 1, USA</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
                             </div>
@@ -155,12 +155,12 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img src="images/feature/02.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10">Lorem Ipsum is simply dummy text.</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Rinks Cooper</div>
+                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9.00 AM TO 10.00 AM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>MSG Ground, Hall 1, USA</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
                             </div>
@@ -260,7 +260,7 @@ height: 100%;
                     <div class="col-sm-12">
                         <div class="heading-title">
                             <h3 class="title iq-tw-5 iq-mb-20">Nuestros paquetes</h3>
-                            <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            <p>Decídete por uno de nuestros paquetes de inicio para socios.</p>
                         </div>
                     </div>
                 </div>
@@ -386,12 +386,12 @@ height: 100%;
                 left: 50%;
                 border-bottom-left-radius: 50px;
                 border-bottom-right-radius: 50px;
-                background-color: #333333;
+                background-color: #f9b707;
                 background-repeat: no-repeat;
                     
             }
             .button:hover{
-                background-color: #494949;
+                background-color: #365573;
                 cursor: pointer;
             }
         </style>

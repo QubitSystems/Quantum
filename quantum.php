@@ -85,10 +85,8 @@
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/roberto.jpg" alt="" > </div>
                                 <div class="team-description">
-                                     <div class="team-description">
-                                    <div class="text-white">"Ingeniero,empresario,conferencista,trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"</div>
-                                </div>
-                                </div>
+									"Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"
+								</div>
                                 <div class="team-social">
                                     <ul>
                                         <li> <a href="https://twitter.com/robertotellou"> <i class="ion-social-twitter-outline"></i> </a> </li>
