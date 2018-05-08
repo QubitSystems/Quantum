@@ -67,9 +67,9 @@
         
       
         <!-- Equipo -->
-        <section class="overview-block-ptb">
+         <section class="overview-block-ptb">
             <div class="container">
-                <div class="row">
+               <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title" >
                             <h3 class="title iq-tw-5 iq-mb-20">Quantum Club</h3>
@@ -77,7 +77,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row " >
+              <!--  <div class="row " >
                     <div class="col-lg-2">
                     </div>
                     <div class="col-lg-4 col-md-5" >
@@ -85,7 +85,7 @@
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/roberto.jpg" alt="" > </div>
                                 <div class="team-description"><div class="text-white">
-									"Ingeniero, empresario,<br> conferencista, trader profesional,<br> experto en sistema de gestion de calidad y procesos,<br>lector apasionado y<br> Black Velvet en Lean Six Sigma"</div>
+									Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"</div>
 								</div>
                                 <div class="team-social">
                                     <ul>
@@ -104,7 +104,7 @@
                             <div class="team-blog">
                                 <div class="team-images"> <img class="img-fluid" src="images/team/elias.jpg" alt="" > </div>
                                 <div class="team-description">
-                                    <div class="text-white"style="text-align:center;">" Empresario, conferencista,<br>escritor, experto en marketing, apasionado por la estrategia y liderazgo."</div>
+                                    <div class="text-white">"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</div>
                                 </div>
                                 <div class="team-social">
                                     <ul>
@@ -118,124 +118,157 @@
                     </div>
     
                
+                </div>-->
+                <div class="row">
+                    <div class="col-lg-2"></div>
+                    <div class="col-lg-4 col-xs-2 col-md-5">
+                        <!-- normal -->
+                        <div class="ih-item square effect7"><a>
+                            <div class="img"><img src="images/team/roberto.jpg" alt=""></div>
+                            <div class="info">
+                            <br>
+                            <p><br><br><br>Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma</p>
+                            </div></a></div>
+                        <!-- end normal -->  
+                            <h6 class="iq-tw-6 iq-mt-10" style="text-align:center"><a href="https://twitter.com/robertotellou">Roberto Tello</a></h6>
+                            <p style="text-align:center">CEO, Founder</p>
+                    </div>
+                     
+                    <div class="col-lg-4 col-md-5">
+                        <!-- normal -->
+                        <div class="ih-item square effect7"><a>
+                            <div class="img"><img src="images/team/elias.jpg" alt=""></div>
+                            <div class="info">
+                            <br>
+                            <p><br><br><br>"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</p>
+                            </div></a></div>
+                        <!-- end normal -->
+                           <h6 class="iq-tw-6 iq-mt-10" style="text-align:center;"><a a href="https://twitter.com/EliasOrdonezM">Elías Ordoñez</a></h6>
+                            <p style="text-align:center;">CFO, Founder</p>
+                            
+                    </div>
+                      
                 </div>
             </div>
         </section>
+          <section class="overview-block-ptb iq-feature-aria pading=45px"></section>
+        <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-about-us" style="background-image: url('http://via.placeholder.com/2000x1080'); background-position: left center;">
+            <div class="container">
+                <div class="row">
+                    
+                       <div class="contenedor-img">
+                            <div class="card">
+                             <div class="card-line">
+                            <img class="img-estilo" src="images/valores/1.jpg">
+                                 <div class="card-number" style="color:#fff">01</div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                       <div class="contenedor-img">
+                            <div class="card">
+                             <div class="card-line">
+                            <img class="img-estilo" src="images/valores/2.jpg">
+                                 <div class="card-number" style="color:#fff">02</div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    <br>
+                      <div class="contenedor-img">
+                            <div class="card">
+                             <div class="card-line">
+                            <img class="img-estilo" src="images/valores/3.jpg">
+                                 <div class="card-number" style="color:#fff">03</div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    <br>
+                      <div class="contenedor-img">
+                            <div class="card">
+                             <div class="card-line">
+                            <img class="img-estilo" src="images/valores/4.jpg">
+                                 <div class="card-number" style="color:#fff">04</div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    <br>
+                       <div class="contenedor-img">
+                            <div class="card">
+                             <div class="card-line">
+                            <img class="img-estilo" src="images/valores/5.jpg">
+                                </div>
+                                <div class="card-number" style="color:#fff">05</div>
+                            </div>
+                           
+                        </div>
+                    <br>    
+                        <div class="contenedor-img">
+                            <div class="card">
+                             <div class="card-line">
+                                 <div class="scrool-parallax" style="transform: matrix(1,0,0,1,0,32,4853);">
+                                     
+                               <img class="img-estilo" src="images/valores/6.jpg">
+                                 </div>
+                                <div class="card-number" style="color:#fff">06</div>
+                                 <div class="card-strocker" style="background:#fff;"></div>
+                                 <div class="card-img">
+                                 <div class="card-img-in" style="witdh=1356px;height:396px;top:-87px;left:auto;right-226px;">
+                                     <div class="img-corp">
+                                     <img data-src="images/valores/6.jpg">
+                                     
+                                     </div>
+                                     
+                                    </div>
+                                 </div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                        <br>
+                
+                </div>
+            </div>
+        </section>
+        <style>
+            .contenedor-img{position: relative;height: 80vh;display: webkit box;display: flex;-webkit-box-align:center;align-items: center;-webkit-box-pack:center;justify-content: center;z-index: 1;-ms-flex pack:center;}
+            .card{text-decoration: none;display: block;position: relative;height: 56%;width: 66.6666667%;z-index: 10;}
+            a{color: inherit;margin:0;padding: 0;border: 0;vertical-align: baseline;font-style: inherit;}
+            *,:after,:before{box-sizing: border-box;}
+            a:-webkit-any-link{color: webkit-link;cursor: pointer;text-decoration: underline;}
+            
+            *,:after,:before{box-sizing: border-box;}
+            article{display: block;} section{margin: 0;padding: 0;border: 0;vertical-align: baseline;font-style:inherit;}
+            .card::nth-child(even) .card-line{text-align: center;right: 0;}
+            
+            @media only screen and (max-width:989px)and (min-width:661px).card-subtitle{font-size:3vw;}
+            .card-subtitle{font-size:32px;font-size: 2rcm;font-size: 2.5vw;font-family: "Montserrat",sans-serif;font-weight: 100;}
+            h4{ font-weight: inherit;font-size: inherit;margin:0;padding: 0;border:0;vertical-align: baseline;font-style: inherit;}
+            *,:after,:before{box-sizing: border-box;}
+            h4{display: block;-webkit-margin-before:1.33em;-webkit-margin-after:1.33em;-webkit-margin-start:0px;-webkit-margin-end:0px;font-weight: bold;}
+            
+            .card::nth-child(odd).card-number{right:20px;}
+            .card-number{position: absolute;bottom:20px;line-height: .75;font-size: 8rem;font-family: "Monserrat",sans-serif;font-weight: 900;}
+            .card:nth-child(odd).card-stroke{transform-origin: 100% 50%; -webkit-transform-origin:100% 50%;}
+            .card:nth-child(odd).card-stroke{right: 0;}
+            .card-stroke{position: absolute;top: 100%;width: 25%;height: 10px;}
+            .card:nth-child(odd).card-img{right: 0;}
+            .card-img{position: absolute;top:0;width: 75%;height: 100%;z-index: -1;background: #000;overflow: hidden;}
+            .card-img-in{position: absolute;filter:grayscale(1);transition: 1s filter;} div{display: block;}
+            .img-corp{position: absolute;top:0;right: 0;bottom: 0;left: 0;overflow: hidden;} 
+            .img-corp>img{position: absolute;top: 50%;left: 50%;width: 101%;transform: translate(50%, 50%);}
+            
+            .img-estilo{filter: grayscale(100%); -webkit-filter:grayscale(100%);display: block;margin-left: auto; margin-right: 50%;;margin-top: 20px;}
+            .img-estilo{filter: grayscale(100%);-webkit-filter:grayscale(100%); transition: filter 0.4s;-webkit-transition:-webkit-filter 1s;}
+            .img-estilo:hover{filter: grayscale(0);-webkit-filter:grayscale(0);
+            }
+        </style>
+        <section class="overview-block-ptb iq-feature-aria pading=45px"></section>
         <!-- Team -->
         <!-- pilares -->
         
-       <!-- <div class="main-content">
-            <section class="overview-blocl-ptb">
-            <div class="container">
-                <div class="heading-title">
-                    <h3 class="title iq-tw-5 iq-mb-20">Pilares</h3>
-                </div>
-                <div class="iq-timeline">
-                    <div class="col-md-12">
-                     <div class="timeline">
-                            <div class="row">
-                      <span class="timeline-icon"></span>
-                            <div class="timeline-content">
-                            <h5 class="iq-font-dark iq-tw-5">Atención impecable al cliente</h5>
-                                    
-                                    <p class="iq-mt-10">
-                                       </p>
-                            </div>
-                                <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
-                                        <img class="img-fluid" src="images/valores/1.jpg" alt="" >
-                                </div>
-                            </div> 
-                             </div>  
-                    </div>
-                    
-                    <div class="timeline">
-                                <div class="row">
-                            <span class="timeline-icon"></span>
-                            <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" > 
-                           <img class="img-fluid" src="images/valores/2.jpg" alt="" >
-                        </div>
-                            <div class="timeline-content">
-                          <h5 class="iq-font-dark iq-tw-5">Comunicación fluida y transparente con nuestros clientes</h5>
-                                   
-                                    <p class="iq-mt-10">
-                                       </p>
-                            </div>
-                           <br>
-                        </div>
-                   
-                            </div>  
-                    
-                    <div class="col-md-12">
-                     <div class="row">
-                      <span class="timeline-icon"></span>
-                     <div class="timeline-content">
-                            <h5 class="iq-font-dark iq-tw-5">Compromiso con sus metas y objetivos</h5>
-                            
-                                    <p class="iq-mt-10">
-                                        </p>
-                            </div>
-                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
-                           <img class="img-fluid" src="images/valores/3.jpg" alt="" >
-                    </div>
-                    
-                            
-                        </div>     
-                    </div>
-                    
-                    <div class="timeline">
-                     <div class="row">
-                     <span class="timeline-icon"></span>
-                       <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >           
-                           <img class="img-fluid" src="images/valores/4.jpg" alt="" >      
-                    </div>
-                          <div class="timeline-content">
-                          <h5 class="iq-font-dark iq-tw-5">Aportar con experiencias de alto valor a todas las personas involucradas</h5>
-                                    
-                                    <p class="iq-mt-10">
-                                        </p>
-                        </div> 
-                            <br>
-                </div>
-                            
-                    </div>
-                    
-                    <div class="col-md-12">
-                        <div class="row">
-                            <span class="timeline-icon"></span>
-                            <div class="timeline-content">
-                          <h5 class="iq-font-dark iq-tw-5">Responsabilidad y profesionalismo</h5>
-                                    
-                                    <p class="iq-mt-10">
-                                        </p>
-                            </div>
-                            <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" > 
-                           <img class="img-fluid" src="images/valores/5.jpg" alt="" >
-                        </div>
-                           <br>
-                        </div>
-           
-                    </div>
-                    
-                    <div class="timeline">
-                    <div class="row">
-                            <span class="timeline-icon"></span>
-                            <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" > 
-                           <img class="img-fluid" src="images/valores/6.jpg" alt="">
-                            </div>
-                            <div class="timeline-content">
-                           <h5 class="iq-font-dark iq-tw-5">Comportamiento ético y Transparencia</h5>
-                            
-                                    <p class="iq-mt-10">
-                                       </p>
-                        </div> 
-                       <br>
-                </div>
-                    </div>  
-                 </div>
-            </div>
-    </section>
-        </div>
-        <br>-->
         
         <!-- pilares end -->
         <div class="main-content">
