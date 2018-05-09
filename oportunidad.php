@@ -364,7 +364,11 @@ height: 100%;
             </div>
         <style>
             #contenedor{
-                background: url("images/quantum.jpg")fixed;
+                background: url("images/quantum.jpg")no-repeat center center fixed;
+                -webkit-background-size:cover;
+                -moz-background-size:cover;
+                -o-background-size:cover;
+                background-size: cover;
                 max-height: 100%;
                 height: 400px;
                 position: relative;
@@ -376,6 +380,7 @@ height: 100%;
                 text-align: center;
                 margin-top: 80px;
                 color: #fff;
+                font-size:2.5em;
             }
             .button{
                 display: block;

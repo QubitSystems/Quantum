@@ -225,7 +225,7 @@
                                     <br>
                                     <p>Descubre los beneficios de convertirte en un ejecutivo independiente de nuestra comunidad financiera.</p>
                                     <br>
-                                    <a href="contact.html"></a>
+                                    <a href="oportunidad.php"></a>
                                 </figcaption>
                         </figure>
                     </div>
@@ -237,7 +237,7 @@
                                         <H3>Como cliente</H3>
                                         <br>
                                         <p>Entérate de todos los servicios financieros que ponemos a disposición de nuestros clientes VIP.</p>
-                                        <a href="contact.html"></a>
+                                        <a href="services.php"></a>
                                 </figcaption>
                         </figure>
                     </div>
