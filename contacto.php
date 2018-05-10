@@ -81,21 +81,22 @@
                             <div>
                                 <i aria-hidden="true" class="ion-ios-location-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Dirección</span>
                             </div>
-                            <p>Santa Anita
-                                <br>  Av. Nicolás Ayllón 2931 of #101 - Urb. El Puente - El Agustino (referencia : puente Santa Anita) </p>
+                            <div id="direccion">Santa Anita
+                                Av. Nicolás Ayllón 2931 of #101 - Urb. El Puente - El Agustino (referencia : puente Santa Anita) </div>
                             </div>
                    
                         <div class="contact-box iq-mb-30">
                             <div>
                                 <i aria-hidden="true" class="ion-ios-telephone-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Telefono</span>
                             </div>
-                            <p>01 714 2304<span></span> </p>
+                            <div id="telefono">01 714 2304</div>
+                            
                         </div>
                         <div class="contact-box iq-mb-30">
                             <div>
                                 <i aria-hidden="true" class="ion-ios-email-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Correo</span>
                             </div>
-                            <p>antencionalcliente@quantumclubpro.com<span></span></p>
+                            <div id="correo">antencionalcliente@quantumclubpro.com</div>
                         </div>
                     </div>
                     <div class="col-lg-7">

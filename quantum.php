@@ -119,7 +119,7 @@
     
                
                 </div>-->
-          <!--      <div class="row">
+                <div class="row">
                     <div class="col-lg-2"></div>
                     <div class="col-lg-4 col-xs-2 col-md-5">
                     
@@ -148,7 +148,7 @@
                             
                     </div>
                       
-                </div>-->
+                </div>
             </div>
         </section>
        <section class="overview-block-ptb iq-feature-aria pading=45px"></section>

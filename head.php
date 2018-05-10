@@ -20,6 +20,7 @@
     <link rel="stylesheet" type="text/css" href="css/animate.css" />
     <!-- Font Awesome -->
     <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+   
     <!-- Ionicons CSS -->
     <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
     <!-- Flaticon CSS -->

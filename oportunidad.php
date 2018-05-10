@@ -82,15 +82,15 @@ height: 100%;
                         <div class="tab-content iq-mt-30" id="myTabContent">
                             <div class="tab-pane fade show active" id="eventone" role="tabpanel" aria-labelledby="eventone-tab">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-12"><img src="images/eventos/desayuno.jpg" class="img-fluid" alt="#"></div>
+                                    <div class="col-lg-4 col-md-12"><img id="imagen1" src="images/eventos/desayuno.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10">Desayuno Quantico</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div class="nombre">Desayuno Quantico</div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
                                             <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
                                             <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
                                         </ul>
-                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
+                                        <div id="descripcion">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
                                     </div>
                                 </div>
                             </div>
@@ -171,76 +171,9 @@ height: 100%;
         </section>
     </div>
 
-        <!--Eventos end -->
         
-        <!-- Paquetes-->
-        <!--<section class="overview-block-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="heading-title">
-                            <h3 class="title iq-tw-5 iq-mb-20">Paquetes </h3>
-                            <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="iq-pricing">
-                            <span class="icon"><i aria-hidden="true" class="ion-social-bitcoin-outline"></i></span>
-                            <div class="pricing-header">
-                                <h3 class="title">Profesional</h3>
-                                <span class="price-value">$09</span>
-                            </div>
-                            <ul class="pricing-content">
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Photoshop</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>HTML5 &amp; CSS 5</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-close-round"></i>Wordpress</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-close-round"></i>Javascript</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-close-round"></i>Animation</li>
-                            </ul>
-                            <a class="button" href="#">Read More</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="iq-pricing">
-                            <span class="icon"><i aria-hidden="true" class="ion-social-bitcoin-outline"></i></span>
-                            <div class="pricing-header">
-                                <h3 class="title"> Master</h3>
-                                <span class="price-value">$29</span>
-                            </div>
-                            <ul class="pricing-content">
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Photoshop</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>HTML5 &amp; CSS 5</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Wordpress</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-close-round"></i>Javascript</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-close-round"></i>Animation</li>
-                            </ul>
-                            <a class="button" href="#">Read More</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="iq-pricing">
-                            <span class="icon"><i aria-hidden="true" class="ion-social-bitcoin-outline"></i></span>
-                            <div class="pricing-header">
-                                <h3 class="title">Corporativo</h3>
-                                <span class="price-value">$99</span>
-                            </div>
-                            <ul class="pricing-content">
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Photoshop</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>HTML5 &amp; CSS 5</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Wordpress</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Javascript</li>
-                                <li><i aria-hidden="true" class="iq-mr-10 ion-checkmark-round"></i>Animation</li>
-                            </ul>
-                            <a class="button" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>-->
-		    <section class="main-content">
+        
+          <section class="main-content">
             <div class="container">
                     <div class="col-lg-12 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
@@ -253,7 +186,7 @@ height: 100%;
                 </div>
             </div>
         </section>
-    
+    <!--Eventos end -->
         <section class="overview-block-ptb pading=45px">
             <div class="container">
                 <div class="row">
