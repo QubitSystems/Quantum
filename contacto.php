@@ -69,7 +69,7 @@
                     <div class="col-lg-7">
                         <h3 class="iq-mtb-30">Formulario de envio</h3>
                         <div id="formmessage">Success/Error Message Goes Here</div>
-                        <form class="form-horizontal" id="contactform" method="post" action="../php/contact-form.php">
+                        <form class="form-horizontal" id="contactform" method="post" action="php/contact-form.php">
                             <div class="contact-form">
                                 <div class="section-field iq-mb-30">
                                     <input id="name" type="text" placeholder="Nombre*" name="name"  >

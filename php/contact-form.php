@@ -11,7 +11,7 @@ if(isset($_POST["action"])) {
   $email = $_POST['email'];     // Sender's email address
   $phone  = $_POST['phone'];     // Sender's email address
   $message = $_POST['message'];    // Sender's message
-  $from = 'Demo Contact Form';    
+  $from = 'From: Your name <info@address.com>' . "\r\n";;    
   $to = 'rasecsv0@gmail.com';     // Recipient's email address
   $subject = 'Message from Contact Demo ';
 
@@ -38,7 +38,7 @@ if(isset($_POST["action"])) {
 	$result='';
   // If there are no errors, send the email
   if (!$errmsg) {
-		if (mail ($to, $subject, $body, $from)) {
+		if (mail($to, $subject, $body, $from)) {
 			$result='<div class="alert alert-success">TThank you for contacting us. Your message has been successfully sent. We will contact you very soon!</div>'; 
 		} 
 		else {
