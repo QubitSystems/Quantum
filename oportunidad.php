@@ -63,19 +63,19 @@ height: 100%;
                     <div class="col-lg-12">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" id="eventone-tab" data-toggle="tab" href="#eventone" role="tab" aria-controls="eventone" aria-selected="true">Evento 15-Dic-17</a>
+                                <a class="nav-link active" id="eventone-tab" data-toggle="tab" href="#eventone" role="tab" aria-controls="eventone" aria-selected="true"><div id="fecha1">Evento 15-Dic-17</div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventwo-tab" data-toggle="tab" href="#eventwo" role="tab" aria-controls="eventwo" aria-selected="false">Evento 16-Ene-18</a>
+                                <a class="nav-link" id="eventwo-tab" data-toggle="tab" href="#eventwo" role="tab" aria-controls="eventwo" aria-selected="false"><div id="fecha2">Evento 16-Ene-18</div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventhree-tab" data-toggle="tab" href="#eventhree" role="tab" aria-controls="eventhree" aria-selected="false">Evento 17-Feb-18</a>
+                                <a class="nav-link" id="eventhree-tab" data-toggle="tab" href="#eventhree" role="tab" aria-controls="eventhree" aria-selected="false"><div id="fecha3">Evento 17-Feb-18</div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventfour-tab" data-toggle="tab" href="#eventfour" role="tab" aria-controls="eventfour" aria-selected="false">Evento 19-Mar-18</a>
+                                <a class="nav-link" id="eventfour-tab" data-toggle="tab" href="#eventfour" role="tab" aria-controls="eventfour" aria-selected="false"><div id="fecha4">Evento 19-Mar-18</div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false">Evento 20-Abr-18</a>
+                                <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false"><div id="fecha5">Evento 19-Mar-18</div></a>
                             </li>
                             
                         </ul>
@@ -84,70 +84,74 @@ height: 100%;
                                 <div class="row">
                                     <div class="col-lg-4 col-md-12"><img id="imagen1" src="images/eventos/desayuno.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10"><div class="nombre">Desayuno Quantico</div></h5>
-                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre1">Desayuno Quantico</div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker1">Elías Ordoñez & Roberto Tello</div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><div id="hora1">9:00 PM A 11:00 PM</div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i><div id="lugar1">Hotel Britania, Miraflores</div></li>
                                         </ul>
-                                        <div id="descripcion">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
+                                        <div id="descripcion1">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
                                     </div>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="eventwo" role="tabpanel" aria-labelledby="eventwo-tab">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-12"><img src="images/eventos/trading-day.jpg" class="img-fluid" alt="#"></div>
-                                    <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10">Trading Day Noviembre</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
+                                    <div class="col-lg-4 col-md-12"><img id="imagen2" src="images/eventos/trading-day.jpg" class="img-fluid" alt="#"></div>
+                                     <div class="col-lg-8 col-md-12">
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre2">Trading Day Noviembre</div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker2">Elías Ordoñez & Roberto Tello</div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><div id="hora2">9:00 PM A 11:00 PM</div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i><div id="lugar2">Hotel Britania, Miraflores</div></li>
                                         </ul>
-                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
+                                        <div id="descripcion2">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
                                     </div>
+                             
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="eventhree" role="tabpanel" aria-labelledby="eventhree-tab">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-12"><img src="images/eventos/casa-andina.jpg" class="img-fluid" alt="#"></div>
-                                    <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10">Casa Andina</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span>  Elías Ordoñez & Roberto Tello</div>
+                                    <div class="col-lg-4 col-md-12"><img id="imagen3" src="images/eventos/casa-andina.jpg" class="img-fluid" alt="#"></div>
+                                     <div class="col-lg-8 col-md-12">
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre3">Desayuno Quantico</div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker3">Elías Ordoñez & Roberto Tello</div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><div id="hora3">9:00 PM A 11:00 PM</div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i><div id="lugar3">Hotel Britania, Miraflores</div></li>
                                         </ul>
-                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
+                                        <div id="descripcion3">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
                                     </div>
+                       
                                 </div>
                             </div>
                             <div class="tab-pane fade show" id="eventfour" role="tabpanel" aria-labelledby="eventfour-tab">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-12"><img src="images/eventos/jdgomez.jpg" class="img-fluid" alt="#"></div>
+                                    <div class="col-lg-4 col-md-12"><img id="imagen4"src="images/eventos/jdgomez.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10">Juan Diego Gómez en Lima</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span>  Elías Ordoñez & Roberto Tello</div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre4">Desayuno Quantico</div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker4">Elías Ordoñez & Roberto Tello</div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><div id="hora4">9:00 PM A 11:00 PM</div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i><div id="lugar4">Hotel Britania, Miraflores</div></li>
                                         </ul>
-                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
+                                        <div id="descripcion4">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
                                     </div>
+                                
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="evenfive" role="tabpanel" aria-labelledby="evenfive-tab">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-12"><img src="images/eventos/presentacion.jpg" class="img-fluid" alt="#"></div>
+                                    <div class="col-lg-4 col-md-12"><img id="imagen5"src="images/eventos/presentacion.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10">Pre Lanzamiento</h5>
-                                        <div><span class="iq-tw-5 iq-font-black lead">Speaker:</span> Elías Ordoñez & Roberto Tello</div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre5">Desayuno Quantico</div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker5">Elías Ordoñez & Roberto Tello</div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 PM A 11:00 PM</li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Hotel Britania, Miraflores</li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><div id="hora5">9:00 PM A 11:00 PM</div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i><div id="lugar5">Hotel Britania, Miraflores</div></li>
                                         </ul>
-                                        <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
+                                        <div id="descripcion5">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
                                     </div>
+                    
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="evensix" role="tabpanel" aria-labelledby="evensix-tab">

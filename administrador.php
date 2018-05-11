@@ -28,11 +28,10 @@
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
-                                <form action="terminar_sesion.php" method="post">
-                                <li><a href="matar_sesion.php">Salir</a>  
-                                </li>
-                                </form>
-                                
+                                <form action="matar_sesion.php" method="post">
+							<input type="submit" id="SignOff" name="signOff" value="Salir" style="background-color:#001841;overflow:hidden; color:#fff;"/>
+						</form>
+            
                             </ul>
                         </nav>
                     </div>
@@ -71,7 +70,7 @@
                             <a href="#" class="filter active" data-filter="todo">General</a>
                         </li>
                         <li>
-                            <a href="#" class="filter a" data-filter="oportunidad">Oportunidad</a>
+                            <a href="#" class="filter" data-filter="oportunidad">Oportunidad</a>
                         </li>
                         
                         <li>
@@ -98,9 +97,9 @@
                     <div id="grid mix">
                         	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
                                   <div class="portfolio-item-container">
-				<h1>Oportunidad</h1>
-			  <!--begin-->
-				<form action="" method="post" class="contact-form" enctype="multipart/form-data">
+                                      <h1>Oportunidad</h1>
+			                 <!--begin-->
+                                      <form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
 							<select class ="1" id="selectSection" name="selectSection" style="width=100%;">
@@ -108,7 +107,7 @@
 								<option>Evento 1</option>
 								<option>Evento 2</option>
 								<option>Evento 3</option>
-					           <option>Evento 4</option>
+                                <option>Evento 4</option>
 								<option>Evento 5</option>
 								
                             </select>
@@ -120,12 +119,13 @@
                                     <label class="requerid product"><input id="lugar" type="text" name="lugar" placeholder="Lugar" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion" value=""></textarea></label>
                                     
-                                    <label class="required product"><input id="imagen_Producto" type="file" name="imagen_Producto" placeholder="" /></label>
-                                   <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>
+                                    <label class="required product"><input id="imagen" type="file" name="imagen" placeholder="" /></label>
+                                    <input id="changeE" class="btn" type="button" name="send-message" value="Guardar" />
+                                   <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->
 					</fieldset>
 				</form>
 				<!--end-->
-				</div>
+				                    </div>
                                   <!-- .portfolio-item-container ends -->
                             </div>
                             
@@ -167,7 +167,8 @@
                                     <label class="requerid product"><input id="detalle3" type="text" name="detalle3" placeholder="" value="Caracteristica 3"></label>
                                     <label class="required product"><input id="imagen_Servicio1" type="file" name="imagen_Servicio1" placeholder="" /></label>
                                     <label class="required product"><input id="imagen_Servicio2" type="file" name="imagen_Servicio2" placeholder="" /></label>
-                                <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>    
+                                <input id="changeS" class="btn" type="button" name="send-message" value="Guardar" />
+                                <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->    
                                 
 					</fieldset>
 				</form>
@@ -189,18 +190,18 @@
                     </div>
                     
                        <div id="grid mix">
-                        	  <div class="item col-md-12  contacto" style = "border: 2px solid;">
+                        	  <div class="item col-md-12   contacto" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
 				<h1>Contacto</h1>
 			  <!--begin-->
 				<form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
-						
-						            <label class="requerid product"><input id="direccion" type="text" name="direccion" placeholder="Direccion 1" value=""></label>
+						             <label class="requerid product"><textarea id="direccion" type="text" name="direccion" placeholder="Direccion:" value=""></textarea></label>
+                                  
                                     <label class="requerid product"><input id="telefono" type="text" name="telefono" placeholder="Telefono" value=""></label>
                                     <label class="requerid product"><input id="correo" type="email" name="email" placeholder="Correo" value=""></label>
-                                    
-                                    <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button> 
+                                    <input id="changeC" class="btn" type="button" name="send-message" value="Guardar" />
+                                    <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-20">Guardar </button>--> 
 					</fieldset>
 				</form>
 				<!--end-->
@@ -2225,7 +2226,7 @@ ul.comment-reply {
 }
 
 .contact-form .btn {
-  background: #6e5128;
+  background: #133e68;
   color: #FFF;
   height: 34px;
   width: 100px;
@@ -3289,6 +3290,11 @@ ul.comment-reply {
     <!-- particles JavaScript -->
     <script src="js/particles.js "></script>
     <!-- REVOLUTION JS FILES -->
+    <script src="js/controlador_editable_contacto.js"></script>
+    <script src="js/controlador_seccion_contactos.js"></script>
+    <script src="js/controlador_boton.js"></script>
+    
+    <!---->
     <script src="revslider/js/jquery.themepunch.tools.min.js"></script>
     <script src="revslider/js/jquery.themepunch.revolution.min.js"></script>
     <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->

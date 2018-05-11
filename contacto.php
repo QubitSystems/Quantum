@@ -1,40 +1,8 @@
 <!doctype html>
 <html lang="en">
 
-<head>
-    <title>Quantum Club</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;Ubuntu:400,500,700" rel="stylesheet">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <!-- Magnific Popup CSS -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup/magnific-popup.css" />
-    <!-- owl-carousel CSS -->
-    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.css" />
-    <!-- Animate CSS -->
-    <link rel="stylesheet" type="text/css" href="css/animate.css" />
-    <!-- Font Awesome -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
-    <!-- Ionicons CSS -->
-    <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/shop.css">
-    <!-- REVOLUTION STYLE SHEETS -->
-    <link rel="stylesheet" type="text/css" href="revslider/css/settings.css">
-    <!-- style CSS -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
-</head>
+<?php include("head.php")?>
+
 
 <body>
     <!-- loading -->
@@ -81,22 +49,21 @@
                             <div>
                                 <i aria-hidden="true" class="ion-ios-location-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Dirección</span>
                             </div>
-                            <div id="direccion">Santa Anita
-                                Av. Nicolás Ayllón 2931 of #101 - Urb. El Puente - El Agustino (referencia : puente Santa Anita) </div>
+                            <div id="direccion"> </div>
                             </div>
                    
                         <div class="contact-box iq-mb-30">
                             <div>
                                 <i aria-hidden="true" class="ion-ios-telephone-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Telefono</span>
                             </div>
-                            <div id="telefono">01 714 2304</div>
+                            <div id="telefono"></div>
                             
                         </div>
                         <div class="contact-box iq-mb-30">
                             <div>
                                 <i aria-hidden="true" class="ion-ios-email-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Correo</span>
                             </div>
-                            <div id="correo">antencionalcliente@quantumclubpro.com</div>
+                            <div id="correo"></div>
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -166,7 +133,9 @@ Footer -->
     <script src="js/particles.js "></script>
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
-  
+    <script src="js/controlador_editable_contacto.js"></script>
+    <script src="js/controlador_seccion_contactos.js"></script>
+    
 </body>
 
 </html>
