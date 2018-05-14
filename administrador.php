@@ -3293,6 +3293,7 @@ ul.comment-reply {
     <script src="js/controlador_editable_contacto.js"></script>
     <script src="js/controlador_seccion_contactos.js"></script>
     <script src="js/controlador_boton.js"></script>
+    <script src="js/controlador_editable_evento.js"></script>
     
     <!---->
     <script src="revslider/js/jquery.themepunch.tools.min.js"></script>

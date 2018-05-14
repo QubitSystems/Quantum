@@ -2,7 +2,7 @@
 	include('conexion.php');
 	include('seccion.php');
 	include('consultas.php');
-	$idioma = $_POST['idioma'];
+	
 	//$arreglo_final = array();
 
 	$seccion = new seccion;

@@ -1,9 +1,13 @@
 jQuery(function($){
 
-	$( "#selectProduct" ).change(function () {
-      $( "select option:selected" ).each(function() {
+  
+  $( "#selectSection" ).change(function () {
+    $( "select.1 option:selected" ).each(function() {
+      console.log("La seccion escojida es: "+ $( this ).text())
+	  if($(this).text()=="Evento 1"){
+		$( "select option:selected" ).each(function() {
   	  	$.ajax({
-			url: 'controlador_producto.php',
+			url: 'controlador_evento.php',
 			data: {seccion: $( "select.1 option:selected" ).text()},
 			type: 'POST',
 			//dataType: 'json',
@@ -25,14 +29,6 @@ jQuery(function($){
 			}
 		});
 	  })
-  })
-  .change();
-  
-  $( "#selectSection" ).change(function () {
-    $( "select.1 option:selected" ).each(function() {
-      console.log("La seccion escojida es: "+ $( this ).text())
-	  if($(this).text()=="Evento 1"){
-		 $("#selectProduct").children().remove();
 	  }
 	  else if($(this).text()=="Evento 2"){
 		  $("#selectProduct").children().remove();
