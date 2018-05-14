@@ -1,4 +1,4 @@
-con/*
+/*
 
 Template: COINEX - Crypto Currency HTML Template 
 Author: iqonicthemes.in
