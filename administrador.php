@@ -99,10 +99,11 @@
                                   <div class="portfolio-item-container">
                                       <h1>Oportunidad</h1>
 			                 <!--begin-->
-                                      <form action="" method="post" class="contact-form" enctype="multipart/form-data">
+                <form action="controlador_evento_auto.php" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
-							<select class ="1" id="selectSection" name="selectSection" style="width=100%;">
+							<select class ="1" id="selectEvento" name="selectEvento" style="width=100%;">
+                            
 								<option>--SELECCIONE EL EVENTO--</option>
 								<option>Evento 1</option>
 								<option>Evento 2</option>
@@ -149,7 +150,7 @@
 				<form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
-							<select class ="1" id="selectSection" name="selectSection" style="width=100%;">
+							<select class ="2" id="selectSection" name="selectSection" style="width=100%;">
 								<option>--SELECCIONE EL SERVICIO--</option>
 								<option>Servicio 1</option>
 								<option>Servicio 2</option>
@@ -3293,7 +3294,7 @@ ul.comment-reply {
     <script src="js/controlador_editable_contacto.js"></script>
     <script src="js/controlador_seccion_contactos.js"></script>
     <script src="js/controlador_boton.js"></script>
-    <script src="js/controlador_editable_evento.js"></script>
+    <script src="js/controlador_evento.js"></script>
     
     <!---->
     <script src="revslider/js/jquery.themepunch.tools.min.js"></script>

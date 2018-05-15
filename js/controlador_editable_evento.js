@@ -1,25 +1,22 @@
 jQuery(function($){
-
-  
-  $( "#selectSection" ).change(function () {
-    $( "select.1 option:selected" ).each(function() {
-      console.log("La seccion escojida es: "+ $( this ).text())
-	  if($(this).text()=="Evento 1"){
-		$( "select option:selected" ).each(function() {
+	
+	$( "#selectSection" ).change(function () {
+      $( "select option:selected" ).each(function() {
   	  	$.ajax({
 			url: 'controlador_evento.php',
 			data: {seccion: $( "select.1 option:selected" ).text()},
 			type: 'POST',
 			//dataType: 'json',
 			success: function(response){
-				evento = response.split('#');
-				$('#fecha').val(evento[0])
-				$('#nombre').val(evento[1])
-                $('#speaker').val(evento[2])
-                $('#hora').val(evento[3])
-                $('#lugar').val(evento[4])
-                $('#descripcion').val(evento[5])
-                $('#imagen').val(evento[6])
+                console.log(response);
+				producto = response.split('#');
+                $('#fecha').val(producto[0]);
+                $('#nombre').val(producto[1]);
+                $('#speaker').val(producto[2]);
+                $('#hora').val(producto[3]);
+                $('#lugar').val(producto[4]);
+                $('#descripcion').val(producto[5]);
+           
 			},
 			error: function(jqXHR, status, error){
 				alert('disculpe ocurrió un error');
@@ -29,22 +26,9 @@ jQuery(function($){
 			}
 		});
 	  })
-	  }
-	  else if($(this).text()=="Evento 2"){
-		  $("#selectProduct").children().remove();
-	  }
-	  else if($(this).text()=="Evento 3"){
-		  $("#selectProduct").children().remove();	 	
-	  }
-        
-	  else if($(this).text()=="Evento 4"){
-		  $("#selectProduct").children().remove(); 	
-	  }
-	  else if($(this).text()=="Evento 5"){
-		  $("#selectProduct").children().remove();
-		 	
-	  }
-	})
   })
   .change();
+    
 });
+
+
