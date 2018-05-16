@@ -1,4 +1,19 @@
 jQuery(function($){
+   $.ajax({
+       type:'POST',
+       url :'controlador_servicio.php',
+       
+   })
+    .done(function(listas_desp){
+       $('#selectServicio').html(listas_desp);
+   })
+    .fail(function(){
+       alert('Error al cargar el archivo');
+   })
+})
+
+
+/*jQuery(function($){
 	$.ajax({
 		url: 'controlador_granos.php',
 		data: {idioma: 1},
@@ -40,4 +55,4 @@ jQuery(function($){
 			console.log('peticion realizada');
 		}
 	});
-});
+});*/

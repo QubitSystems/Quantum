@@ -2,33 +2,18 @@
 		include('cargar_imagen.php');
 		include('conexion.php');
 		include('seccion.php');
-		include('consultas.php');
-		
-        $selectSection = $_POST['selectSection']; 
-        
-
-        echo $selectSection;
-        $fecha = $_POST['fecha'];
-        $nomb_evento=$_POST['nombre'];
-        $speaker = $_POST['speaker'];
-        $hora = $_POST['hora'];
-        $lugar = $_POST['lugar'];
-        $direccion = $_POST['direccion'];
-        $descripcion = $_POST['descripcion'];
-        $archivo = $_FILES['imagen'];
-        
-
-		$conexion = new conexion;
-		$seccion = new seccion;
-		//$campos_bd = array('evento'); 
-		$matriz_datos = $conexion->obtener_datos("SELECT fecha,nomb_evento,speaker,hora,direccion,descripcion,imagen FROM eventos WHERE (evento='$selectSection')");
-		//$seccion->colocar_arreglo_texto($matriz_datos[6]);
-		$arr = $seccion->obtener_arreglo_texto();
-		$id = $arr[0];
-		$conexion->actualizar_datos("UPDATE eventos SET fecha='$fecha',nomb_evento='$nomb_evento',speaker='$speaker',hora='$hora',lugar='$lugar',direccion='$direccion', descripcion='$descripcion' WHERE evento=$selectSection");	
-		$cargador_img = new cargar_imagen;
-		if(isset($archivo)){
-			$cargador_img->subir_imagen($archivo, $nombre_imagen . $product . '.jpg', 'images/', 2000000);
-		} 
-			
-	?>
+       
+            $conexion = new conexion;
+            $seccion =new seccion;
+            $listas = '<option value="0">--Seleccione un Evento --</option>';
+            $campos = array ('id','evento','fecha','nomb_evento','speaker','hora','direccion','descripcion','imagen');
+            $arreglo_datos =$conexion->obtener_datos("select*from eventos",$campos);
+            $seccion->colocar_arreglo_texto($arreglo_datos);
+            $arr = $seccion->obtener_arreglo_texto();
+              
+            echo '<option value="0">--Seleccione un Evento--</option>';
+            foreach($arr as $fila){
+                echo "<option value='$fila[0]'>$fila[1]</option>";
+            }
+                
+?>

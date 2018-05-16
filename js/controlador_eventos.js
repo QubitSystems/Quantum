@@ -1,5 +1,19 @@
 jQuery(function($){
-    $.ajex{
+   $.ajax({
+       type:'POST',
+       url :'controlador_evento.php',
+       
+   })
+    .done(function(listas_desp){
+       $('#selectEvento').html(listas_desp);
+   })
+    .fail(function(){
+       alert('Error al cargar el archivo');
+   })
+    
+})
+/*jQuery(function($){
+    $.ajax{
         url:'controlador_evento.php';
         data: { };
         type:'Post';
@@ -49,4 +63,4 @@ jQuery(function($){
             $('descripcion5').text(col_fila5[5]);
         }
     }
-});
+});*/

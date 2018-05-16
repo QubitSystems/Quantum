@@ -99,17 +99,11 @@
                                   <div class="portfolio-item-container">
                                       <h1>Oportunidad</h1>
 			                 <!--begin-->
-                <form action="controlador_evento_auto.php" method="post" class="contact-form" enctype="multipart/form-data">
+                <form action="controlador_actualizar_evento.php" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
 							<select class ="1" id="selectEvento" name="selectEvento" style="width=100%;">
                             
-								<option>--SELECCIONE EL EVENTO--</option>
-								<option>Evento 1</option>
-								<option>Evento 2</option>
-								<option>Evento 3</option>
-                                <option>Evento 4</option>
-								<option>Evento 5</option>
 								
                             </select>
 						  </label>
@@ -150,14 +144,8 @@
 				<form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
-							<select class ="2" id="selectSection" name="selectSection" style="width=100%;">
-								<option>--SELECCIONE EL SERVICIO--</option>
-								<option>Servicio 1</option>
-								<option>Servicio 2</option>
-								<option>Servicio 3</option>
-                                <option>Servicio 4</option>
-								<option>Servicio 5</option>
-								<option>Servicio 6</option>
+							<select class ="2" id="selectServicio" name="selectSection" style="width=100%;">
+								
 							</select>
 						  </label>
 						            <label class="requerid product"><input id="nombre" type="text" name="nombre" placeholder="Nombre del Servicio" value=""></label>
@@ -3294,7 +3282,9 @@ ul.comment-reply {
     <script src="js/controlador_editable_contacto.js"></script>
     <script src="js/controlador_seccion_contactos.js"></script>
     <script src="js/controlador_boton.js"></script>
-    <script src="js/controlador_evento.js"></script>
+    <script src="js/controlador_eventos.js"></script>
+    <script src="js/controlador_servicios.js"></script>
+    <script src="js/controlador_editable_evento.js"></script>
     
     <!---->
     <script src="revslider/js/jquery.themepunch.tools.min.js"></script>

@@ -1,10 +1,9 @@
 jQuery(function($){
 	
 	$( "#selectSection" ).change(function () {
-      $( "select option:selected" ).each(function() {
-  	  	$.ajax({
+  	  	 $( "select option:selected" ).each(function() {
+        $.ajax({
 			url: 'controlador_evento.php',
-			data: {seccion: $( "select.1 option:selected" ).text()},
 			type: 'POST',
 			//dataType: 'json',
 			success: function(response){
