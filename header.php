@@ -21,6 +21,7 @@
                                 </li>-->
                                 <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Quantum Academy</a></li>
                                 <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Oficina Virtual</a></li>
+                                <li class="list-inline-item"><a href="login.php"><i class="fa fa-comments-o"></i>Login</a></li>
                             </ul>
                         </div>
                     </div>

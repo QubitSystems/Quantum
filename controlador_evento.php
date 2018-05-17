@@ -3,6 +3,7 @@
 		include('conexion.php');
 		include('seccion.php');
        
+            
             $conexion = new conexion;
             $seccion =new seccion;
             $listas = '<option value="0">--Seleccione un Evento --</option>';
@@ -15,5 +16,7 @@
             foreach($arr as $fila){
                 echo "<option value='$fila[0]'>$fila[1]</option>";
             }
-                
+               //,'fecha','nomb_evento','speaker','hora','direccion','descripcion','imagen' 
+           
+           
 ?>

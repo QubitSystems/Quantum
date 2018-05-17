@@ -99,12 +99,10 @@
                                   <div class="portfolio-item-container">
                                       <h1>Oportunidad</h1>
 			                 <!--begin-->
-                <form action="controlador_actualizar_evento.php" method="post" class="contact-form" enctype="multipart/form-data">
+                <form action="control_evento.php" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
-							<select class ="1" id="selectEvento" name="selectEvento" style="width=100%;">
-                            
-								
+							<select class ="1" id="selectEvento" name="selectEvento" style="width=100%;">	
                             </select>
 						  </label>
 						            <label class="requerid product"><input id="fecha" type="text" name="fecha" placeholder="Fecha del evento" value=""></label>
@@ -177,6 +175,7 @@
               
                             
                     </div>
+                  
                     
                        <div id="grid mix">
                         	  <div class="item col-md-12   contacto" style = "border: 2px solid;">
