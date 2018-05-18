@@ -20,6 +20,15 @@
             $arreglo_datos =$conexion->obtener_datos("select*from eventos where id=$id",$campos);
         
             $seccion->colocar_arreglo_texto($arreglo_datos);
-            $arr = $seccion->obtener_arreglo_texto();         
+            $arr = $seccion->obtener_arreglo_texto();
+            $conexion ->actualizar_datos("UPDATE `eventos` SET `fecha`=$fecha,`nomb_evento`=$nomb_evento,`speaker`=$speaker,`hora`=$hora,`direccion`=$direccion,`descripcion`=$descripcion,`imagen`=$imagen WHERE id=$id");
+
+             $cargar_img = new cargar_imagen;
+            if(isset($archivo)){
+                $cargar_img->subir_imagen($archivo,$imagen .'.jpg','images/',2000000);
+            }
+           
         
 ?>
+       
+            

@@ -1,44 +1,58 @@
 jQuery(function($){
     
-	   $('#selectEvento').change(function(){
-         $.ajax({
-            type:'POST',
-            url:'';
-             success: function(response){
-                console.log(response);
-				producto = response.split('#');
-                $('#fecha').val(producto[0]);
-                $('#nombre').val(producto[1]);
-                $('#speaker').val(producto[2]);
-                $('#hora').val(producto[3]);
-                $('#lugar').val(producto[4]);
-             $('#descripcion').val(producto[5]);
-           
-			},
-			error: function(jqXHR, status, error){
-				alert('disculpe ocurrió un error');
-			},
-			complete: function(jqXHR, status) {
-				console.log('peticion realizada');
-			}  
-        })
-    
-    })
-	/*$( "#selectSection" ).change(function () {
+	$( "#selectSection" ).change(function () {
   	  	 $( "select option:selected" ).each(function() {
         $.ajax({
-			url: 'controlador_evento.php',
+			url: 'control_evento.php',
 			type: 'POST',
 			//dataType: 'json',
 			success: function(response){
                 console.log(response);
-				producto = response.split('#');
-                $('#fecha').val(producto[0]);
-                $('#nombre').val(producto[1]);
-                $('#speaker').val(producto[2]);
-                $('#hora').val(producto[3]);
-                $('#lugar').val(producto[4]);
-                $('#descripcion').val(producto[5]);
+                var fila = response.split('|');
+                var col_fila1=fila[0].split('#');
+                $('#fecha1').val(col_fila1[0]);
+                $('#nombre1').val(col_fila1[1]);
+                $('#speaker1').val(col_fila1[2]);
+                $('#hora1').val(col_fila1[3]);
+                $('#direccion1').val(col_fila1[4]);
+                $('#descripcion1').val(col_fila1[5]);
+                $('#imagen1').val(col_fila1[6]);
+                
+                 var col_fila2=fila[1].split('#');
+                $('#fecha2').val(col_fila2[0]);
+                $('#nombre2').val(col_fila2[1]);
+                $('#speaker2').val(col_fila2[2]);
+                $('#hora2').val(col_fila2[3]);
+                $('#direccion2').val(col_fila2[4]);
+                $('#descripcion2').val(col_fila2[5]);
+                $('#imagen2').val(col_fila2[6]);
+                
+                 var col_fila3=fila[2].split('#');
+                $('#fecha3').val(col_fila3[0]);
+                $('#nombre3').val(col_fila3[1]);
+                $('#speaker3').val(col_fila3[2]);
+                $('#hora3').val(col_fila3[3]);
+                $('#direccion3').val(col_fila3[4]);
+                $('#descripcion3').val(col_fila3[5]);
+                $('#imagen3').val(col_fila3[6]);
+                
+                 var col_fila1=fila[0].split('#');
+                $('#fecha1').val(col_fila1[0]);
+                $('#nombre1').val(col_fila1[1]);
+                $('#speaker1').val(col_fila1[2]);
+                $('#hora1').val(col_fila1[3]);
+                $('#direccion1').val(col_fila1[4]);
+                $('#descripcion1').val(col_fila1[5]);
+                $('#imagen1').val(col_fila1[6]);
+                
+                 var col_fila1=fila[0].split('#');
+                $('#fecha1').val(col_fila1[0]);
+                $('#nombre1').val(col_fila1[1]);
+                $('#speaker1').val(col_fila1[2]);
+                $('#hora1').val(col_fila1[3]);
+                $('#direccion1').val(col_fila1[4]);
+                $('#descripcion1').val(col_fila1[5]);
+                $('#imagen1').val(col_fila1[6]);
            
 			},
 			error: function(jqXHR, status, error){
@@ -51,7 +65,7 @@ jQuery(function($){
 	  })
   })
   .change();
-    */
+    
 });
 
 

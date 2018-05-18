@@ -23,7 +23,7 @@
             <!-- START REVOLUTION SLIDER 5.4.6.3 fullwidth mode -->
             <div id="rev_slider_2_1" class="rev_slider fullwidthabanner tp-overflow-hidden" style="display:none;" data-version="5.4.6.3">
                 <ul>
-                    <!-- SLIDE  -->
+                    <!-- SLIDE 1 -->
                     <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="revslider/assets/100x50_b78ec-04.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
                         <img src="revslider/assets/slide1.png" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"  class="rev-slidebg"   data-no-retina>
@@ -48,7 +48,7 @@
 						<div class="tp-caption rev-btn button" id="slide-5-layer-7" data-x="100" data-y="440" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[30,30,30,30]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[30,30,30,30]" style=""><a href="services.php" style="color:#ffffff;">Ver más</a></div>
                     </li>
 					
-					<!-- SLIDE  -->
+					<!-- SLIDE  2-->
                     <li data-index="rs-8" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,default,default,default" data-thumb="" data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
                         <img src="revslider/assets/slide1.png" data-bgcolor='#000000' style='background:#000000' alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
@@ -70,7 +70,7 @@
                         <div class="tp-caption rev-btn button" id="slide-8-layer-7" data-x="right" data-hoffset="30" data-y="center" data-voffset="135" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power4.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[35,35,35,35]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[35,35,35,35]" style="">View more</div>-->
                     </li>
 					
-                    <!-- SLIDE  -->
+                    <!-- SLIDE  3-->
                     <li data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_bebf9-11.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
                         <img src="revslider/assets/slide2.jpg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
@@ -132,6 +132,73 @@
                             <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
                         </div>-->
                     </li>
+                    
+                     <!-- SLIDE  4-->
+                    <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_bebf9-11.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <!-- MAIN IMAGE -->
+                        <img src="revslider/assets/comunidad.jpg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <!-- LAYERS -->
+                        <!-- LAYER NR. 9 -->
+                        <div class="tp-caption   tp-resizeme" id="slide-6-layer-4" data-x="center" data-hoffset="" data-y="center" data-voffset="-98" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;text-transform:uppercase;">SEGURO DE VIDA MAS INVERSION</div>
+                        <!-- LAYER NR. 10 -->
+                        <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-11" data-x="center" data-hoffset="" data-y="center" data-voffset="-17" data-width="['70']" data-height="['1']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1220,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgb(247,201,1);"> </div>
+                        <!-- LAYER NR. 11 -->
+                        <div class="tp-caption   tp-resizeme" id="slide-7-layer-14" data-x="center" data-hoffset="1" data-y="center" data-voffset="10" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":1870,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 48px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Garantiza que todas las metas y sueños de tus seres queridos  se cumplan</div>
+                        
+                        <div class="tp-caption   tp-resizeme" id="slide-7-layer-14" data-x="center" data-hoffset="1" data-y="380" data-voffset="10" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":1870,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;">y sigan  manteniendo su estilo de vida</div>
+                        
+                        <!-- LAYER NR. 12 -->
+						<div class="tp-caption rev-btn button" id="slide-7-layer-12" data-x="center" data-y="430" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2400,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[30,30,30,30]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[30,30,30,30]" style=""><a href="oportunidad.php" style="color: #ffffff">Mas Info</a></div>
+						
+                        <!--<div class="tp-caption   tp-resizeme rs-parallaxlevel-1" id="slide-7-layer-1" data-x="194" data-y="center" data-voffset="180" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2660,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8;"><img src="revslider/assets/1f9f4-07.png" alt="" data-ww="157px" data-hh="231px" data-no-retina> </div>
+                        <!-- LAYER NR. 13 -->
+                      <!-- <div class="tp-caption   tp-resizeme rs-parallaxlevel-3" id="slide-7-layer-3" data-x="382" data-y="center" data-voffset="182" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":4830,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="revslider/assets/trading.png" alt="" data-ww="450px" data-hh="360px" data-no-retina> </div>-->
+                        <!-- LAYER NR. 14 -->
+                       <!-- <div class="tp-caption   tp-resizeme rs-parallaxlevel-2" id="slide-7-layer-4" data-x="right" data-hoffset="383" data-y="center" data-voffset="193" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":3400,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10;"><img src="revslider/assets/09e47-08.png" alt="" data-ww="105px" data-hh="229px" data-no-retina> </div>
+                        <!-- LAYER NR. 15 -->
+                       <!-- <div class="tp-caption   tp-resizeme rs-parallaxlevel-1" id="slide-7-layer-5" data-x="right" data-hoffset="166" data-y="center" data-voffset="192" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":4120,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11;"><img src="revslider/assets/4150c-09.png" alt="" data-ww="153px" data-hh="233px" data-no-retina> </div>
+                        <!-- LAYER NR. 16 -->
+                       <!-- <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-13" data-x="83" data-y="340" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 12;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 17 -->
+                       <!-- <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-16" data-x="1141" data-y="496" data-width="['12']" data-height="['12']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":5670,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 18 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-20" data-x="855" data-y="410" data-width="['12']" data-height="['12']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":3440,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 14;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 19 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-23" data-x="731" data-y="201" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 15;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 20 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-24" data-x="919" data-y="177" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 16;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 21 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-25" data-x="497" data-y="351" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 17;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 22 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-26" data-x="1118" data-y="639" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 18;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 23 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-27" data-x="406" data-y="130" data-width="['11']" data-height="['11']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":5670,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 19;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 24 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-28" data-x="1114" data-y="174" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 20;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>
+                        <!-- LAYER NR. 25 -->
+                        <!--<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-29" data-x="33" data-y="165" data-width="['10']" data-height="['10']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1850,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 21;background-color:rgb(255,204,0);border-radius:90px 90px 90px 90px;">
+                            <div class="rs-looped rs-pulse" data-easing="Linear.easeNone" data-speed="2" data-zoomstart="1" data-zoomend="0"> </div>
+                        </div>-->
+                    </li>
+                    
                     
                 </ul>
                 <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
@@ -267,21 +334,45 @@
                                         "En la vida hay pocas personas que hacen los números y mucho menos aún quienes logran explicarlos, pero quienes hacen ambas cosas se vuelven millonarios"
                                     </p>
                                     <h5 class="iq-tw-6 ">Elias Ordoñez</h5>
-                                    <span>CFO-Founder</span>
+                                    <span>CFO & Founder</span>
+                                    <br>
+                                    <img src="images/testimonio1.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;">
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
-                                        "La sinergia perfecta entre la práctica y la teoría la encontré en Quantum Club, permitiéndome un balance adecuado de conocimientos para incursionar en el mercado bursátil con mucha ventaja".
+                                        "La rentabilidad se logra con tres pilares fundamentales: Estudio,práctica e instinto, este último te dirá si estás haciendo correctamente los dos anteriores"
                                     </p>
-                                    <h5 class="iq-tw-6 ">Robert Bedon</h5>
+                                    <h5 class="iq-tw-6 ">Roberto Tello Urrelo</h5>
+                                    <span>CEO & Founder</span>
+                                    <br>
+                                    <img src="images/team/roberto.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;  ">
+                                </div>
+                                <div class="testimonial ">
+                                    <p class="description ">
+                                        "Las tecnologias del futuro son el presente hoy en Quantum Club y no dudo que nos posicionemos como la empresa financiera numero 1 en Latinoamérica".
+                                    </p>
+                                    <h5 class="iq-tw-6 ">Julio Zoller</h5>
+                                    <span>Asesor para LATAM</span>
+                                    <br>
+                                    <img src="images/" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;" >
+                                </div>
+                                <div class="testimonial ">
+                                    <p class="description ">
+                                        "La sinergia perfecta entre la practica y la teoria la encontré en Quantum Club, permitiendome un balance adecuado de conocimientos para incursionar en el mercado bursatil con mucha ventaja."
+                                    </p>
+                                    <h5 class="iq-tw-6 ">Christian Torres</h5>
                                     <span>Trader Profesional</span>
+                                    <br>
+                                    <img src="images/testimonio3.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;">
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
-                                        "Aprendo rápidamente como funciona el mercado y me permite ganar dinero en el proceso."
+                                        "Los Saltos Quanticos se producen cuando, yo bautice mi progreso como un triangulo Quantico, donde en la parte superior tengo las fortalezas, en el vertice inferior izquierdo esta el tiempo y el dinero y en el vertice inferior derecho esta la motivacion 10 de tu vida, cuando estos tres vertices se relacionan con tu proposito de vida, lograras dar Saltos Quanticos."
                                     </p>
-                                    <h5 class="iq-tw-6 ">Christian Murillo</h5>
-                                    <span>Trader</span>
+                                    <h5 class="iq-tw-6 ">Juan Diego Gomez</h5>
+                                    <span>Invertir Mejor</span>
+                                    <br>
+                                    <img src="images/testimonio2.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;">
                                 </div>
                             </div>
                         </div>
@@ -331,11 +422,11 @@
 							</h4>
                             <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
-                     <!-- <div class="iq-feature2 iq-mtb-20 first-r">
-                            <h4 class="iq-font-black iq-tw-5"><span class="iq-icon iq-mr-10"><!--<img class="img-fluid" src="images/services/icon/06.png" alt="">></span>Experts Support
+                     <div class="iq-feature2 iq-mtb-20 first-r">
+                            <h4 class="iq-font-black iq-tw-5">Vivir de tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>
 							</h4>
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. <a href="#" class="iq-font-green">[ ... ]</a></p>
-                        <</div>-->
+                            <p> <!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
+                        </div>
                     </div>
                     <div class="particles text-center"><img class="img-fluid" src="images/particles.png" width="500px" height="520px" alt=""></div>
                 </div>
@@ -346,7 +437,7 @@
         
     </div>
     <!-- Main Content End -->
-    
+    <!--Marquesina de las divisas-->
     <section class="overview-block-ptb iq-feature-aria">
         <div class="container">
         <div class="col-lg-12" style="height: 465px;">
@@ -354,6 +445,7 @@
             </div>
     </div>
     </section>
+    <!---end Marquesina-->
     
        <!-- Trabajan con nostros -->
         <div class="iq-our-clients particles-bg yellow-bg iq-ptb-40">

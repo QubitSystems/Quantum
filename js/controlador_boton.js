@@ -35,7 +35,7 @@ jQuery(function($){
 	});
 	
 	
-	$('#changeP').click(function(){
+	$('#changeE').click(function(){
 		$.ajax({
 			url: 'controlador_actualiza_producto.php',
 			data: {descProduct: $('#descProduct').val(), product: $( "select option:selected" ).val(), idioma:1},
@@ -52,7 +52,23 @@ jQuery(function($){
 			}
 		})
 	});*/
-	
+    $('#changeE').click(function(){
+       $.ajax({
+           url:'controlador_actualiza_evento.php',
+           data:{imagen:$('#imagen')},
+           type:'POST',
+           success : function(response){
+           alert("Se actualizo correctamente !!!");
+           console.log("Respuesta al escoger el select evento:" + response)
+       },
+              error:function(xhr, status){
+           console.log('Disculpe, ocurrio un problema')
+       }, complete:function(xhr, status){
+           console.log('Peticion realizada')
+       }
+           
+       }) 
+    });
 	$('#changeC').click(function(){
 		$.ajax({
 			url: 'controlador_actualiza_contacto.php',

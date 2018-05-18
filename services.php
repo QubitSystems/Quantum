@@ -204,10 +204,10 @@
             </div>
         </section>
         <!-- Tabing End -->
-          <section class="overview-block-ptb pading=45px">
+          <section class="overview-block-ptb pading=40px">
           <div class="container">
               <div class="row">
-                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                    <div class="col-lg-6 align-self-center text-center" >
                             <div class="iq-features1">
 
                             <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
@@ -220,7 +220,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
+                    <div class="col-lg-6 align-self-center text-center" >
                             <div class="iq-features1">
                             <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
                             <div class="iq-blog "style="background-image: url('images/beneficios.png');">

@@ -1115,9 +1115,11 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
  Testimonial 1
 *************************/
 .iq-testimonial .owl-carousel.owl-theme .owl-dots { margin-top: 20px; }
-.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot span { position: relative; width: 80px; height: 80px; margin: 0 6px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left; background: url("../images/testimonio1.jpg") no-repeat 0 0 !important; background-size: cover !important; transition: all 0.3s ease-in-out 0s; }
-.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(2) span { background: url("../images/testimonio2.jpg") no-repeat 0 0 !important; background-size: cover !important; }
-.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(3) span { background: url("../images/testimonio3.jpg") no-repeat 0 0 !important; background-size: cover !important; }
+.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot span { position: relative; width: 10px; height: 10px; margin: 0 6px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left; background: url("../images/") no-repeat 0 0 !important; background-size: cover !important; transition: all 0.3s ease-in-out 0s; }
+
+
+.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(2) span { background: url("../images/") no-repeat 0 0 !important; background-size: cover !important; }
+.iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot:nth-child(3) span { background: url("../images/") no-repeat 0 0 !important; background-size: cover !important; }
 .iq-testimonial .owl-carousel.owl-theme .owl-dots .owl-dot.active span { border: 4px solid #f9b707; }
 .iq-testimonial .owl-carousel .owl-item { padding: 30px; border-radius: 4px; }
 .iq-testimonial .testimonial .description { font-style: italic; font-size: 18px; }

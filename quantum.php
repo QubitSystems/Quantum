@@ -77,48 +77,6 @@
                         </div>
                     </div>
                 </div>
-              <!--  <div class="row " >
-                    <div class="col-lg-2">
-                    </div>
-                    <div class="col-lg-4 col-md-5" >
-                        <div class="iq-team1 text-center iq-mtb-15">
-                            <div class="team-blog">
-                                <div class="team-images"> <img class="img-fluid" src="images/team/roberto.jpg" alt="" > </div>
-                                <div class="team-description"><div class="text-white">
-									Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"</div>
-								</div>
-                                <div class="team-social">
-                                    <ul>
-                                        <li> <a href="https://twitter.com/robertotellou"> <i class="ion-social-twitter-outline"></i> </a> </li>
-                                        
-                                    </ul>
-                                </div>
-                            </div>
-                            <h6 class="iq-tw-6 iq-mt-10"><a href="team-details-1.html">Roberto Tello</a></h6>
-                            <p>CEO, Bitcoin</p>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-4 col-md-5" >
-                        <div class="iq-team1 text-center iq-mtb-15">
-                            <div class="team-blog">
-                                <div class="team-images"> <img class="img-fluid" src="images/team/elias.jpg" alt="" > </div>
-                                <div class="team-description">
-                                    <div class="text-white">"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</div>
-                                </div>
-                                <div class="team-social">
-                                    <ul>
-                                        <li> <a href="https://twitter.com/EliasOrdonezM"> <i class="ion-social-twitter-outline"></i> </a> </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <h6 class="iq-tw-6 iq-mt-10"><a href="team-details-1.html">Elías Ordoñez</a></h6>
-                            <p>CEO, Bitcoin</p>
-                        </div>
-                    </div>
-    
-               
-                </div>-->
                 <div class="row">
                     <div class="col-lg-2"></div>
                     <div class="col-lg-4 col-xs-2 col-md-5">
@@ -154,7 +112,15 @@
        <section class="overview-block-ptb iq-feature-aria pading=45px"></section>
         <!-- Team -->
         <!-- pilares -->
-            
+             <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title" >
+                            <h3 class="title iq-tw-5 iq-mb-20">Pilares</h3>
+                            <p> </p>
+                        </div>
+                    </div>
+                </div>
+              
             <div class="global-container">
                 <div class="scroll-container">
     <section class="cards clearfix">
@@ -368,35 +334,35 @@
 	    	<div class="imgcrop">
 		      <img dta-src="images/valores/1.jpg"
 		           data-srcset=""
-		           alt="Pilar 1">
+		           alt="">
 	    	</div>
 	    </li>
 	  	    	    <li class="imgpro1--item">
 	    	<div class="imgcrop">
 		      <img data-src="images/valores/2.jpg"
 		           data-srcset=""
-		           alt="Pilar 2">
+		           alt="">
 	    	</div>
 	    </li>
 	  	    	    <li class="imgpro1--item">
 	    	<div class="imgcrop">
 		      <img data-src="images/valores/3.jpg"
 		           data-srcset=""
-		           alt="Pilar 3">
+		           alt="">
 	    	</div>
 	    </li>
 	  	    	    <li class="imgpro1--item">
 	    	<div class="imgcrop">
 		      <img data-src="images/valores/4.jpg"
 		           data-srcset=""
-		           alt="Pilar 4">
+		           alt="">
 	    	</div>
 	    </li>
 	  	    	    <li class="imgpro1--item">
 	    	<div class="imgcrop">
 		      <img data-src="images/valores/5.jpg"
 		           data-srcset=""
-		           alt="Pilar 5">
+		           alt="">
 	    	</div>
 	    </li>
 	  	    	    <li class="imgpro1--item">
@@ -407,63 +373,7 @@
 	    	</div>
 	    </li>
               </ul>
-	           <ul class="imgpro2">
-	  	    	    <li class="imgpro2--item">
-	    	<div class="imgpro2--item-in">
-		    	<div class="imgcrop">
-			      <img src="images/valores/1.jpg"
-			           data-srcset=""
-			           alt="Pilar 1">
-		    	</div>
-	    	</div>
-	    </li>
-	  	    	    <li class="imgpro2--item">
-	    	<div class="imgpro2--item-in">
-		    	<div class="imgcrop">
-			      <img data-src="wp-content/uploads/2018/02/head-bearideas.jpg"
-			           data-srcset="http://eric-huguenin.com/wp-content/uploads/2018/02/head-bearideas-300x169.jpg 300w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-bearideas-150x84.jpg 150w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-bearideas-768x432.jpg 768w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-bearideas-1024x576.jpg 1024w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-bearideas.jpg 1920w"
-			           alt="Vignette du projet Bearideas">
-		    	</div>
-	    	</div>
-	    </li>
-	  	    	    <li class="imgpro2--item">
-	    	<div class="imgpro2--item-in">
-		    	<div class="imgcrop">
-			      <img data-src="wp-content/uploads/2018/02/head-creano.jpg"
-			           data-srcset="http://eric-huguenin.com/wp-content/uploads/2018/02/head-creano-300x169.jpg 300w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-creano-150x84.jpg 150w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-creano-768x432.jpg 768w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-creano-1024x576.jpg 1024w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-creano.jpg 1920w"
-			           alt="Vignette du projet Atelier Creano">
-		    	</div>
-	    	</div>
-	    </li>
-	  	    	    <li class="imgpro2--item">
-	    	<div class="imgpro2--item-in">
-		    	<div class="imgcrop">
-			      <img data-src="wp-content/uploads/2017/10/head-simone-2.jpg"
-			           data-srcset="http://eric-huguenin.com/wp-content/uploads/2017/10/head-simone-2-300x169.jpg 300w, http://eric-huguenin.com/wp-content/uploads/2017/10/head-simone-2-150x84.jpg 150w, http://eric-huguenin.com/wp-content/uploads/2017/10/head-simone-2-768x432.jpg 768w, http://eric-huguenin.com/wp-content/uploads/2017/10/head-simone-2-1024x576.jpg 1024w, http://eric-huguenin.com/wp-content/uploads/2017/10/head-simone-2.jpg 1920w"
-			           alt="Vignette du projet Simone & Simon">
-		    	</div>
-	    	</div>
-	    </li>
-	  	    	    <li class="imgpro2--item">
-	    	<div class="imgpro2--item-in">
-		    	<div class="imgcrop">
-			      <img data-src="wp-content/uploads/2018/02/head-farman.jpg"
-			           data-srcset="http://eric-huguenin.com/wp-content/uploads/2018/02/head-farman-300x169.jpg 300w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-farman-150x84.jpg 150w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-farman-768x432.jpg 768w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-farman-1024x576.jpg 1024w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-farman.jpg 1920w"
-			           alt="Vignette du projet Farman Aero">
-		    	</div>
-	    	</div>
-	    </li>
-	  	    	    <li class="imgpro2--item">
-	    	<div class="imgpro2--item-in">
-		    	<div class="imgcrop">
-			      <img data-src="wp-content/uploads/2018/02/head-sismo.jpg"
-			           data-srcset="http://eric-huguenin.com/wp-content/uploads/2018/02/head-sismo-300x169.jpg 300w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-sismo-150x84.jpg 150w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-sismo-768x432.jpg 768w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-sismo-1024x576.jpg 1024w, http://eric-huguenin.com/wp-content/uploads/2018/02/head-sismo.jpg 1920w"
-			           alt="Vignette du projet Les SISMO">
-		    	</div>
-	    	</div>
-	    </li>
-	  	  	</ul>
-        </div>
+	       </div>
         <!-- pilares end -->
     
     

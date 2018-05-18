@@ -99,7 +99,7 @@
                                   <div class="portfolio-item-container">
                                       <h1>Oportunidad</h1>
 			                 <!--begin-->
-                <form action="control_evento.php" method="post" class="contact-form" enctype="multipart/form-data">
+                <form action="controlador_actualiza_evento.php" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
 							<select class ="1" id="selectEvento" name="selectEvento" style="width=100%;">	
