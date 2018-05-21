@@ -56,10 +56,11 @@
     include('header2.php');
     ?>
     <!-- Header End -->
-     
+     <section class="overview-block-ptb iq-feature-aria pading=5px"></section>
+        
   
     <section class="overview-block-ptb iq-feature-aria">
-        <div class="container" style="height:500px;">
+        <div class="container" style="height:650px;">
                  <div class="box">
                         <h2>LOGIN</h2>
                      <form action="controlador_inicio_session.php" method="post">
@@ -79,6 +80,8 @@
             </div>
         </div>
         </section>
+
+        
     
         
        
@@ -249,7 +252,7 @@
         .box .inputBox input:valid ~label{
             top: -18px;
             left: 0;
-            color: #03a9f4;
+            color: #f9b707;
             font-size: 12px;
         }
         .box input[type="submit"]{
@@ -258,7 +261,7 @@
             outline: none;
             color:#fff;
             align-content: center;
-            background: #03a9f4;
+            background: #f9b707;
             padding: 10px 20px;
             cursor: pointer;
             border-radius: 5px;

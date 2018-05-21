@@ -84,8 +84,8 @@
                         <div class="ih-item square effect7"><a>
                             <div class="img"><img src="images/team/roberto.jpg" alt=""></div>
                             <div class="info">
-                            <br>
-                            <p><br><br><br>Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma</p>
+                            <br><br><br><br><br><br><br><br><br>
+                            <p>"Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"</p>
                             </div></a></div>
                       
                             <h6 class="iq-tw-6 iq-mt-10" style="text-align:center"><a href="https://twitter.com/robertotellou">Roberto Tello</a></h6>
@@ -97,8 +97,8 @@
                         <div class="ih-item square effect7"><a>
                             <div class="img"><img src="images/team/elias.jpg" alt=""></div>
                             <div class="info">
-                            <br>
-                            <p><br><br><br>"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</p>
+                            <br> <br><br><br><br><br><br><br><br><br>
+                            <p>"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</p>
                             </div></a></div>
                         
                            <h6 class="iq-tw-6 iq-mt-10" style="text-align:center;"><a a href="https://twitter.com/EliasOrdonezM">Elías Ordoñez</a></h6>
@@ -188,7 +188,7 @@
         </div>
       </a>
       <div class="card--bigtitle">
-        <div class="scroll-parallax" para-strength="-3">pilar 2</div>
+        <div class="scroll-parallax" para-strength="-3"></div>
       </div>
     </article>
 
@@ -221,7 +221,7 @@
         </div>
       </a>
       <div class="card--bigtitle">
-        <div class="scroll-parallax" para-strength="-3">pilar 3</div>
+        <div class="scroll-parallax" para-strength="-3"></div>
       </div>
     </article>
 
@@ -254,7 +254,7 @@
         </div>
       </a>
       <div class="card--bigtitle">
-        <div class="scroll-parallax" para-strength="-3"> pilar  4</div>
+        <div class="scroll-parallax" para-strength="-3"></div>
       </div>
     </article>
 
@@ -287,7 +287,7 @@
         </div>
       </a>
       <div class="card--bigtitle">
-        <div class="scroll-parallax" para-strength="-3">pilar 5</div>
+        <div class="scroll-parallax" para-strength="-3"></div>
       </div>
     </article>
 
@@ -320,7 +320,7 @@
         </div>
       </a>
       <div class="card--bigtitle">
-        <div class="scroll-parallax" para-strength="-3">pilar 6</div>
+        <div class="scroll-parallax" para-strength="-3"></div>
       </div>
     </article>
 

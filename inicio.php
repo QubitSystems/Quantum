@@ -273,8 +273,8 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <h3 class="title iq-tw-5 iq-mb-20">¿Cómo iniciar?</h3>
-                            <p>Formate como un QUANTUM MANAGER, un experto en dar soluciones financieras inteligentes y un lider de impacto mundial. </p>
+                            <h3 class="title iq-tw-5 iq-mb-20" >¿Cómo iniciar?</h3>
+                            <p  >Formate como un QUANTUM MANAGER, un experto en dar soluciones financieras inteligentes y un lider de impacto mundial. </p>
                             <br>
                         </div>
                     </div>
@@ -288,9 +288,9 @@
                         <figure class="imghvr-shutter-out-diag-1">
                             <img src="images/socio.jpg">
                                 <figcaption>
-                                    <h3>Como socio</h3>
+                                    <h3 style="font-size:1em;">Como socio</h3>
                                     <br>
-                                    <p>Descubre los beneficios de convertirte en un ejecutivo independiente de nuestra comunidad financiera.</p>
+                                    <p style="font-size:1em;">Descubre los beneficios de convertirte en un ejecutivo independiente de nuestra comunidad financiera.</p>
                                     <br>
                                     <a href="oportunidad.php"></a>
                                 </figcaption>
@@ -301,9 +301,9 @@
 						<figure class="imghvr-shutter-out-diag-1">
                             <img src="images/cliente.jpg">
                                 <figcaption>
-                                        <H3>Como cliente</H3>
+                                        <H3 style="font-size:1em;">Como cliente</H3>
                                         <br>
-                                        <p>Entérate de todos los servicios financieros que ponemos a disposición de nuestros clientes VIP.</p>
+                                        <p style="font-size:1em;">Entérate de todos los servicios financieros que ponemos a disposición de nuestros clientes VIP.</p>
                                         <a href="services.php"></a>
                                 </figcaption>
                         </figure>
@@ -335,8 +335,8 @@
                                     </p>
                                     <h5 class="iq-tw-6 ">Elias Ordoñez</h5>
                                     <span>CFO & Founder</span>
-                                    <br>
-                                    <img src="images/testimonio1.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;">
+                                    <br><br>
+                                    <img src="images/testimonio1.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;">
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
@@ -344,8 +344,8 @@
                                     </p>
                                     <h5 class="iq-tw-6 ">Roberto Tello Urrelo</h5>
                                     <span>CEO & Founder</span>
-                                    <br>
-                                    <img src="images/team/roberto.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;  ">
+                                    <br><br>
+                                    <img src="images/team/roberto.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;  ">
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
@@ -353,8 +353,8 @@
                                     </p>
                                     <h5 class="iq-tw-6 ">Julio Zoller</h5>
                                     <span>Asesor para LATAM</span>
-                                    <br>
-                                    <img src="images/" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;" >
+                                    <br><br>
+                                    <img src="images/" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;" >
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
@@ -362,8 +362,8 @@
                                     </p>
                                     <h5 class="iq-tw-6 ">Christian Torres</h5>
                                     <span>Trader Profesional</span>
-                                    <br>
-                                    <img src="images/testimonio3.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;">
+                                    <br><br>
+                                    <img src="images/testimonio3.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;">
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
@@ -371,8 +371,8 @@
                                     </p>
                                     <h5 class="iq-tw-6 ">Juan Diego Gomez</h5>
                                     <span>Invertir Mejor</span>
-                                    <br>
-                                    <img src="images/testimonio2.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: left;">
+                                    <br><br>
+                                    <img src="images/testimonio2.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;">
                                 </div>
                             </div>
                         </div>
@@ -396,12 +396,12 @@
                 <div class="row pos-r h-100">
                     <div class="col-lg-4 col-md-12 text-right">
                         <div class="iq-feature2 iq-mtb-20 first-l">
-                            <h4 class="iq-font-black iq-tw-5">Reducir y optimizar tus gastos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/01.png" alt=""></span>
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">1</span>Reducir y optimizar tus gastos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/01.png" alt=""></span>
 							</h4>
                             <p>Gasta menos y mejor, te ayudamos a salir rápidamente de deudas.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
                         <div class="iq-feature2 iq-mtb-20 second-l">
-                            <h4 class="iq-font-black iq-tw-5">Incrementar tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/02.png" alt=""></span>
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">2</span>Incrementar tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/02.png" alt=""></span>
 							</h4>
                             <p>Desarrolla un sistema para mejorar tus márgenes de ganancia.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
@@ -412,23 +412,23 @@
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="iq-feature2 iq-mtb-20 first-r">
-                            <h4 class="iq-font-black iq-tw-5"><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>Acumular Patrimonio
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">3</span><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>Acumular Patrimonio
 							</h4>
                             <p>Traza un plan y gestiona correctamente, convierte en cifras creíbles tu plan de vida.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
                         
                            <div class="iq-feature2 iq-mtb-20 second-r">
-                            <h4 class="iq-font-black iq-tw-5">Proteger tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">4</span>Proteger tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
 							</h4>
                             <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
-                     <div class="iq-feature2 iq-mtb-20 first-r">
-                            <h4 class="iq-font-black iq-tw-5">Vivir de tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>
-							</h4>
-                            <p> <!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
-                        </div>
-                    </div>
+                     </div>
                     <div class="particles text-center"><img class="img-fluid" src="images/particles.png" width="500px" height="520px" alt=""></div>
+                    <div class="iq-feature2 iq-mtb-20 " style="margin-left:auto;margin-right:auto;">
+                        <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">5</span>Vivir de tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>
+							</h4>
+                        </div>
+                    
                 </div>
         </div>
         </section>
@@ -458,12 +458,12 @@
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/05.png" alt="#"></a></div>
+                            
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
                             <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/05.png" alt="#"></a></div>
+                            
                         </div>
                     </div>
                 </div>
