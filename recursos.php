@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-4 offset=-1 align-self-center text-center">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x500" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/800x600" class="img-fluid"> </div>
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">

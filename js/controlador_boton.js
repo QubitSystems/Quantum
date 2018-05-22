@@ -52,14 +52,18 @@ jQuery(function($){
 			}
 		})
 	});*/
-    $('#changeE').click(function(){
+       $('#changeE').click(function(){
+        var id = document.getElementById("selectEvento").value;
+        console.log("El valor del evento es : " + id);
        $.ajax({
            url:'controlador_actualiza_evento.php',
-           data:{imagen:$('#imagen')},
+           data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val()},
            type:'POST',
            success : function(response){
+               
            alert("Se actualizo correctamente !!!");
            console.log("Respuesta al escoger el select evento:" + response)
+               
        },
               error:function(xhr, status){
            console.log('Disculpe, ocurrio un problema')
@@ -69,7 +73,9 @@ jQuery(function($){
            
        }) 
     });
-	$('#changeC').click(function(){
+
+    
+    $('#changeC').click(function(){
 		$.ajax({
 			url: 'controlador_actualiza_contacto.php',
 			data: {direccion: $('#direccion').val(), telefono: $('#telefono').val(), correo: $('#correo').val()},

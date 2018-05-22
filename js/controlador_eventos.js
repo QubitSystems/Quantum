@@ -11,6 +11,7 @@ jQuery(function($){
     .fail(function(){
        alert('Error al cargar el archivo');
    })
+
  $('#selectEvento').on('change',function(){
         var id=document.getElementById("selectEvento").value;
         console.log(id);
@@ -28,10 +29,12 @@ jQuery(function($){
                 $('#lugar').val(producto[4]);
                 $('#descripcion').val(producto[5]);
                 $('#imagen').val(producto[6]);
+                
             }
         })
-            }
-       )
+    })
+    
+ 	
 })
 /*jQuery(function($){
     $.ajax{

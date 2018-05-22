@@ -107,7 +107,7 @@ height: 100%;
                                             <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora2">9:00 PM A 11:00 PM</div></li>
                                             <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar2">Hotel Britania, Miraflores</div></li>
                                         </ul>
-                                        <div id="descripcion2">Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</div>
+                                        <div id="descripcion2"></div>
                                     </div>
                              
                                 </div>
@@ -157,6 +157,7 @@ height: 100%;
                     
                                 </div>
                             </div>
+                            <!--evento 6 no esta siendo usado por espacio 
                             <div class="tab-pane fade" id="evensix" role="tabpanel" aria-labelledby="evensix-tab">
                                 <div class="row">
                                     <div class="col-lg-4 col-md-12"><img src="images/feature/02.jpg" class="img-fluid" alt="#"></div>
@@ -170,7 +171,7 @@ height: 100%;
                                         <p>Retomamos con fuerza como cada jueves de cada mes, forma parte de nuestra presentación de negocios donde compartiremos la mejor cultura financiera, conoce las diferentes maneras de formar parte de la compañía, descubre cómo es que nuestros socios obtienen resultados a corto plazo y mucho más.</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -411,6 +412,9 @@ height: 100%;
     <script src="revslider/js/extensions/revolution.extension.parallax.min.js"></script>
     <script src="revslider/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script src="revslider/js/extensions/revolution.extension.video.min.js"></script>
+    <script src="js/controlador_editable_evento.js"></script>
+    
+    
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
     <script>
