@@ -25,7 +25,7 @@
            $consultaPersonalizada = "UPDATE eventos SET fecha='$fecha',nomb_evento='$nomb_evento',speaker='$speaker',hora='$hora',direccion='$lugar',descripcion='$descripcion' where id='$id'";
 	       $conexion->actualizar_datos($consultaPersonalizada);
             
-        
+            
 ?>
        
             

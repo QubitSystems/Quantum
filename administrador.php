@@ -149,9 +149,12 @@
 						            <label class="requerid product"><input id="nombre" type="text" name="nombre" placeholder="Nombre del Servicio" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion del Servicio" value=""></textarea></label>
                                     <a>Caracteristicas:</a>
-                                    <label class="requerid product"><input id="detalle1" type="text" name="detalle1" placeholder="" value="Caracteristica 1"></label>
-                                    <label class="requerid product"><input id="detalle2" type="text" name="detalle2" placeholder="" value="Caracteristica 2"></label>
-                                    <label class="requerid product"><input id="detalle3" type="text" name="detalle3" placeholder="" value="Caracteristica 3"></label>
+                                    <label class="requerid product"><input id="detalle1" type="text" name="detalle1" placeholder="Caracteristica 1" value=""></label>
+                                    <label class="requerid product"><input id="detalle2" type="text" name="detalle2" placeholder="Caracteristica 2" value=""></label>
+                                    <label class="requerid product"><input id="detalle3" type="text" name="detalle3" placeholder="Caracteristica 3" value=""></label>
+                                    <label class="requerid product"><input id="detalle4" type="text" name="detalle3" placeholder="Caracteristica 4" value=""></label>
+                                    <label class="requerid product"><input id="detalle5" type="text" name="detalle3" placeholder="Caracteristica 5" value=""></label>
+                                    
                                     <label class="required product"><input id="imagen_Servicio1" type="file" name="imagen_Servicio1" placeholder="" /></label>
                                     <label class="required product"><input id="imagen_Servicio2" type="file" name="imagen_Servicio2" placeholder="" /></label>
                                 <input id="changeS" class="btn" type="button" name="send-message" value="Guardar" />

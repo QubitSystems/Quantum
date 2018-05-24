@@ -66,19 +66,19 @@ height: 100%;
                     <div class="col-lg-12">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" id="eventone-tab" data-toggle="tab" href="#eventone" role="tab" aria-controls="eventone" aria-selected="true"><div id="fecha1">11 de Junio</div></a>
+                                <a class="nav-link active" id="eventone-tab" data-toggle="tab" href="#eventone" role="tab" aria-controls="eventone" aria-selected="true"><div id="fecha1"></div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventwo-tab" data-toggle="tab" href="#eventwo" role="tab" aria-controls="eventwo" aria-selected="false"><div id="fecha2">13 de Julio</div></a>
+                                <a class="nav-link" id="eventwo-tab" data-toggle="tab" href="#eventwo" role="tab" aria-controls="eventwo" aria-selected="false"><div id="fecha2"></div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventhree-tab" data-toggle="tab" href="#eventhree" role="tab" aria-controls="eventhree" aria-selected="false"><div id="fecha3"> 30 de Setiembre</div></a>
+                                <a class="nav-link" id="eventhree-tab" data-toggle="tab" href="#eventhree" role="tab" aria-controls="eventhree" aria-selected="false"><div id="fecha3"> </div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="eventfour-tab" data-toggle="tab" href="#eventfour" role="tab" aria-controls="eventfour" aria-selected="false"><div id="fecha4">16 de Noviembre</div></a>
+                                <a class="nav-link" id="eventfour-tab" data-toggle="tab" href="#eventfour" role="tab" aria-controls="eventfour" aria-selected="false"><div id="fecha4"></div></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false"><div id="fecha5">25 de Febrero</div></a>
+                                <a class="nav-link" id="evenfive-tab" data-toggle="tab" href="#evenfive" role="tab" aria-controls="evenfive" aria-selected="false"><div id="fecha5"></div></a>
                             </li>
                             
                         </ul>
@@ -87,11 +87,11 @@ height: 100%;
                                 <div class="row">
                                     <div class="col-lg-4 col-md-12"><img id="imagen1" src="images/eventos/jdgomez.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre1">Juan Diego Gomez en Lima</div></h5>
-                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker1">Juan Diego Gomez/ Invertir Mejor</div></div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre1"></div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker1"></div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora1">9:00 AM A 12:00 PM</div></li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar1">Hotel Sheraton</div></li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora1"></div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar1"></div></li>
                                         </ul>
                                         <div id="descripcion1"></div>
                                     </div>
@@ -101,11 +101,11 @@ height: 100%;
                                 <div class="row">
                                     <div class="col-lg-4 col-md-12"><img id="imagen2" src="images/eventos/presentacion.jpg" class="img-fluid" alt="#"></div>
                                      <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre2">PRE LANZAMIENTO</div></h5>
-                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker2">Elías Ordoñez & Roberto Tello</div></div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre2"></div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker2"></div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora2">9:00 PM A 11:00 PM</div></li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar2">Hotel Britania, Miraflores</div></li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora2"></div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar2"></div></li>
                                         </ul>
                                         <div id="descripcion2"></div>
                                     </div>
@@ -116,11 +116,11 @@ height: 100%;
                                 <div class="row">
                                     <div class="col-lg-4 col-md-12"><img id="imagen3" src="images/Eventos/" class="img-fluid" alt="#"></div>
                                      <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre3">CONFERENCIA PUCALLPA</div></h5>
-                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker3">CEO Roberto Tello Urrelo</div></div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre3"></div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker3"></div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora3">9:00 AM A 12:00 PM</div></li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar3">Hotel Casa Andina |Pucallpa</div></li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora3"></div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar3"></div></li>
                                         </ul>
                                         <div id="descripcion3"></div>
                                     </div>
@@ -131,11 +131,11 @@ height: 100%;
                                 <div class="row">
                                     <div class="col-lg-4 col-md-12"><img id="imagen4"src="images/eventos/" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
-                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre4">TRADING DAY NOVIEMBRE</div></h5>
-                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker4">Elías Ordoñez & Roberto Tello</div></div>
+                                        <h5 class="iq-tw-5 iq-mt-10"><div id="nombre4"></div></h5>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker4"></div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora4">9:00 AM A 12:00 M</div></li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar4">Hotel Britania, Miraflores</div></li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora4"></div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar:<div id="lugar4"></div></li>
                                         </ul>
                                         <div id="descripcion4"></div>
                                     </div>
@@ -147,10 +147,10 @@ height: 100%;
                                     <div class="col-lg-4 col-md-12"><img id="imagen5"src="images/eventos/desayuno.jpg" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10"><div id="nombre5">Desayuno Quantico</div></h5>
-                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker5">Elías Ordoñez & Roberto Tello</div></div>
+                                        <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker5"></div></div>
                                         <ul class="list-inline iq-mt-20 iq-mb-10">
-                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora5">9:00 AM A 12:00 M</div></li>
-                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar<div id="lugar5">Hotel Britania, Miraflores</div></li>
+                                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Hora:<div id="hora5"></div></li>
+                                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Lugar<div id="lugar5"></div></li>
                                         </ul>
                                         <div id="descripcion5"></div>
                                     </div>
@@ -413,7 +413,7 @@ height: 100%;
     <script src="revslider/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script src="revslider/js/extensions/revolution.extension.video.min.js"></script>
     <script src="js/controlador_editable_evento.js"></script>
-    
+    <script src="js/controlador_eventos.js"></script>
     
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
