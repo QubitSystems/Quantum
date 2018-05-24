@@ -44,16 +44,35 @@
             <div class="container">
                 <div class="row">
                     <!---->
-                    <?php
-                        include('servicios.php');
-                    ?>
+                            <div class="col-md-12">
+                        <ul class="nav nav-pills nav-fill mb-5" id="pills-tab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link iq-mb-0 active" id="pills-proyecciones-tab" data-toggle="pill" href="#pills-proyecciones" role="tab" aria-controls="pills-proyecciones" aria-selected="true"><div id="servicio1">Proyecciones Quantum</div></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link iq-mb-0" id="pills-vip-tab" data-toggle="pill" href="#pills-vip" role="tab" aria-controls="pills-vip" aria-selected="false"><div id="servicio2">Trading Vip</div></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link iq-mb-0" id="pills-quantum-tab" data-toggle="pill" href="#pills-quantum" role="tab" aria-controls="pills-quantum" aria-selected="false"><div id="servicio3">Quantum Academy</div></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link iq-mb-0" id="pills-vivo-tab" data-toggle="pill" href="#pills-vivo" role="tab" aria-controls="pills-vivo" aria-selected="false"><div id="servicio4">Forex Snipper</div></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link iq-mb-0" id="pills-fondo-tab" data-toggle="pill" href="#pills-fondo" role="tab" aria-controls="pills-fondo" aria-selected="false"><div id="servicio5">Fondo de Inversion 3.0</div></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link iq-mb-0" id="pills-portafolio-tab" data-toggle="pill" href="#pills-portafolio" role="tab" aria-controls="pills-portafolio" aria-selected="false"><div id="servicio6">Portafolio  3.0</div></a>
+                            </li>
+                        </ul>
+                    </div>
                     <!---->
                     <!--Proyecciones Quantum-->
                     <div class="col-md-12">
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-proyecciones" role="tabpanel" aria-labelledby="pills-proyecciones-tab">
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="servicio1">Proyecciones Quantum</div></h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre1">Proyecciones Quantum</div></h3>
                                 </div>
                                 <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
                                 <div class="row">
@@ -75,7 +94,7 @@
                             <!--servicio  Trading Vip-->
                             <div class="tab-pane fade" id="pills-vip" role="tabpanel" aria-labelledby="pills-vip-tab">
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="servicio2">Trading VIP</div></h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre2">Trading VIP</div></h3>
                                 </div>
                                 <p>Es un servicio de gestión exclusiva en el cual nuestros asesores y analistas detectaran las mejores oportunidades del mercado para brindarte asi las herramientas correctas con el servicio correcto y hacer que el dinero trabaje para ti de manera mas simple  </p>
                                 <div class="row">
@@ -98,7 +117,7 @@
                             <div class="tab-pane fade" id="pills-quantum" role="tabpanel" aria-labelledby="pills-quantum-tab">
                                 
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="servicio3">Quantum Academy</div></h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre3">Quantum Academy</div></h3>
                                 </div>
                                 <p>Fórmate como trader profesional con nosotros. Quantum Academy es la primera escuela on-line de aprendizaje dinámico y eficiente, nuestros profesores te tomarán de la mano y te guiarán en cada uno de nuestros módulos con el objetivo de que te convertirte en un trader apto para dar sus primeros pasos firmes en el mercado.</p>
                                 <div class="row">
@@ -124,7 +143,7 @@
                             <div class="tab-pane fade" id="pills-vivo" role="tabpanel" aria-labelledby="pills-vivo-tab">
                                 
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="servicio4">Forex Spiner</div></h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre4">Forex Spiner</div></h3>
                                 </div>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <div class="row">
@@ -148,7 +167,7 @@
                             <!--servicio fondo de inversion -->
                             <div class="tab-pane fade" id="pills-fondo" role="tabpanel" aria-labelledby="pills-fondo-tab">
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="servicio5">Fondo de Inversion </div></h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre5">Fondo de Inversion </div></h3>
                                 </div>
                                 <p>Invierte y ahorra para tu futuro mediante nuestro servicio de ahorro e inversion.<br>Quantum Club te ofrece un plan de ahorro e inversión de alta rentabilidad basados en activos tecnológicos.Respaldada en nuestra criptomoneda SPEAR como principal activo digital, como oferta inicial solo estaran disponibles 1 000 000 de unidades. </p>
                                 <div class="row">
@@ -177,7 +196,7 @@
                                     
                                 </div>
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="servicio6">Portafolio 3.0</div></h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre6">Portafolio 3.0</div></h3>
                                 </div>
                                 <p>Descubre como crear tu propio portafolio en criptomonedas con servicios hechos a tu medida y necesidad ademas descubre la forma correcta de hacer que el dinero trabaje para ti.</p>
                                 <div class="row">

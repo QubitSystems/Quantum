@@ -2,7 +2,7 @@
 		include('cargar_imagen.php');
 		include('conexion.php');
 		include('seccion.php');
-       
+       //mostrar la data en al momento de hacer el select al combo box
             $conexion = new conexion;
             $seccion =new seccion;
             $id=$_POST['id'];

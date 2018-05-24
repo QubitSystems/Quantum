@@ -1,57 +1,28 @@
 jQuery(function($){
-		/*$('#changeH').click(function(){
-		$.ajax({
-			url: 'controlador_actualiza_home.php',
-			data: {id: $( "select.slide option:selected" ).text(), title: $('#title_slide').text(), subtitle: $('#subtitle_slide').text()},
-			type: 'POST',
-			success: function(response){
-				//...
-			},
-			error: function(xhr, status){
-				console.log('Disculpe, ocurrió un problema')
-			},
-			complete: function(xhr, status){
-				console.log('Petición realizada')
-			}
-		})
-	});
-	
-	$('#changeN').click(function(){
-		//console.log($('#title').val()+ " "+$('#subtitle').val()+" "+$('#h1').val()+" "+$('#descripcion').val())
-		$.ajax({
-			url: 'controlador_actualiza_nosotros.php',
-			data: {title: $('#title').val(), subtitle: $('#subtitle').val(), h1: $('#h1').val(), descripcion: $('#descripcion').val(), idioma:1},
-			type: 'POST',
-			success: function(response){
-				console.log(response)
-			},
-			error: function(xhr, status){
-				console.log('Disculpe, ocurrió un problema')
-			},
-			complete: function(xhr, status){
-				console.log('Petición realizada')
-			}
-		})
-	});
-	
-	
-	$('#changeE').click(function(){
-		$.ajax({
-			url: 'controlador_actualiza_producto.php',
-			data: {descProduct: $('#descProduct').val(), product: $( "select option:selected" ).val(), idioma:1},
-			type: 'POST',
-			success: function(response){
-				alert("Se actualizo correctamente!!!");
-				console.log("RESPUESTA AL ESCOGER EL SELECT PRODUCTO: "+response)
-			},
-			error: function(xhr, status){
-				console.log('Disculpe, ocurrió un problema')
-			},
-			complete: function(xhr, status){
-				console.log('Petición realizada')
-			}
-		})
-	});*/
+		
+     $('#changeS').click(function(){
+         var id = document.getElementById("selectEvento").value;
+        console.log("El valor del evento es : " + id);
+        $.ajax({
+           url:'control_actualizar_servicio.php',
+           data:{'id':id ,nombre:$('#nombre').val(), descripcion:$('#descripcion').val(),caract1:$('#caracteristica1').val(),caract2:$('#caracteristica2').val(),caract3:$('#caracteristica3').val(),caract4:$('#caracteristica4').val()},
+           type:'POST',
+           success : function(response){
+               
+           alert("Se actualizo correctamente !!!");
+           console.log("Respuesta al escoger el select servicio:" + response)
+               
+       },
+           error:function(xhr, status){
+           console.log('Disculpe, ocurrio un problema')
+       }, complete:function(xhr, status){
+           console.log('Peticion realizada')
+       }
+           
+       }) 
+    });
+
+    
        $('#changeE').click(function(){
         var id = document.getElementById("selectEvento").value;
         console.log("El valor del evento es : " + id);

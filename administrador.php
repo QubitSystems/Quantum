@@ -93,12 +93,13 @@
             <div class="container">
                 
                 <div class="row">
-                    
+                    <!--Formulario de actualizar Evento-->
                     <div id="grid mix">
                         	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
                                   <div class="portfolio-item-container">
                                       <h1>Oportunidad</h1>
 			                 <!--begin-->
+                                      
                 <form action="controlador_actualiza_evento.php" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
@@ -133,7 +134,7 @@
               
                             
                     </div>
-                    
+                    <!--Formulario de actualizar servicio-->
                     <div id="grid mix">
                         	  <div class="item col-md-12  servicio" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
@@ -142,18 +143,18 @@
 				<form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
-							<select class ="2" id="selectServicio" name="selectSection" style="width=100%;">
+							<select class ="2" id="selectServicio" name="selectServicio" style="width=100%;">
 								
 							</select>
 						  </label>
-						            <label class="requerid product"><input id="nombre" type="text" name="nombre" placeholder="Nombre del Servicio" value=""></label>
+						            <label class="requerid product"><input id="nombreServicio" type="text" name="nombre" placeholder="Nombre del Servicio" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion del Servicio" value=""></textarea></label>
                                     <a>Caracteristicas:</a>
                                     <label class="requerid product"><input id="detalle1" type="text" name="detalle1" placeholder="Caracteristica 1" value=""></label>
                                     <label class="requerid product"><input id="detalle2" type="text" name="detalle2" placeholder="Caracteristica 2" value=""></label>
                                     <label class="requerid product"><input id="detalle3" type="text" name="detalle3" placeholder="Caracteristica 3" value=""></label>
-                                    <label class="requerid product"><input id="detalle4" type="text" name="detalle3" placeholder="Caracteristica 4" value=""></label>
-                                    <label class="requerid product"><input id="detalle5" type="text" name="detalle3" placeholder="Caracteristica 5" value=""></label>
+                                    <label class="requerid product"><input id="detalle4" type="text" name="detalle4" placeholder="Caracteristica 4" value=""></label>
+                               
                                     
                                     <label class="required product"><input id="imagen_Servicio1" type="file" name="imagen_Servicio1" placeholder="" /></label>
                                     <label class="required product"><input id="imagen_Servicio2" type="file" name="imagen_Servicio2" placeholder="" /></label>
@@ -179,7 +180,7 @@
                             
                     </div>
                   
-                    
+                    <!--Formulario de contacto-->
                        <div id="grid mix">
                         	  <div class="item col-md-12   contacto" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
