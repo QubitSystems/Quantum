@@ -14,6 +14,7 @@ jQuery(function($){
     $('#selectServicio').on('change',function(){
         var id=document.getElementById("selectServicio").value;
         console.log(id);
+    
         $.ajax({
             url:'control_servicio.php',
             type:'POST',
@@ -21,7 +22,7 @@ jQuery(function($){
             success:function(response){
                 servicio = response.split('#');
                 $('#nombreServicio').val(servicio[0]);
-                $('#descripcion').val(servicio[1]);
+                $('#descServicio').val(servicio[1]);
                 $('#caracteristica1').val(servicio[2]);
                 $('#caracteristica2').val(servicio[3]);
                 $('#caracteristica3').val(servicio[4]);

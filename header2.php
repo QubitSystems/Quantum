@@ -5,17 +5,17 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="topbar-left">
                             <ul class="list-inline">
-                               <!-- <li class="list-inline-item"><i class="fa fa-phone text-blue"></i> +0123 456 789</li>
-                                <li class="list-inline-item"><i class="fa fa-envelope-o"> </i> support@coinex.com</li>-->
+                               <!-- <li class="list-inline-item"><i class="fa fa-phone text-blue"></i> +0123 456 789</li>-->
+                                <li class="list-inline-item"><a href="login.php"><i class="fa fa-user-circle text-blue"></i>Login</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="topbar-right text-right">
                             <ul class="list-inline">
-                                <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Quantum Academy</a></li>
-                                <li class="list-inline-item"><a href="#"><i class="fa fa-comments-o"></i>Oficina Virtual</a></li>
-                                <li class="list-inline-item"><a href="login.php"><i class="fa fa-comments-o"></i>Login</a></li>
+                                <li class="list-inline-item"><a href="#"><i class=""></i>Quantum Academy</a></li>
+                                <li class="list-inline-item"><a href="#"><i class=""></i>Oficina Virtual</a></li>
+                                <li class="list-inline-item"><a href="#"><i class=""></i>Quantum Manager</a></li>
                             </ul>
                         </div>
                     </div>
@@ -33,15 +33,16 @@
                             <ul class="menu text-right">
                                 <li id="inicio"><a  href="inicio.php">Inicio</a>
                                 </li>
-                                <li id="oportunidad"><a class="" href="oportunidad.php">Oportunidad</a>
-                                  
-                                </li>
-                                <li id="quantum"><a href="quantum.php">Quantum</a>
+                               <li id="quantum"><a href="quantum.php">Quantum</a>
                                     
                                 </li>
                                 <li id="services"><a href="services.php">Servicios</a>
                                 
                                 </li>
+                                 <li id="oportunidad"><a class="" href="oportunidad.php">Oportunidad</a>
+                                  
+                                </li>
+                                
                                 
                                 <li id="contacto"><a href="contacto.php">Contacto</a>
                                     

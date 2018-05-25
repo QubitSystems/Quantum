@@ -26,7 +26,7 @@
             reemplazar en playlist= HrKuIxveC4M  por la nueva key
         -->
     <div class="video-container">
-<iframe width="1366" height="600" src="https://www.youtube.com/embed/HrKuIxveC4M?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=HrKuIxveC4M&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1366" height="600" src="https://www.youtube.com/embed/xbekoOuQ3Q8?rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=xbekoOuQ3Q8&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <style>
     .video-container {
@@ -367,7 +367,7 @@ height: 100%;
           <br><br>
         <center><input class="form-control" style="border-radius:25px;width:90%;display:flex;"type="text" ></center>
           <br><br>
-           <center><a type="button" class="btn btn-primary"href="recursos.php" style="background-color:#001841;border-color:#001841;margin-left:auto;margin-right:auto;">Ingresar</a></center>
+           <center><a type="button" class="btn btn-primary"href="recursos.php" style="background-color:#001841;border-color:#001841;border-radius:20px;margin-left:auto;margin-right:auto;">Ingresar</a></center>
        
       </div>
     </div>

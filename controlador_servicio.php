@@ -2,7 +2,7 @@
 		include('cargar_imagen.php');
 		include('conexion.php');
 		include('seccion.php');
-       
+       /* gestiona el combo box */
             $conexion = new conexion;
             $seccion =new seccion;
             $listas = '<option value="0">--Seleccione un Evento --</option>';

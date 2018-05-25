@@ -2,10 +2,10 @@ jQuery(function($){
 		
      $('#changeS').click(function(){
          var id = document.getElementById("selectEvento").value;
-        console.log("El valor del evento es : " + id);
+        console.log("El valor del servicio es : " + id);
         $.ajax({
-           url:'control_actualizar_servicio.php',
-           data:{'id':id ,nombre:$('#nombre').val(), descripcion:$('#descripcion').val(),caract1:$('#caracteristica1').val(),caract2:$('#caracteristica2').val(),caract3:$('#caracteristica3').val(),caract4:$('#caracteristica4').val()},
+           url:'control_actualizar_servicios.php',
+           data:{'id':id ,nombre:$('#nombre').val(), descServicios:$('#descripcion').val(),caract1:$('#caracteristica1').val(),caract2:$('#caracteristica2').val(),caract3:$('#caracteristica3').val(),caract4:$('#caracteristica4').val()},
            type:'POST',
            success : function(response){
                

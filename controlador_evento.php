@@ -2,7 +2,7 @@
 		include('cargar_imagen.php');
 		include('conexion.php');
 		include('seccion.php');
-       
+       /*controla el combo box de servicios */
             
             $conexion = new conexion;
             $seccion =new seccion;

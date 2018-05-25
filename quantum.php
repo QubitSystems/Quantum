@@ -276,7 +276,7 @@
               <div class="card--img-opa">
                 <div class="card--img-para scroll-parallax" para-strength="-5">
                   <div class="imgcrop">
-                                         <img src="images/valores/5.jpg"
+                                         <img src="images/valores/img5.JPG"
                           data-srcset=""
                           alt="">
                   </div>

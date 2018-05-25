@@ -29,7 +29,7 @@
                     <div class="heading-title">
                         <h3 class="title text-uppercase iq-font-white iq-tw-6">Recursos Quantum</h3>
                     </div>
-                    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p>Bienvenido a la seccion de recursos , en esta seccion podra encontrar informacion util </p>
                 </div>
             </div>
         </div>
@@ -84,9 +84,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image 555</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">Bienvenido a la seccion de recursos </h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p>.</p>
                             </div>
                         </div>
                     </div>
@@ -99,9 +99,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5"</h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -111,9 +111,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -124,9 +124,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -136,9 +136,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -148,9 +148,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -160,9 +160,9 @@
                             <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
-                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5">News Post With Image</h5> </a> </div>
+                            <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
                             <div class="news-content">
-                                <p>Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>

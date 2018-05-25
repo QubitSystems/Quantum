@@ -136,10 +136,10 @@
                      <!-- SLIDE  4-->
                     <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_bebf9-11.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/comunidad.jpg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <img src="revslider/assets/la-salud-y-el-feng-shui.jpeg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 9 -->
-                        <div class="tp-caption   tp-resizeme" id="slide-6-layer-4" data-x="center" data-hoffset="" data-y="center" data-voffset="-98" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;text-transform:uppercase;">SEGURO DE VIDA MAS INVERSION</div>
+                        <div class="tp-caption   tp-resizeme" id="slide-7-layer-6" data-x="center" data-hoffset="" data-y="center" data-voffset="-98" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;text-transform:uppercase;">SEGURO DE VIDA MAS INVERSION</div>
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-7-layer-11" data-x="center" data-hoffset="" data-y="center" data-voffset="-17" data-width="['70']" data-height="['1']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":1220,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgb(247,201,1);"> </div>
                         <!-- LAYER NR. 11 -->
@@ -148,7 +148,7 @@
                         <div class="tp-caption   tp-resizeme" id="slide-7-layer-14" data-x="center" data-hoffset="1" data-y="380" data-voffset="10" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":1870,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;">y sigan  manteniendo su estilo de vida</div>
                         
                         <!-- LAYER NR. 12 -->
-						<div class="tp-caption rev-btn button" id="slide-7-layer-12" data-x="center" data-y="430" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2400,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[30,30,30,30]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[30,30,30,30]" style=""><a href="oportunidad.php" style="color: #ffffff">Mas Info</a></div>
+						<!--<div class="tp-caption rev-btn button" id="slide-7-layer-12" data-x="center" data-y="430" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2400,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":""}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[1,1,1,1]" data-paddingright="[30,30,30,30]" data-paddingbottom="[1,1,1,1]" data-paddingleft="[30,30,30,30]" style=""><a href="oportunidad.php" style="color: #ffffff">Mas Info</a></div>-->
 						
                         <!--<div class="tp-caption   tp-resizeme rs-parallaxlevel-1" id="slide-7-layer-1" data-x="194" data-y="center" data-voffset="180" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":2660,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8;"><img src="revslider/assets/1f9f4-07.png" alt="" data-ww="157px" data-hh="231px" data-no-retina> </div>
                         <!-- LAYER NR. 13 -->
@@ -354,7 +354,7 @@
                                     <h5 class="iq-tw-6 ">Julio Zoller</h5>
                                     <span>Asesor para LATAM</span>
                                     <br><br>
-                                    <img src="images/" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;" >
+                                    <img src="images/julioZoller.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;" >
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
@@ -412,9 +412,9 @@
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="iq-feature2 iq-mtb-20 first-r">
-                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">3</span><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>Acumular Patrimonio
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">5</span>Vivir de tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>
 							</h4>
-                            <p>Traza un plan y gestiona correctamente, convierte en cifras creíbles tu plan de vida.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
+                            
                         </div>
                         
                            <div class="iq-feature2 iq-mtb-20 second-r">
@@ -425,8 +425,9 @@
                      </div>
                     <div class="particles text-center"><img class="img-fluid" src="images/particles.png" width="500px" height="520px" alt=""></div>
                     <div class="iq-feature2 iq-mtb-20 " style="margin-left:auto;margin-right:auto;">
-                        <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">5</span>Vivir de tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>
+                        <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">3</span><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>Acumular Patrimonio
 							</h4>
+                            <p>Traza un plan y gestiona correctamente,<br> convierte en cifras creíbles tu plan de vida.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
                         </div>
                     
                 </div>

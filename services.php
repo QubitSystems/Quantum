@@ -17,33 +17,13 @@
         ?>
     <!-- Header End -->
     <div class="clearfix"></div>
-    <!--======= Breadcrumb Inner Page =======-->
-    <!--<section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('http://via.placeholder.com/1800x1200'); background-position: center center;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="heading-title">
-                        <h3 class="title text-uppercase iq-font-white iq-tw-6">Services</h3>
-                    </div>
-                    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                </div>
-            </div>
-        </div>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="home.html">Inicio</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Servicios</li>
-            </ol>
-        </nav>
-    </section>-->
-    <!--======= Breadcrumb Inner Page =======-->
-    <!-- Main Content -->
-    <div class="main-content overview-block-ptb iq-services-2">
-        <!-- Tabing -->
+   <!-- Main Content -->
+    <!--<div class="main-content overview-block-ptb iq-services-2">
+        <!-- Tabing 
         <section class="iq-tab iq-hori-tab">
             <div class="container">
                 <div class="row">
-                    <!---->
+                   
                             <div class="col-md-12">
                         <ul class="nav nav-pills nav-fill mb-5" id="pills-tab" role="tablist">
                             <li class="nav-item">
@@ -67,7 +47,7 @@
                         </ul>
                     </div>
                     <!---->
-                    <!--Proyecciones Quantum-->
+                    <!--Proyecciones Quantum
                     <div class="col-md-12">
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-proyecciones" role="tabpanel" aria-labelledby="pills-proyecciones-tab">
@@ -91,7 +71,7 @@
                                 <p style="text-align:center">  "HAZ DINERO OPERANDO COMO LOS PROFESIONALES DEL TRADING"</p>
                             </div>
                             <!--end servicio Proyecciones Quantum-->
-                            <!--servicio  Trading Vip-->
+                            <!--servicio  Trading Vip
                             <div class="tab-pane fade" id="pills-vip" role="tabpanel" aria-labelledby="pills-vip-tab">
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre2">Trading VIP</div></h3>
@@ -113,7 +93,7 @@
                                 <p style="text-align:center">"ALTERNATIVA DE INVERSION QUE NO REQUIERE TIEMPO NI EXPERIENCIA"</p>
                             </div>
                             <!--end servicio Trading Vip-->
-                            <!-- quantum academy-->
+                            <!-- quantum academy
                             <div class="tab-pane fade" id="pills-quantum" role="tabpanel" aria-labelledby="pills-quantum-tab">
                                 
                                 <div class="heading-left title iq-mb-0">
@@ -139,7 +119,7 @@
                                 <p style="text-align:center">“APRENDE DE LOS MEJORES PARA SER EL MEJOR”</p>
                             </div>
                             <!--end quantum academy-->
-                            <!-- servicio trading en vivo-->
+                            <!-- servicio trading en vivo
                             <div class="tab-pane fade" id="pills-vivo" role="tabpanel" aria-labelledby="pills-vivo-tab">
                                 
                                 <div class="heading-left title iq-mb-0">
@@ -164,7 +144,7 @@
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                             </div>
                             <!--end Trading en Vivo-->
-                            <!--servicio fondo de inversion -->
+                            <!--servicio fondo de inversion 
                             <div class="tab-pane fade" id="pills-fondo" role="tabpanel" aria-labelledby="pills-fondo-tab">
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre5">Fondo de Inversion </div></h3>
@@ -190,7 +170,7 @@
                                 <p></p>
                             </div>
                             <!--end Fondo de Inversion -->
-                            <!--servicio portafolio 3.0-->
+                            <!--servicio portafolio 3.0
                             <div class="tab-pane fade" id="pills-portafolio" role="tabpanel" aria-labelledby="pills-portafolio-tab">
                                 <div class="row">
                                     
@@ -215,14 +195,14 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" alt="" src="images/services/big/12.jpg"></div>
                                 <p style="text-align:center">"Servicios hechos a tú medida y necesidad"</p>
                             </div>
-                            <!--end Portafolio 3.0-->
+                            <!--end Portafolio 3.0
                         </div>
                     </div>
-                    <!-- col-lg-12 End -->
+                    <!-- col-lg-12 End 
                 </div>
             </div>
         </section>
-        <!-- Tabing End -->
+        <!-- Tabing End 
           <section class="overview-block-ptb pading=40px">
           <div class="container">
               <div class="row">
@@ -233,7 +213,7 @@
                             
                             <div class="iq-blog"style="background-image: url('images/beneficios.png');">
                                 <!--<div class="step">1</div>
-                                <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
+                                <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>
                                 <h5 class="iq-tw-5 iq-mt-20 text-center" style="color:#fff"><a href="oportunidad.php">Beneficios de ser un Quantum Manager</a>
                                 </h5>
                             </div>
@@ -244,7 +224,7 @@
                             <div class="iq-bg" style="background-image: url('images/beneficios.png');"></div>
                             <div class="iq-blog "style="background-image: url('images/beneficios.png');">
                                 <!--<div class="step">1</div>
-                                <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
+                                <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>
                                 <h5 class="iq-tw-5 iq-mt-20 text-center" style="color:#fff"> <a href="contacto.php">
                                     Contacte con un asesor<br><br></a></h5>
                                
@@ -259,6 +239,268 @@
      
        
     </div>
+     <!-- Tabing -->
+    <div class="main-content overview-block-ptb iq-services-1">
+       
+        <section class="iq-tab">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12">
+                        <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-home" aria-selected="true">Proyecciones Quantum</a>
+                            <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-profile" aria-selected="false">Forex Spiner</a>
+                            <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-messages" aria-selected="false">Trading Vip</a>
+                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-settings" aria-selected="false">Cobertura de Vida Quantum</a>
+                            <a class="nav-link" id="v-pills-union-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-union" aria-selected="false">Cobertura de Vida mas inversion Quantum</a>
+                            <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-cash" aria-selected="false">Fondo Profesional Quantum</a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-cash" aria-selected="false">Quantum Academy</a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-cash" aria-selected="false">Fondo de Inversion </a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-cash" aria-selected="false">Portafolio 3.0</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 col-md-12">
+                        <div class="tab-content" id="v-pills-tabContent">
+                            <div class="tab-pane fade show active" id="v-pills-servicio1" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                                <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-servicio2" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                   <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-servicio3" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                            <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-servicio4" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                                  <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-servicio5" role="tabpanel" aria-labelledby="v-pills-union-tab">
+                                <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-servicio6" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                                   <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                             <div class="tab-pane fade" id="v-pills-servicio7" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                                   <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                             <div class="tab-pane fade" id="v-pills-servicio8" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                                   <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                             <div class="tab-pane fade" id="v-pills-servicio9" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                                   <div class="heading-left title iq-mb-0">
+                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                </div>
+                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p></p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <ul class="listing-hand iq-tw-6 iq-font-black">
+                                            <li class="iq-mt-15">caract 1</li><br>
+                                            <li class="iq-mt-15">caract 2</li><br>
+                                            <li class="iq-mt-15">caract 3</li><br>
+                                            <li class="iq-mt-15">caract 4</li><br>
+                                            <li class="iq-mt-15">caract 5</li><br>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                    </div>
+                                </div>
+                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                             
+                            </div>
+                        
+                        </div>
+                    </div>
+                    <!-- col-lg-9 End -->
+                </div>
+            </div>
+        </section>
+        <!-- Tabing End -->
+        <!-- contact -->
+  <!--      <section class="contact-box overview-block-pt5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-9 iq-over-black-80" style="background-image: url('http://via.placeholder.com/2000x1080'); background-position: center center;">
+                        <div class="row">
+                            <div class="col-lg-9 iq-pall-30">
+                                <h3 class="iq-font-white">How can we help you?</h3>
+                                <p class="iq-font-white">Contact us at the Consulting WP office nearest to you or submit a business inquiry online.</p>
+                                <div class="phone-box">
+                                    <a href="#"><img src="images/device/icon.png" alt=""></a>
+                                    <h6 class="iq-font-yellow iq-pl-50"> +0123 456 789</h6>
+                                </div>
+                            </div>
+                            <div class="contact-img col-lg-3">
+                                <img alt="" src="http://via.placeholder.com/238x249">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>-->
+        <!-- contact End-->
+    </div>
+   
     <!-- Main Content End -->
     <!--=================================
 Footer -->
@@ -269,96 +511,7 @@ Footer -->
 Footer -->
     <!--=================================
 Login -->
-    <div class="modal fade iq-login" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header text-center">
-                    <h4 class="modal-title iq-tw-5">Login</h4>
-                    <a class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </a>
-                </div>
-                <div class="modal-body">
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="recipient-name" placeholder="Enter Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control" id="recipient-password" placeholder="Password">
-                        </div>
-                        <a class="button iq-mtb-10" href="#">Sign In</a>
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input type="checkbox" class="form-check-input">Remember Me</label>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 text-right">
-                                <a href="#">Forgot Password</a>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div> Don't Have an Account? <a href="#" class="iq-font-yellow">Register Now</a></div>
-                    <ul class="iq-media-blog iq-mt-20">
-                        <li><a href="# "><i class="fa fa-twitter "></i></a></li>
-                        <li><a href="# "><i class="fa fa-facebook "></i></a></li>
-                        <li><a href="# "><i class="fa fa-google "></i></a></li>
-                        <li><a href="# "><i class="fa fa-github "></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--=================================
-Login -->
-    <!--=================================
-Register -->
-    <div class="modal fade iq-register" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header text-center">
-                    <h4 class="modal-title iq-tw-5">Register</h4>
-                    <a class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </a>
-                </div>
-                <div class="modal-body">
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="recipient-username" placeholder="User Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="recipient-email" placeholder="Email">
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control" id="password" placeholder="Password">
-                        </div>
-                        <div class="form-check">
-                            <label class="form-check-label">
-                                <input type="checkbox" class="form-check-input">I Agree to the Terms and Conditions</label>
-                        </div>
-                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <a class="button iq-mtb-10" href="#">Sign Up</a>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div> Already Have an Account? <a href="#" class="iq-font-yellow">Login</a></div>
-                    <ul class="iq-media-blog iq-mt-20">
-                        <li><a href="# "><i class="fa fa-twitter "></i></a></li>
-                        <li><a href="# "><i class="fa fa-facebook "></i></a></li>
-                        <li><a href="# "><i class="fa fa-google "></i></a></li>
-                        <li><a href="# "><i class="fa fa-github "></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--=================================
-Register -->
-    <!-- back-to-top -->
+  <!-- back-to-top -->
     <div id="back-to-top">
         <a class="top" id="top" href="#top"> <i class="ion-ios-upload-outline"></i> </a>
     </div>
