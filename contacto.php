@@ -80,8 +80,11 @@
                                 <div class="section-field iq-mb-30">
                                     <input id="phone" type="text" placeholder="Telefono*" pattern="[0-9]{9}"name="phone">
                                 </div>
+                                 <div class="section-field iq-mb-30">
+                                    <input id="referencia" type="text" placeholder="Quien lo refirio o como llego a nosotros*" name="referencia">
+                                </div>
                                 <div class="section-field iq-mb-30">
-                                    <textarea class="input-message" placeholder="Commentario*" name="message"></textarea>
+                                    <textarea class="input-message" placeholder="Interes*" name="message"></textarea>
                                     <input type="hidden" name="action" value="sendEmail" />
                                     <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Enviar </button>
                                 </div>

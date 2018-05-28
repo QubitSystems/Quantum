@@ -70,8 +70,8 @@ include("head.php");
             <div class="container">
                 <div class="row">
                          <div class="col-lg-4 col-md-12 iq-about1 iq-r-mt-40">
-                        <div class="calculator white-bg iq-pall-30">
-                            <img class="img-fluid" src="images/broker2.png" alt="">
+                        <div class="calculator white-bg iq-pall-30"><a href="https://my.lcg.com/apply/#/step1">
+                            <img class="img-fluid" src="images/broker2.png" alt=""></a>
                             
                         </div>
                     </div>

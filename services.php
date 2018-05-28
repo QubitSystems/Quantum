@@ -247,15 +247,15 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-12">
                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                            <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-home" aria-selected="true">Proyecciones Quantum</a>
-                            <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-profile" aria-selected="false">Forex Spiner</a>
-                            <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-messages" aria-selected="false">Trading Vip</a>
-                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-settings" aria-selected="false">Cobertura de Vida Quantum</a>
-                            <a class="nav-link" id="v-pills-union-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-union" aria-selected="false">Cobertura de Vida mas inversion Quantum</a>
-                            <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-cash" aria-selected="false">Fondo Profesional Quantum</a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-cash" aria-selected="false">Quantum Academy</a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-cash" aria-selected="false">Fondo de Inversion </a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-cash" aria-selected="false">Portafolio 3.0</a>
+                            <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-servicio1" aria-selected="true">Proyecciones Quantum</a>
+                            <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-servicio2" aria-selected="false">Forex Spiner</a>
+                            <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-servicio3" aria-selected="false">Trading Vip</a>
+                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-servicio4" aria-selected="false">Cobertura de Vida Quantum</a>
+                            <a class="nav-link" id="v-pills-union-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-servico5" aria-selected="false">Cobertura de Vida mas inversion Quantum</a>
+                            <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-servicio6" aria-selected="false">Fondo Profesional Quantum</a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-servicio7" aria-selected="false">Quantum Academy</a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-servicio8" aria-selected="false">Fondo de Inversion </a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-servicio9" aria-selected="false">Portafolio 3.0</a>
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-12">
@@ -269,11 +269,9 @@
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Recibe las mejores proyecciones de inversion a tu celular por parte de los especialistas y profesionales.</li><br>
+                                            <li class="iq-mt-15">Apalancamiento del conocimiento y experiencia en los mercados financieros de nuestro staff y comienze a ganar dinero como los expertos.</li><br>
+                                     <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -285,19 +283,19 @@
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio2" role="tabpanel" aria-labelledby="v-pills-profile-tab">
                                    <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Forex Spiner</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p>Es un servicio de alto impacto, que tiene el potencial de ofrecerte rentabilidad diaria basada en una estrategia de trading propia de la empresa llamada EL MÉTODO QUANTUM.<br>Este producto es totalmente automatico y trabaja mientras tu trabajas,estudias o duermes para poder brindarte los mayores beneficios en trading.</p>
                                 <p></p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Un producto totalmente automatico</li><br>
+                                            <li class="iq-mt-15">Basado en un poderoso metodo de inversion</li><br>
+                                            <li class="iq-mt-15">Obten beneficios diariamente y consistentemente.</li><br>
+                                            
                                         </ul>
+                                        <button >HOLA </button>
                                     </div>
                                     <div class="col-sm-6">
                                         <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
@@ -308,18 +306,18 @@
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio3" role="tabpanel" aria-labelledby="v-pills-messages-tab">
                             <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Trading Vip</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p>Es un servicio de gestion exclusiva en el cual nuestros asesores y analistas detectaran las mejores oportunidades del mercado para brindarte asi las herramientas correctas con el servicio correcto y hacer que el dinero trabaje para ti de manera mas simple</p>
                                 <p></p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Servicio exclusivo de gestion</li><br>
+                                            <li class="iq-mt-15">Alternativa de inversion que no requiere de tiempo ni experiencia</li><br>
+                                            <li class="iq-mt-15">Servicio que pone a trabajar tu dinero de manera automatica por nuestros especialistas</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -330,18 +328,19 @@
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio4" role="tabpanel" aria-labelledby="v-pills-settings-tab">
                                   <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Cobertura de Vida Quantum</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
-                                <p></p>
+                                <p>Este producto esta diseñado para ser un proveedor de protección frente al fallecimiento y la invalidez, es muy importante prevenir cualquier eventualidad, por eso nuestra cobertura de vida busca brindarte tranquilidad que necesitas tu y tu familia </p>
+                                <p>La Cobertura de Vida es un producto complementario de mucho valor que te asegura ante un posible deceso o invalidez mediante le desembolso rapido y efectivo de la cobertura.Es el apoyo que la familia necesita en los momentos mas dificiles y de esta manera poder superar economicamente los momentos dificiles y que los seres queridos sigan manteniendo su estilo de vida.</p><p>Quantum Club no solo busca tu tranquilidad sino que te premia y engrie con bonos de consumo anuales y participas de sorteos de premios increibles. </p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Protege a tu familia y asegura que sus sueños no se detengan ante posibles eventualidades.</li><br>
+                                            <li class="iq-mt-15">Si se produce el fallecimiento,estos productos estan diseñados para que los beneficios designados, puedan recibir una cobertura por el deceso que les permitan afrontar la situacion.</li><br>
+                                            <li class="iq-mt-15">Es un producto contratado para proteger economicamente a las personas que dependan de ti en caso de un posible fallecimiento.</li><br>
+                                            <li class="iq-mt-15">Vive seguro y feliz con los bonos y premios que la empresa ofrece anualmente y participa de sorteos de increibles premios.</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -353,18 +352,21 @@
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio5" role="tabpanel" aria-labelledby="v-pills-union-tab">
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Cobertura de Vida mas Inversion Quantum</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
-                                <p></p>
+                                <p>Es un producto que te provee proteccion e inversion, es una alternativa unica que Quantum Club te ofrece, es ante todo, una herramienta financiera donde se fusionan poderosos concepto de Inversion, ahorro y cobertura de vida, que te permite garantizar que todas tus metas se cumplan en corto y mediano tiempo.
+                                </p>
+                                <p>Ademas te permite que la familia pueda disponer de la cobertura ante cualquier eventualidad y que tus seres queridos sigan manteniendo su estilo de vida a traves del dinero invertido en el fondo.<br>Ademas Quantum Club no solo busca tu tranquilidad sino que te premia y engrie con bonos de consumo anuales , participa de sorteos increibles y forma parte del Club Millonario</p>
+                                <p>A quien va dirigido:<br>A ti, que buscas proteger a tu familiay asegurar tus metas.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Protege el estilo de vida de tu familia y asegura que sus sueños no se detengan.</li><br>
+                                            <li class="iq-mt-15">Sirve como un ahorro adicional para cumplir tus metas personales y familiares en el mediano y largo plazo.</li><br>
+                                            <li class="iq-mt-15">El dinero invertido se puede recuperar de forma inmediata (pasado generalmente el primer año) o cobrarse cuando llegue el momento del termino del contrato.</li><br>
+                                            <li class="iq-mt-15">Si se produce el fallecimiento, estos productos estan diseñados para que los beneficiarios designados, puedan recibir una cobertura por el deceso y podrian seguir aprovechando la rentabilidad del fondo.</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -376,18 +378,19 @@
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio6" role="tabpanel" aria-labelledby="v-pills-cash-tab">
                                    <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Fondo Profesional Quantum</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
-                                <p></p>
+                                <p>El Fondo Profesional QUANTUM CLUB te permite formar un capital garantizado para asegurar la educación profesional de los que mas quieres, al mismo tiempo que los proteges.</p>
+                                <p>A quien va dirigido:<br>A ti, que buscas brindarle a los tuyos el mejor futuro. El Fondo profesional Quantum Club esta dirigido a todo padre, abuelo o tutor preocupado para garantizar que sus seres mas queridos reciban una educacion profesional.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Protege el estilo de vida de tu familia y asegura que sus sueños profesionales no se detengan.</li><br>
+                                            <li class="iq-mt-15">Ahorra e invierte para el futuro profesional de los quen más amas.</li><br>
+                                            <li class="iq-mt-15">Puedes disponer el fondo para cualquier eventualidad si asi lo prefieres.</li><br>
+                                            <li class="iq-mt-15">Convenios con las mejores universidades e institutos.</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -399,18 +402,18 @@
                             </div>
                              <div class="tab-pane fade" id="v-pills-servicio7" role="tabpanel" aria-labelledby="v-pills-cash-tab">
                                    <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Quantum Academy</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <p>Formate como trader profesional con nosotros. Quantum Academy es la primera escuela on-line de aprendizaje dinamico y eficiente, nuestros profesores te tomaran de la mano  y te guiaran en cada uno de nuestros modulos con el objetivo de que te convertirte en un trader apto para dar sus primeros pasos firmes en el mercado</p>
                                 <p></p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">La mejor educacion financiera y bursatil en una sola plataforma.</li><br>
+                                            <li class="iq-mt-15">Formate como un inversionista trader exitoso</li><br>
+                                            <li class="iq-mt-15">Formate como un  experto en inversiones blockchain y criptomonedas.</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -422,18 +425,19 @@
                             </div>
                              <div class="tab-pane fade" id="v-pills-servicio8" role="tabpanel" aria-labelledby="v-pills-cash-tab">
                                    <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Fondo de Inversion</h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
-                                <p></p>
+                                <p>Invierte y ahorra para tu futuro mediante nuestro servicio de ahorro e inversion</p>
+                                <p>Quantum Club te ofrece un plan de ahorro e inversion de alta rentabilidad basados en activos tecnologicos Respaldada en nuestra criptomoneda SPEAR como principal activo digital, como oferta inicial solo estaran disponibles 1 000 000 unidades.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Inversion hecha a 12 meses.</li><br>
+                                            <li class="iq-mt-15">Rentabilidad fija y variable</li><br>
+                                            <li class="iq-mt-15">Exclusivo para socios y clientes de Quantum Club</li><br>
+                                            <li class="iq-mt-15">Respaldada en nuestra criptomoneda SPEAR como principal activo digital.</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -445,18 +449,19 @@
                             </div>
                              <div class="tab-pane fade" id="v-pills-servicio9" role="tabpanel" aria-labelledby="v-pills-cash-tab">
                                    <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20">Portafolio 3.0</h3><br>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
-                                <p></p>
+                                <p>Quantum Club ha diseñado este gran servicio para ayudarte a diversificar tus fondos buscando la mayor rentabilidad.</p>
+                                <p>Beneficiate de la gran experiencia que tenemos en inversiones y finanzas y sacale maximo provecho a tu capital.</p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">caract 1</li><br>
-                                            <li class="iq-mt-15">caract 2</li><br>
-                                            <li class="iq-mt-15">caract 3</li><br>
-                                            <li class="iq-mt-15">caract 4</li><br>
-                                            <li class="iq-mt-15">caract 5</li><br>
+                                            <li class="iq-mt-15">Diversifica de forma rentable tu capital</li><br>
+                                            <li class="iq-mt-15">Los instrumentos de inversion de mayor rentabilidad </li><br>
+                                            <li class="iq-mt-15">Rentabilidad fija, renta variable y activos digitales.</li><br>
+                                            <li class="iq-mt-15">Seguridad, confianza y experiencia.</li><br>
+                                            <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
+                                     
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">

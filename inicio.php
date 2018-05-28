@@ -289,7 +289,7 @@
                             <img src="images/socio.jpg">
                                 <figcaption>
                                     <h3 style="font-size:1em;">Como socio</h3>
-                                    <br>
+                                    <br><br>
                                     <p style="font-size:1em;">Descubre los beneficios de convertirte en un ejecutivo independiente de nuestra comunidad financiera.</p>
                                     <br>
                                     <a href="oportunidad.php"></a>
@@ -302,7 +302,7 @@
                             <img src="images/cliente.jpg">
                                 <figcaption>
                                         <H3 style="font-size:1em;">Como cliente</H3>
-                                        <br>
+                                        <br><br>
                                         <p style="font-size:1em;">Entérate de todos los servicios financieros que ponemos a disposición de nuestros clientes VIP.</p>
                                         <a href="services.php"></a>
                                 </figcaption>

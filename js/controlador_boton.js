@@ -45,6 +45,27 @@ jQuery(function($){
        }) 
     });
 
+     $('#changeV').click(function(){
+        var id = document.getElementById("selectVideo").value;
+        console.log("El valor del video es : " + id);
+       $.ajax({
+           url:'controlador_actualiza_videos.php',
+           data:{'id':id ,url:$('#url').val() },
+           type:'POST',
+           success : function(response){
+               
+           alert("Se actualizo correctamente !!!");
+           console.log("Respuesta al escoger el select evento:" + response)
+               
+       },
+              error:function(xhr, status){
+           console.log('Disculpe, ocurrio un problema')
+       }, complete:function(xhr, status){
+           console.log('Peticion realizada')
+       }
+           
+       }) 
+    });
     
     $('#changeC').click(function(){
 		$.ajax({

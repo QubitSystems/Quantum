@@ -6,6 +6,7 @@
             $conexion = new conexion;
             $seccion =new seccion;
             $id=$_POST['id'];
+            
             $campos = array ('fecha','nomb_evento','speaker','hora','direccion','descripcion','imagen');
             $arreglo_datos =$conexion->obtener_datos("select*from eventos where id=$id",$campos);
                 /* $seccion->colocar_arreglo_texto($arreglo_datos);

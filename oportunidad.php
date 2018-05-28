@@ -276,7 +276,98 @@ height: 100%;
                     </div>
        
                 </div>
+                     
+            </div>
+                <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                        </div>
+                    </div>
                 </div>
+                <div class="container">
+                             <div class="row">
+                              
+                    <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
+                        <figure class="imghvr-shutter-out-diag-1">
+                            <img src="images/silver.png">
+                                <figcaption style="font-size:1.2ex;">
+                                    <h5>Cobertura de Vida</h5>
+                                    <p >Pago Incial:Segun Plan<br>
+									Pago Mensual: Segun Plan <br>
+									5 puntos comisionables</p>
+                                    Pago Anual: Segun Plan <br>
+                                    60 puntos comisionables<br>
+                                    Tiempo de contrato: 5 años<br>
+                                    Cobertura de fallecimiento: $7000<br>
+                                    Cobertura de Invalidez: $6000<br>
+                                    Bono de Consumo Anual: $30<br>
+                                    Bono final: Segun Plan<br>
+                                    Chequeo Medico Anaul<br>
+                                    Participa de Salto Quantico<br>
+                                    Participa de sorteos de vaciones <br>
+                                    pagadas, viajes y paquetes navideños.
+                                    <a href="contacto.php"></a>
+                                </figcaption>
+                        </figure>
+                    </div>
+                   
+                      <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
+						<figure class="imghvr-shutter-out-diag-1">
+                            <img src="images/gold.png">
+                                <figcaption style="font-size:1.2ex;">
+                                    <h6>Cobertura de Vida mas inversion</h6>
+                                    <p >Pago Incial:Segun Plan<br>
+									Pago Mensual: Segun Plan <br>
+									5 puntos comisionables<br>
+                                    Pago Anual: Segun Plan <br>
+                                    60 puntos comisionables<br>
+                                    Tiempo de contrato: 5 años<br>
+                                    Cobertura de fallecimiento: $7000 mas Rentabilidad de Inversion<br>
+                                    Cobertura de Invalidez: $6000 mas Rentabilidad del Fondo<br>
+                                    Bono de Consumo Anual: $30<br>
+                                    Bono final: Segun Plan<br>
+                                    Membresia Club Milloanrio<br>
+                                    Chequeo Medico Anual<br>
+                                    Participa de Salto Quantico<br>
+                                    Participa de sorteos de vaciones <br>
+                                        pagadas, viajes y paquetes navideños.</p>
+                                        <a href="contacto.php"></a>
+                                </figcaption>
+                        </figure>
+                    </div>
+                       
+                    
+                    <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
+						<figure class="imghvr-shutter-out-diag-1">
+                            <img src="images/platinum.png">
+                                <figcaption style="font-size:14px;font-size:1.2ex;">
+                                    <h6>Fondo Profesional Quantum</h6>
+                                    <p >Nivel A<br>
+									Pago Anual:$80<br>
+                                    50 puntos comisionables<br>
+                                    Pago Mensual: $100<br>
+                                    Tiempo de Contrato:5 años<br>
+                                    Cobertura Profesional dentro de 5 años:<br>$ 8 250.00<br>
+                                        Nivel B<br>
+									Pago de Prima Anual:$50<br>
+                                    25 puntos comisionables<br>
+                                    Pago Mensual: $50<br>
+                                    Tiempo de Contrato:5 años<br>
+                                    Cobertura Profesional dentro de 5 años:<br>$ 4 125.00<br>
+                                        Participa del Salto Quantico, además ambos servicios te permiten participar de sorteos de vaciones pagadas, viajes y paquetes navideños.<br></p>
+                                        <a href="contacto.php"></a>
+                                </figcaption>
+                        </figure>
+                    </div>
+                    
+                                  
+                  
+                    </div>
+       
+                </div>
+                     
+            </div>
 
         </section>		
 		

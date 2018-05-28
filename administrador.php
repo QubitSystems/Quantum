@@ -212,8 +212,46 @@
               
                             
                     </div>
-                 
-            </div>
+                    
+                      <!--Formulario de Recursos-->
+                     <!--Formulario de actualizar servicio-->
+                    <div id="grid mix">
+                        	  <div class="item col-md-12  servicio" style = "border: 2px solid;">
+                <div class="portfolio-item-container">
+				<h1>RecursoVirtual</h1>
+			  <!--begin-->
+				<form action="#" method="post" class="contact-form" enctype="multipart/form-data">
+					<fieldset>
+						<label class="required product"><!--i class="icon-pencil"></i-->
+							<select class ="1" id="selectVideo" name="selectVideo" style="width=100%;">
+								
+							</select>
+						  </label>
+						            <label class="requerid product"><input id="url" type="text" name="url" placeholder="Url del video" value=""></label>
+                                  
+                                <input id="changeV" class="btn" type="button" name="send-message" value="Guardar" />
+                                <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->    
+                                
+					</fieldset>
+				</form>
+				<!--end-->
+				</div>
+                <!-- .portfolio-item-container ends -->
+              </div>
+                            
+                    </div>
+                     <div id="grid mix">
+                        	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
+                                  <div class="portfolio-item-contain">
+					               <img src="images/beneficios.png" style="max-height:609px;">
+                                  </div>
+                            </div>
+                <!-- .portfolio-item-container ends -->
+              
+                            
+                    </div>
+             
+                </div>
         </div>
         </div>
         </section>
@@ -3288,6 +3326,7 @@ ul.comment-reply {
     <script src="js/controlador_eventos.js"></script>
     <script src="js/controlador_servicios.js"></script>
     <script src="js/controlador_editable_evento.js"></script>
+    <script src="js/controlador_videos.js"></script>
 
     
     <!---->

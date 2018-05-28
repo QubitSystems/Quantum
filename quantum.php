@@ -87,9 +87,11 @@
                             <br><br><br><br><br><br><br><br><br>
                             <p>"Ingeniero, empresario, conferencista, trader profesional, experto en sistema de gestion de calidad y procesos,lector apasionado y Black Velvet en Lean Six Sigma"</p>
                             </div></a></div>
-                      
-                            <h6 class="iq-tw-6 iq-mt-10" style="text-align:center"><a href="https://twitter.com/robertotellou">Roberto Tello</a></h6>
+
+                            <h6 class="iq-tw-6 iq-mt-10" style="text-align:center"><a>Roberto Tello</a></h6>
                             <p style="text-align:center">CEO, Founder</p>
+                            
+                            <center><a href="https://twitter.com/robertotellou" target="_blank"><img alt="" height="32" src="images/twitter_socialnetwork_20007.ico" title="siguenos en Twitter" width="32" /></a></center>
                     </div>
                      
                     <div class="col-lg-4 col-md-5">
@@ -101,9 +103,10 @@
                             <p>"Empresario, conferencista,escritor, experto en marketing, apasionado por la estrategia y liderazgo."</p>
                             </div></a></div>
                         
-                           <h6 class="iq-tw-6 iq-mt-10" style="text-align:center;"><a a href="https://twitter.com/EliasOrdonezM">Elías Ordoñez</a></h6>
+                           <h6 class="iq-tw-6 iq-mt-10" style="text-align:center;"><a>Elías Ordoñez</a></h6>
                             <p style="text-align:center;">CFO, Founder</p>
-                            
+                            <center><a href="https://twitter.com/EliasOrdonezM" target="_blank"><img alt="" height="32" src="images/twitter_socialnetwork_20007.ico" title="siguenos en Twitter" width="32" /></a></center>
+                        
                     </div>
                       
                 </div>
