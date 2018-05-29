@@ -15,7 +15,7 @@
 	           $arregloRespuesta = array('Texto1'=>$arr[0], 'Texto2'=>$arr[1], 'Texto3'=>$arr[2],'Texto4'=>$arr[3],'Texto5'=>$arr[4],'Texto6'=>$arr[5],'Texto7'=>$arr[6]);
                 //RESPUESTA
                 //echo json_encode($arreglo_final);	
-             echo  utf8_encode( $arregloRespuesta['Texto1']."#".$arregloRespuesta['Texto2']."#".$arregloRespuesta['Texto3']."#".$arregloRespuesta['Texto4']."#".$arregloRespuesta['Texto5']."#".$arregloRespuesta['Texto6']."#".$arregloRespuesta['Texto7']);
+             echo  ( $arregloRespuesta['Texto1']."#".$arregloRespuesta['Texto2']."#".$arregloRespuesta['Texto3']."#".$arregloRespuesta['Texto4']."#".$arregloRespuesta['Texto5']."#".$arregloRespuesta['Texto6']."#".$arregloRespuesta['Texto7']);
             
      
 ?>
