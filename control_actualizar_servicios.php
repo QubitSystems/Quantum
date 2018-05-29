@@ -4,12 +4,12 @@
 		include('seccion.php');
        
             $id=$_POST['id'];
-            $nombre =$_POST['nombre'];
-            $descServicios =$_POST['descServicios'];
+            $nomb_servicio =$_POST['nomb_servicio'];
+            $desc_servicio =$_POST['desc_servicio'];
             $caract1 =$_POST['caract1'];
             $caract2 =$_POST['caract2'];
             $caract3 =$_POST['caract3'];
-            $caract4 =$_POST['caract4'];
+            
            
             //$archivo1 = $_FILES['imagen1'];
    
@@ -20,7 +20,7 @@
             if(isset($archivo)){
 		      $cargar_img->subir_imagen($archivo, $nombre_imagen.$id. '.jpg', 'images/', 2000000);
             }
-            $consultaPersonalizada = "UPDATE servicios SET nombre='$nombre',descripcion='$descServicios',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3',caracteristica4='$caract4' where id='$id'";
+            $consultaPersonalizada = "UPDATE servicios SET nomb_servicio='$nomb_servicio',desc_servicio='$desc_servicio',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3' where id='$id'";
 	       $conexion->actualizar_datos($consultaPersonalizada);
             
             

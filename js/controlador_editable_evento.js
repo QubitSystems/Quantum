@@ -5,7 +5,7 @@ jQuery(function($){
 		type: 'POST',
 		//dataType: 'json',
 		success: function(response){
-			console.log(response);  
+			//console.log(response);  
 			var fila = response.split('|') 
             var col_fila1 = fila[0].split('#')
 			$('#fecha1').text(col_fila1[0])

@@ -262,15 +262,15 @@
                         <div class="tab-content" id="v-pills-tabContent">
                             <div class="tab-pane fade show active" id="v-pills-servicio1" role="tabpanel" aria-labelledby="v-pills-home-tab">
                                 <div class="heading-left title iq-mb-0">
-                                    <h3 class="title iq-tw-5 iq-mb-20">Proyecciones Quantum</h3>
+                                    <h3 class="title iq-tw-5 iq-mb-20"><div id="nombre1"></div></h3>
                                 </div>
-                                <p>Recibe señales y alertas, a través de nuestra aplicación, con las inversiones del momento que nuestros especialistas determinan con la mayor precisión, brindándote los parámetros de cada inversión orientados a los mercados de commodities, acciones, índices, divisas y criptomonedas.</p>
+                                <div id="descServicio"><p></p></div>
                                 <p></p>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="listing-hand iq-tw-6 iq-font-black">
-                                            <li class="iq-mt-15">Recibe las mejores proyecciones de inversion a tu celular por parte de los especialistas y profesionales.</li><br>
-                                            <li class="iq-mt-15">Apalancamiento del conocimiento y experiencia en los mercados financieros de nuestro staff y comienze a ganar dinero como los expertos.</li><br>
+                                            <li class="iq-mt-15"><div id="caract1_1"></div></li><br>
+                                            <li class="iq-mt-15"><div id="caract2_1"></div></li><br>
                                      <center> <a href="contacto.php" class="button  iq-mt-10" style="text-align:center">INFORMES</a></center>
                                         </ul>
                                     </div>
