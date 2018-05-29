@@ -81,7 +81,7 @@
                     <div class="col-md-12 col-sm-4 offset=-1 align-self-center text-center">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/800x600" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a  id ="video1" name="video1" class="popup-youtube" href="https://www.youtube.com/watch?v=Op7Mx7ihyyo&t=74s"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5">Bienvenido a la seccion de recursos </h5> </a> </div>
@@ -96,7 +96,7 @@
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a id="video2" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5"</h5> </a> </div>
@@ -108,7 +108,7 @@
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a id="video3" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
@@ -121,7 +121,7 @@
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a id="video4" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
@@ -133,7 +133,7 @@
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a id="video5" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
@@ -145,7 +145,7 @@
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a id="video6" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
@@ -157,7 +157,7 @@
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
                             <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
-                            <div class="video play"><a class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
+                            <div class="video play"><a id="video7" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
                             <div class="news-title"> <a href="#"><h5 class="iq-tw-5"></h5> </a> </div>
@@ -199,6 +199,7 @@ Footer -->
     <script src="js/particles.js "></script>
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
+    <script src="js/controlador_enlace_video.js"></script>
 </body>
 
 </html>

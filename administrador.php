@@ -3327,6 +3327,7 @@ ul.comment-reply {
     <script src="js/controlador_servicios.js"></script>
     <script src="js/controlador_editable_evento.js"></script>
     <script src="js/controlador_videos.js"></script>
+    <script src="js/controlador_enlace_video.js"></script>
 
     
     <!---->
