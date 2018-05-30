@@ -9,7 +9,7 @@ if(isset($_POST["action"])) {
   $phone  = $_POST['phone'];     // Sender's email address
   $referencia = $_POST['referencia'];
   $message = $_POST['message'];    // Sender's message
-  $from = ' Contact Form';    
+  $from = ' Formulario de envio';    
   $to = 'rasecsv0@gmail.com';     // Recipient's email address
   $subject = 'Message from Contact Demo ';
     

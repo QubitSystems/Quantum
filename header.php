@@ -19,12 +19,33 @@
                                         <li class="list-inline-item"><a href="#" data-toggle="modal" data-target=".iq-register" data-whatever="@fat"><i class="fa fa-user"></i>Register</a></li>
                                     </ul>
                                 </li>-->
-                              <li class="list-inline-item"><a href="#"><i ></i>Quantum Academy</a></li>
-                                <li class="list-inline-item"><a href="#"><i ></i>Oficina Virtual</a></li>
-                                <li class="list-inline-item"><a href="#"><i></i>Quantum Manager</a></li>
+                              <li class="list-inline-item"><a href=" https://quantumacademy.talentlms.com/dashboard/welcome"><i ></i>Quantum Academy</a></li>
+                                <li class="list-inline-item"><a href="https://myquantumclub.com/sistema/"><i ></i>Oficina Virtual</a></li>
+                                <li class="list-inline-item"><a href=""><i></i>Quantum Manager</a></li>
                          </ul>
                         </div>
                     </div>
+                           <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+            <div class="modal-dialog" role="document">
+    <div class="modal-content" style="background-color:#666666;border-radius:2%;">
+      <div class="modal-body">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      
+          <h5 style="color:#fff;"><center>Sesion</center></h5>
+          <br>
+          <a style="color:#fff;">Codigo de ingreso:</a>
+          <br><br>
+        <center><input class="form-control" style="border-radius:25px;width:90%;display:flex;"type="text" ></center>
+          <br><br>
+           <center><a type="button" class="btn btn-primary"href="recursos.php" style="background-color:#001841;border-color:#001841;border-radius:20px;margin-left:auto;margin-right:auto;">Ingresar</a></center>
+       
+      </div>
+    </div>
+  </div>
+    </div>
+ 
                 </div>
             </div>
         </div>

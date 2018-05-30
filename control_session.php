@@ -8,9 +8,7 @@
 			header("Location:http://localhost/Repositorio/Quantum/login.php"); 
 			exit;
 		}
-
 		$now = time();
-
 		if($now > $_SESSION['expire']){
 			session_destroy();
 			header("Location: http://localhost/Repositorio/Quantum/login.php");
@@ -42,4 +40,4 @@
 			session_destroy();
 		}
 	}
-	?>		
+	?>	

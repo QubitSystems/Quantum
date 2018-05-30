@@ -247,15 +247,15 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-12">
                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                            <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-servicio1" aria-selected="true">Proyecciones Quantum</a>
-                            <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-servicio2" aria-selected="false">Forex Spiner</a>
-                            <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-servicio3" aria-selected="false">Trading Vip</a>
-                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-servicio4" aria-selected="false">Cobertura de Vida Quantum</a>
-                            <a class="nav-link" id="v-pills-union-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-servico5" aria-selected="false">Cobertura de Vida mas inversion Quantum</a>
-                            <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-servicio6" aria-selected="false">Fondo Profesional Quantum</a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-servicio7" aria-selected="false">Quantum Academy</a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-servicio8" aria-selected="false">Fondo de Inversion </a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-servicio9" aria-selected="false">Portafolio 3.0</a>
+                            <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-servicio1" aria-selected="true"><div id ="titulo1"></div></a>
+                            <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-servicio2" aria-selected="false"><div id="titulo2"></div></a>
+                            <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-servicio3" aria-selected="false"><div id="titulo3"></div></a>
+                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-servicio4" aria-selected="false"><div id="titulo4"></div></a>
+                            <a class="nav-link" id="v-pills-union-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-servico5" aria-selected="false"><div id="titulo5"></div> </a>
+                            <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-servicio6" aria-selected="false"><div id="titulo6"></div></a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-servicio7" aria-selected="false"><div id="titulo7"></div></a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-servicio8" aria-selected="false"><div id="titulo8"></div> </a>
+                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-servicio9" aria-selected="false"><div id="titulo9"></div></a>
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-12">

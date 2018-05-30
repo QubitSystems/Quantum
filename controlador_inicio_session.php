@@ -1,4 +1,4 @@
-    <?php
+  <?php
 	include('conexion.php');
 	include('seccion.php');
 	include('consultas.php');
@@ -6,7 +6,6 @@
 	session_start();
 	$user = $_POST['user'];
 	$pass = $_POST['pass'];
-
 	$seccion = new seccion;
 	$conexion = new conexion;
 	//NOMBRE Y CONTRASEÑA

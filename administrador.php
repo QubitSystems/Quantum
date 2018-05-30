@@ -113,7 +113,7 @@
                                     <label class="requerid product"><input id="lugar" type="text" name="lugar" placeholder="Lugar" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion" value=""></textarea></label>
                                     
-                                    <label class="required product"><input id="imagen" type="file" name="imagen" placeholder="" /></label>
+                                    <label class="required product"><input id="imagen_evento" type="file" name="imagen_evento" placeholder="" /></label>
                                     <input id="changeE" class="btn" type="button" name="send-message" value="Guardar" />
                                    <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->
 					</fieldset>
@@ -147,7 +147,9 @@
 								
 							</select>
 						  </label>
-						            <label class="requerid product"><input id="nomb_servicio" type="text" name="nomb_servicio" placeholder="Nombre del Servicio" value=""></label>
+						            <label class="requerid product"><input id="titulo" type="text" name="titulo" placeholder="Titulo del Servicio" value=""></label>
+                                    
+                                    <label class="requerid product"><input id="nomb_servicio" type="text" name="nomb_servicio" placeholder="Nombre del Servicio" value=""></label>
                                      <label class="requerid product"><textarea id="desc_servicio" type="text" name="desc_servicio" placeholder="Descripcion del Servicio" value=""></textarea></label>
                                     <a>Caracteristicas:</a>
                                     <label class="requerid product"><input id="caracteristica1" type="text" name="caracteristica1" placeholder="Caracteristica 1" value=""></label>
@@ -211,9 +213,8 @@
                     </div>
                     
                       <!--Formulario de Recursos-->
-                     <!--Formulario de actualizar servicio-->
                     <div id="grid mix">
-                        	  <div class="item col-md-12  servicio" style = "border: 2px solid;">
+                        	  <div class="item col-md-12 recursos" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
 				<h1>RecursoVirtual</h1>
 			  <!--begin-->
@@ -246,6 +247,25 @@
                 <!-- .portfolio-item-container ends -->
               
                             
+                    </div>
+                    
+                    <div id="grid mix">
+                     <div class="item col-md-12 recursos" style = "border: 2px solid;">
+                        <div class="portfolio-item-container">
+				            <h3>Codigo de Acceso </h3>
+			             <!--begin-->
+				            <form action="" method="post" class="contact-form" enctype="multipart/form-data">
+					           <fieldset>
+						            <label class="requerid product"><input id="token" type="text" name="token" placeholder="Ingrese el nuevo token para acceder a los recursos" value=""></label>   
+                                <input id="changeT" class="btn" type="button" name="send-message" value="Guardar" />
+                                <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->           
+					           </fieldset>
+				        </form>
+				<!--end-->
+				</div>
+                <!-- .portfolio-item-container ends -->
+              </div>
+         
                     </div>
              
                 </div>
@@ -3325,6 +3345,7 @@ ul.comment-reply {
     <script src="js/controlador_editable_evento.js"></script>
     <script src="js/controlador_videos.js"></script>
     <script src="js/controlador_enlace_video.js"></script>
+     <script src="js/controlador_editable_token.js"></script>
 
     
     <!---->
