@@ -296,7 +296,9 @@
                                             
                                         </ul>
                                         <!--imagen para descargar documento-->
-                                        <button >Imagen </button>
+                                        <br>
+                                        <a href="#">
+                            <img class="img-fluid" src="images/botonimg.png" style="border-radius:15px;height:30%;margin-left:15%;" alt=""></a>
                                     </div>
                                     <div class="col-sm-6">
                                         <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">

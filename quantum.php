@@ -47,7 +47,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <h3 class="iq-font-black iq-tw-5">¿Quiénes somos?<!--<span class="iq-font-yellow">Non-deterministic wallet</span>--></h3>
-                        <p class="iq-mt-10">Somos la empresa líder en el desarrollo de servicios, tecnología y productos financieros orientados a distintos segmentos económicos y sociales, brindamos soluciones financieras adecuadas para las necesidades de nuestros socios y clientes. Somos la comunidad financiera de mayor alcance y crecimiento en la industria, brindamos una plataforma educativa y formativa en inversiones, contamos con los servicios financieros de mayor impacto, precisión y rentabilidad en el mercado bursátil.
+                        <p class="iq-mt-10">QUANTUM CLUB  es una empresa líder en el desarrollo de servicios financieros y Network Marketing que brinda la oportunidad de integrarse al sistema financiero con productos innovadores y de alta rentabilidad que permiten obtener grandes beneficios de la industria financiera.<br> Somos una empresa concebida con un propósito claro, ser la numero uno en Latinoamérica en llevar soluciones financieras a todas las familias y personas que buscan mejorar sus finanzas y desarrollar su máximo potencial y capacidad financiera.
 						</p>
                     </div>
                     <div class="col-lg-6 col-md-12">
