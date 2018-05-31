@@ -298,7 +298,7 @@
                                         <!--imagen para descargar documento-->
                                         <br>
                                         <a href="#">
-                            <img class="img-fluid" src="images/botonimg.png" style="border-radius:15px;height:30%;margin-left:15%;" alt=""></a>
+                            <img class="img-fluid" src="images/botonimg.png" style="border-radius:15px;max-height:20%;max-width:80%;margin-left:15%;position:relative;" alt=""></a>
                                     </div>
                                     <div class="col-sm-6">
                                         <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">

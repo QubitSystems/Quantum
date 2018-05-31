@@ -15,7 +15,7 @@
                             <ul class="list-inline">
                                 <li class="list-inline-item"><a href=" https://quantumacademy.talentlms.com/dashboard/welcome"><i class=""></i>Quantum Academy</a></li>
                                 <li class="list-inline-item"><a href="https://myquantumclub.com/sistema/"><i class=""></i>Oficina Virtual</a></li>
-                                <li class="list-inline-item"><a href=""><i class=""></i>Quantum Manager</a></li>
+                                <li class="list-inline-item"><a href="login-recursos.php"><i class=""></i>Quantum Manager</a></li>
                             </ul>
                         </div>
                     </div>

@@ -5,7 +5,7 @@ jQuery(function($){
         console.log("El valor del evento es : " + id);
        $.ajax({
            url:'controlador_actualiza_evento.php',
-           data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val(),imagen_evento:$('#imagen_evento').val()},
+           data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val(),imagen:$('#imagen').val()},
            type:'POST',
            success : function(response){
                

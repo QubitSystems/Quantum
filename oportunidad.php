@@ -389,7 +389,10 @@ height: 100%;
         </section>-->
             <div id="contenedor">
                 <h1>Recursos</h1>
-                  <button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Ir</button>
+                <a style="display: block; width: 50px; height: 50px;
+                position:absolute;bottom: 0px;left: 50%;border-bottom-left-radius: 50px;
+                border-bottom-right-radius: 50px;background-color: #f9b707;background-repeat: no-repeat;text-align:center;text-color:#fff;" href="login-recursos.php">Ir</a>
+                  <!--<button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Ir</button>-->
             </div>
         <style>
             #contenedor{

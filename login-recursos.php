@@ -1,8 +1,3 @@
-<?php
-    include('control_session.php');
-    break_Session_Invalid();
-    is_Invalid();
-?>
 <!doctype html>
 <html lang="en">
 

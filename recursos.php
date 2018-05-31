@@ -1,6 +1,11 @@
+
+<?php
+    //sesion 
+    include('control_session_token.php');
+    validar_Session();
+?>
+
 <!doctype html>
-
-
 <html lang="en">
 <?php
     include("head.php");
@@ -15,9 +20,27 @@
     </div>
     <!-- loading End -->
     <!-- Header -->
-        <?php
-            include('header2.php');        
-        ?> 
+     <header>
+        <div class="iq-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="logo">
+                            <a href="inicio.php"><img class="img-fluid" src="images/quantum-color.png" alt="logo"></a>
+                        </div>
+                        <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
+                            <ul class="menu text-right">
+                                <form action="matar_sesion2.php" method="post">
+							<input type="submit" id="SignOff" name="signOff" value="Salir" style="background-color:#001841;overflow:hidden; color:#fff;"/>
+						</form>
+            
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header> 
     <!-- Header End -->
     <div class="clearfix"></div>
     <!--======= Breadcrumb Inner Page =======-->

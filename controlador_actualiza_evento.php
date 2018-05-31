@@ -2,7 +2,11 @@
 		include('cargar_imagen.php');
 		include('conexion.php');
 		include('seccion.php');
-       
+           /* $archivo = $_FILES['imagen'];
+             $cargar_img = new cargar_imagen;
+            if(isset($archivo)){
+		      $cargar_img->subir_imagen($archivo, $nomb_evento.$id.'.jpg', 'images/eventos/', 2000000);
+            }*/
             $id=$_POST['id'];
             $fecha =$_POST['fecha'];
             $nomb_evento =$_POST['nombre'];
@@ -10,12 +14,13 @@
             $hora =$_POST['hora'];
             $lugar =$_POST['direccion'];
             $descripcion =$_POST['descripcion'];
-            //$archivo = $_FILES['imagen_evento'];
-          //  $imagen_evento=$_POST['imagen_evento'];
+            
+           // $archivo = $_FILES['imagen'];
+          //  $imagen=$_POST['imagen_evento'];
             $conexion = new conexion;
             
             $seccion =new seccion;
-        
+           
            /* $conexion ->actualizar_datos("UPDATE `eventos` SET `fecha`=$fecha,`nomb_evento`=$nomb_evento,`speaker`=$speaker,`hora`=$hora,`direccion`=$lugar,`descripcion`=$descripcion where id=$id");
             */
            $consultaPersonalizada = "UPDATE eventos SET fecha='$fecha',nomb_evento='$nomb_evento',speaker='$speaker',hora='$hora',direccion='$lugar',descripcion='$descripcion' where id='$id'";

@@ -68,23 +68,31 @@
                     </div>
                     <div class="col-lg-7">
                         <h3 class="iq-mtb-30">Formulario de envio</h3>
+                        
                         <div id="formmessage">Success/Error Message Goes Here</div>
-                        <form class="form-horizontal" id="contactform" method="post" action="../php/contact-form.php">
+                        <form class="form-horizontal" id="contactform" method="post" action="php/contact-form.php">
                             <div class="contact-form">
+                                <div id="spam">
+								            <label>Dejar esto en blanco</label>
+								            <input type="text" id="dejarenblanco" name="dejarenblanco" />
+								            <label>No cambiar esto</label>
+								            <input type="text" value="http://" name="nocambiar" />
+							        	</div>
+                                
                                 <div class="section-field iq-mb-30">
-                                    <input id="name" type="text" placeholder="Nombre*" name="name"  >
+                                    <input id="name" type="text" placeholder="Nombre*" name="name" requerid="true" required="">
                                 </div>
                                 <div class="section-field iq-mb-30">
-                                    <input id="email" type="text" placeholder="Email*" name="email">
+                                    <input id="email" type="text" placeholder="Email*" name="email"  required="">
                                 </div>
                                 <div class="section-field iq-mb-30">
-                                    <input id="phone" type="text" placeholder="Telefono*" pattern="[0-9]{9}"name="phone">
+                                    <input id="phone" type="text" placeholder="Celular*" pattern="[0-9]{9}"name="phone" required="">
                                 </div>
                                  <div class="section-field iq-mb-30">
-                                    <input id="referencia" type="text" placeholder="Quien lo refirio o como llego a nosotros*" name="referencia">
+                                    <input id="referencia" type="text" placeholder="Quien lo refirio o como llego a nosotros*" name="referencia" required="">
                                 </div>
                                 <div class="section-field iq-mb-30">
-                                    <textarea class="input-message" placeholder="Interes*" name="message"></textarea>
+                                    <textarea class="input-message" placeholder="Interes*" name="message" required=""></textarea>
                                     <input type="hidden" name="action" value="sendEmail" />
                                     <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Enviar </button>
                                 </div>
@@ -107,6 +115,11 @@
         </section>
         <!-- Contact Us -->
     </div>
+    <style>
+            #spam{
+		          display:none;
+                }
+    </style>
     <!-- Main Content End -->
         <div class="clearfix"></div>
     <!--=================================

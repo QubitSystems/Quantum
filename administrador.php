@@ -113,7 +113,7 @@
                                     <label class="requerid product"><input id="lugar" type="text" name="lugar" placeholder="Lugar" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion" value=""></textarea></label>
                                     
-                                    <label class="required product"><input id="imagen_evento" type="file" name="imagen_evento" placeholder="" /></label>
+                                    <label class="required product"><input id="imagen" type="file" name="imagen" placeholder="" /></label>
                                     <input id="changeE" class="btn" type="button" name="send-message" value="Guardar" />
                                    <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->
 					</fieldset>
@@ -216,7 +216,7 @@
                     <div id="grid mix">
                         	  <div class="item col-md-12 recursos" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
-				<h1>RecursoVirtual</h1>
+				<h2>Recursos Virtuales</h2>
 			  <!--begin-->
 				<form action="#" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
@@ -248,11 +248,11 @@
               
                             
                     </div>
-                    
+                    <!--Formulario para modificar el codigo para acceder a los recursos-->
                     <div id="grid mix">
                      <div class="item col-md-12 recursos" style = "border: 2px solid;">
                         <div class="portfolio-item-container">
-				            <h3>Codigo de Acceso </h3>
+				            <h2>Codigo de Acceso </h2>
 			             <!--begin-->
 				            <form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					           <fieldset>
@@ -267,7 +267,51 @@
               </div>
          
                     </div>
-             
+                    <div id="grid mix">
+                        	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
+                                  <div class="portfolio-item-contain">
+					               <img src="images/beneficios.png" style="max-height:609px;">
+                                  </div>
+                            </div>
+                <!-- .portfolio-item-container ends -->
+              
+                            
+                    </div>
+                    <!--End Codigo-->
+                    
+                    <!--Formulario para modificar la contraseña del administrador-->
+                    <div id="grid mix">
+                     <div class="item col-md-12 recursos" style = "border: 2px solid;">
+                        <div class="portfolio-item-container">
+				            <h3>Modificar Administrador </h3>
+			             <!--begin-->
+				            <form action="" method="post" class="contact-form" enctype="multipart/form-data">
+					           <fieldset>
+                                    <label class="requerid product">Tenga presente que al modificar la contraseña se <br>restablecera la configuracion y no podra recuperar <br>la configuracion  anterior</label>    
+                                   <br>
+                                   
+						            <label class="requerid product"><input id="password" type="text" name="password" placeholder="Ingrese una  nueva contraseña" value=""></label>   
+                                <input id="changeA" class="btn" type="button" name="send-message" value="Guardar" />
+                                <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->           
+					           </fieldset>
+				        </form>
+				<!--end-->
+				</div>
+                <!-- .portfolio-item-container ends -->
+              </div>
+         
+                    </div>
+                    <div id="grid mix">
+                        	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
+                                  <div class="portfolio-item-contain">
+					               <img src="images/beneficios.png" style="max-height:609px;">
+                                  </div>
+                            </div>
+                <!-- .portfolio-item-container ends -->
+              
+                            
+                    </div>
+                    <!--End Codigo-->
                 </div>
         </div>
         </div>

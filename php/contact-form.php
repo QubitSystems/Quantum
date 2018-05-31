@@ -1,9 +1,16 @@
 <!-- /*
 NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
 */ -->
-
 <?php
+
 if(isset($_POST["action"])) {
+    if(isset($_POST['dejarenblanco'])){
+    		$dejarenblanco = $_POST['dejarenblanco'];
+	}
+	if(isset($_POST['nocambiar'])){
+    		$nocambiar = $_POST['nocambiar'];
+	}
+if ($dejarenblanco == '' && $nocambiar == 'http://') {
   $name = $_POST['name'];                 // Sender's name
   $email = $_POST['email'];     // Sender's email address
   $phone  = $_POST['phone'];     // Sender's email address
@@ -11,9 +18,9 @@ if(isset($_POST["action"])) {
   $message = $_POST['message'];    // Sender's message
   $from = ' Formulario de envio';    
   $to = 'rasecsv0@gmail.com';     // Recipient's email address
-  $subject = 'Message from Contact Demo ';
+  $subject = 'Mensaje de  Contacto ';
     
- $body ="From: $name \n E-Mail: $email \n Phone : $phone \n Referencia: $referencia \n Message : $message"  ;
+ $body ="From: $name \n E-Mail: $email \n Telefono : $phone \n Referencia: $referencia \n Interes : $message"  ;
 	
 	// init error message 
 	$errmsg='';
@@ -39,8 +46,8 @@ if(isset($_POST["action"])) {
 	$result='';
   // If there are no errors, send the email
   if (!$errmsg) {
-		if (mail ($to, $subject, $body, $from)) {
-			$result='<div class="alert alert-success">TThank you for contacting us. Your message has been successfully sent. We will contact you very soon!</div>'; 
+		if (mail ($to, $subject, $body)) {
+			$result='<div class="alert alert-success">Thank you for contacting us. Your message has been successfully sent. We will contact you very soon!</div>'; 
 		} 
 		else {
 		  $result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later.</div>';
@@ -51,4 +58,5 @@ if(isset($_POST["action"])) {
 	}
 	echo $result;
  }
+}
 ?>
