@@ -6,7 +6,7 @@ jQuery(function($){
    })
     .done(function(listas_desp){
        $('#selectEvento').html(listas_desp);
-       
+       //llena datos en el combo box
    })
     .fail(function(){
        alert('Error al cargar el archivo');
@@ -15,12 +15,13 @@ jQuery(function($){
  $('#selectEvento').on('change',function(){
         var id=document.getElementById("selectEvento").value;
         console.log(id);
+        
         $.ajax({
             url:'control_evento.php',
             type:'POST',
             data:{'id': id },
             success:function(response){
-                
+            //console.log(response);
                 producto = response.split('#');
                 $('#fecha').val(producto[0]);
                 $('#nombre').val(producto[1]);

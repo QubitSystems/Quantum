@@ -14,7 +14,9 @@ jQuery(function($){
             $('#hora1').text(col_fila1[3])
             $('#lugar1').text(col_fila1[4])
             $('#descripcion1').text(col_fila1[5])
-            $('#imagen1').text(col_fila1[6])
+           
+           
+           // $('#imagen1').text(col_fila1[6])
             
             var col_fila2 = fila[1].split('#')
             $('#fecha2').text(col_fila2[0])

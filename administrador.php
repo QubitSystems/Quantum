@@ -3406,7 +3406,7 @@ ul.comment-reply {
     <script src="revslider/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script src="revslider/js/extensions/revolution.extension.video.min.js"></script>
     <script>
-    var navigation = responsiveNav("#nav", {animate: true, openPos: "static", insert: "before", customToggle: "nav-toggle"});
+   //var navigation = responsiveNav("#nav", {animate: true, openPos: "static", insert: "before", customToggle: "nav-toggle"});
   </script>
     <!-- Custom JavaScript -->
     <style>

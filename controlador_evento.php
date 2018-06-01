@@ -18,5 +18,9 @@
             }
                //,'fecha','nomb_evento','speaker','hora','direccion','descripcion','imagen' 
            
-          
+       /* foreach($arr as $fila){
+              echo $fila[8]."#";
+          }*/
+            
+            
 ?>
