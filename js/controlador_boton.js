@@ -5,7 +5,7 @@ jQuery(function($){
         console.log("El valor del evento es : " + id);
        $.ajax({
            url:'controlador_actualiza_evento.php',
-           data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val(),imagen:$('#imagen').val()},
+           data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val()},
            type:'POST',
            success : function(response){
                
@@ -87,6 +87,25 @@ jQuery(function($){
 		$.ajax({
 			url: 'controlador_actualizar_token.php',
 			data: {token: $('#token').val()},
+			type: 'POST',
+			success: function(response){
+				alert(" Se actualizo correctamente!!!");
+				//console.log(response);
+			},
+			error: function(xhr, status){
+				console.log('Disculpe, ocurrió un problema')
+			},
+			complete: function(xhr, status){
+				console.log('Petición realizada')
+			}
+		})
+	});
+    
+    
+   $('#changeA').click(function(){
+		$.ajax({
+			url: 'controlador_actualizar_admin.php',
+			data: {password: $('#password').val()},
 			type: 'POST',
 			success: function(response){
 				alert(" Se actualizo correctamente!!!");

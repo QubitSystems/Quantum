@@ -113,7 +113,7 @@
                                     <label class="requerid product"><input id="lugar" type="text" name="lugar" placeholder="Lugar" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion" value=""></textarea></label>
                                     
-                                    <label class="required product"><input id="imagen" type="file" name="imagen" placeholder="" /></label>
+                                    <label class="required product"><input id="img_evento" type="file" name="img_evento"  placeholder="" /></label>
                                     <input id="changeE" class="btn" type="button" name="send-message" value="Guardar" />
                                    <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->
 					</fieldset>
@@ -287,7 +287,8 @@
 			             <!--begin-->
 				            <form action="" method="post" class="contact-form" enctype="multipart/form-data">
 					           <fieldset>
-                                    <label class="requerid product">Tenga presente que al modificar la contraseña se <br>restablecera la configuracion y no podra recuperar <br>la configuracion  anterior</label>    
+                                    <a style="color:red; margin-left:160px">--Advertencia--</a>
+                                    <label class="requerid product">Tenga presente que al modificar la contraseña se <br>restablecera la configuracion y no podra recuperar <br>la contraseña  anterior</label>    
                                    <br>
                                    
 						            <label class="requerid product"><input id="password" type="text" name="password" placeholder="Ingrese una  nueva contraseña" value=""></label>   
@@ -3390,7 +3391,7 @@ ul.comment-reply {
     <script src="js/controlador_videos.js"></script>
     <script src="js/controlador_enlace_video.js"></script>
      <script src="js/controlador_editable_token.js"></script>
-
+    <script src="js/controlador_editable_admin.js"></script>
     
     <!---->
     <script src="revslider/js/jquery.themepunch.tools.min.js"></script>

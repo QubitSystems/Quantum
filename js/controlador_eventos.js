@@ -15,7 +15,10 @@ jQuery(function($){
  $('#selectEvento').on('change',function(){
         var id=document.getElementById("selectEvento").value;
         console.log(id);
-        
+        var file2 = $('#img_evento');  
+        var archivo = file2[0].files;
+        console.log(archivo);
+      
         $.ajax({
             url:'control_evento.php',
             type:'POST',
@@ -29,11 +32,10 @@ jQuery(function($){
                 $('#hora').val(producto[3]);
                 $('#lugar').val(producto[4]);
                 $('#descripcion').val(producto[5]);
-                $('#imagen').val(producto[6]);
-                
+                                
             }
         })
     })
     
- 	
+
 })

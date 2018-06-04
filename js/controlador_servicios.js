@@ -12,6 +12,8 @@ jQuery(function($){
    })
     
     $('#selectServicio').on('change',function(){
+        
+       
         var id=document.getElementById("selectServicio").value;
         console.log(id);
     
