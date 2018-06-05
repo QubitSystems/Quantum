@@ -113,7 +113,7 @@
                                     <label class="requerid product"><input id="lugar" type="text" name="lugar" placeholder="Lugar" value=""></label>
                                      <label class="requerid product"><textarea id="descripcion" type="text" name="descripcion" placeholder="Descripcion" value=""></textarea></label>
                                     
-                                    <label class="required product"><input id="img_evento" type="file" name="img_evento"  placeholder="" /></label>
+                                    <label class="required product"><input id="img_evento" type="file" name="img_evento" onchange="return cambiarFile();" placeholder=""  /></label>
                                     <input id="changeE" class="btn" type="button" name="send-message" value="Guardar" />
                                    <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->
 					</fieldset>
@@ -3392,11 +3392,13 @@ ul.comment-reply {
     <script src="js/controlador_enlace_video.js"></script>
      <script src="js/controlador_editable_token.js"></script>
     <script src="js/controlador_editable_admin.js"></script>
-    
+    <script src="js/imagen_evento.js"></script>
+   
     <!---->
     <script src="revslider/js/jquery.themepunch.tools.min.js"></script>
     <script src="revslider/js/jquery.themepunch.revolution.min.js"></script>
     <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+    
     <script src="revslider/js/extensions/revolution.extension.actions.min.js"></script>
     <script src="revslider/js/extensions/revolution.extension.carousel.min.js"></script>
     <script src="revslider/js/extensions/revolution.extension.kenburn.min.js"></script>
@@ -3674,7 +3676,17 @@ ul.comment-reply {
   });
 	
   </script>
-  
+    <script>
+   /* function cambiarFile(){
+    const input = document.getElementById('img_evento');
+    if(input.files && input.files[0])
+        console.log("File Seleccionado : ", input.files[0]);
+        
+    
+    }   
+        
+        console.log("Sin Archivo Seleccionado " + document.getElementById('img_evento').files[0]);*/
+    </script>
  
 </body>
 

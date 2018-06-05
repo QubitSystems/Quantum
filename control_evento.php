@@ -3,8 +3,8 @@
 		include('conexion.php');
 		include('seccion.php');
        //mostrar la data en al momento de hacer el select al combo box
+         
            
-           if($_POST){
             $conexion = new conexion;
             $seccion =new seccion;
             $id=$_POST['id'];
@@ -23,9 +23,9 @@
 	           //RESPUESTA
 	           //echo json_encode($arreglo_final);	
 	           echo $arregloRespuesta['Texto1']."#".$arregloRespuesta['Texto2']."#".$arregloRespuesta['Texto3']."#".$arregloRespuesta['Texto4']."#".$arregloRespuesta['Texto5']."#".$arregloRespuesta['Texto6']."#".$arregloRespuesta['Texto7'];
-            }
-            $archivo = $_FILES['img_evento']['name'];
-            echo ("el nombre es" + $archivo);
+            
+         
+
 //,'fecha','nomb_evento','speaker',       'hora',    'direccion','descripcion','imagen' 
                  
 ?>
