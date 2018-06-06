@@ -212,13 +212,13 @@
                             
                     </div>
                     
-                      <!--Formulario de Recursos-->
-                    <div id="grid mix">
+                      <!--Formulario de Recursos Virtuales-->
+            <div id="grid mix">
                         	  <div class="item col-md-12 recursos" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
 				<h2>Recursos Virtuales</h2>
 			  <!--begin-->
-				<form action="#" method="post" class="contact-form" enctype="multipart/form-data">
+				<form action="#" id="frmVideoEdit" method="post" class="contact-form" enctype="multipart/form-data">
 					<fieldset>
 						<label class="required product"><!--i class="icon-pencil"></i-->
 							<select class ="1" id="selectVideo" name="selectVideo" style="width=100%;">
@@ -234,7 +234,7 @@
 				</form>
 				<!--end-->
 				</div>
-                <!-- .portfolio-item-container ends -->
+                
               </div>
                             
                     </div>
@@ -244,18 +244,54 @@
 					               <img src="images/beneficios.png" style="max-height:609px;">
                                   </div>
                             </div>
-                <!-- .portfolio-item-container ends -->
-              
+                       
+                    </div>
+                <!--  ends -->    
+                    <!--Formulario de Recursos descargables-->
+                    
+         <div id="grid mix">
+          <div class="item col-md-12 " style = "border: 2px solid;">
+                <div class="portfolio-item-container">
+				<h3>Recursos para Descargar</h3>
+			  <!--begin-->
+				<form action=""  method="post" class="contact-form" enctype="multipart/form-data">
+					<fieldset>
+						          <h4>Plan de Beneficios:</h4> <br>   
+						          <label class="requerid product"><input id="planBeneficios" type="text" name="planBeneficios" placeholder="Ingrese la URL del Plan de Beneficios" value=""></label>
+                                    <h3></h3>
+                                    <h4>Recursos Power Point:</h4><br>
+                                  <label class="requerid product"><input id="diapositivas" type="text" name="diapositivas" placeholder="Ingrese la URL de las PPT " value=""></label>
+                                  
+                                <input id="changeR" class="btn" type="button" name="send-message" value="Guardar" />
+                                <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->    
+                                
+					</fieldset>
+				</form>
+				<!--end-->
+				</div>
+                
+              </div>
                             
                     </div>
+                     <div id="grid mix">
+                        	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
+                                  <div class="portfolio-item-contain">
+					               <img src="images/beneficios.png" style="max-height:609px;">
+                                  </div>
+                            </div>
+                       
+                    </div>
+     
+                    <!---->
                     <!--Formulario para modificar el codigo para acceder a los recursos-->
                     <div id="grid mix">
                      <div class="item col-md-12 recursos" style = "border: 2px solid;">
                         <div class="portfolio-item-container">
 				            <h2>Codigo de Acceso </h2>
 			             <!--begin-->
-				            <form action="" method="post" class="contact-form" enctype="multipart/form-data">
+				            <form action="" id="frmTokenEdit" method="post" class="contact-form" enctype="multipart/form-data">
 					           <fieldset>
+                                    <h4>Codigo :</h4>
 						            <label class="requerid product"><input id="token" type="text" name="token" placeholder="Ingrese el nuevo token para acceder a los recursos" value=""></label>   
                                 <input id="changeT" class="btn" type="button" name="send-message" value="Guardar" />
                                 <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->           
@@ -290,7 +326,7 @@
                                     <a style="color:red; margin-left:160px">--Advertencia--</a>
                                     <label class="requerid product">Tenga presente que al modificar la contraseña se <br>restablecera la configuracion y no podra recuperar <br>la contraseña  anterior</label>    
                                    <br>
-                                   
+                                   <h3>Contraseña:</h3>
 						            <label class="requerid product"><input id="password" type="text" name="password" placeholder="Ingrese una  nueva contraseña" value=""></label>   
                                 <input id="changeA" class="btn" type="button" name="send-message" value="Guardar" />
                                 <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->           
@@ -3392,6 +3428,7 @@ ul.comment-reply {
     <script src="js/controlador_enlace_video.js"></script>
      <script src="js/controlador_editable_token.js"></script>
     <script src="js/controlador_editable_admin.js"></script>
+    
     <script src="js/imagen_evento.js"></script>
    
     <!---->

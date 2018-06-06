@@ -18,7 +18,7 @@
             $conexion = new conexion;
             $seccion =new seccion;
             
-
+            //metodo para subir imagen 1
              $nombre_nuevo_archivo = $nomb_servicio.$id.'.jpg';
             $tamanio = 2000000;
              $ruta = 'images/Servicios/';
@@ -43,6 +43,8 @@
             }else {
 					print "No valid file uploaded.";
 			}
+
+            //metodo para subir imagen 2
             $nombre_nuevo_archivoTwo = $data.$nomb_servicio.$id.'.jpg';
             
            	if(isset($archivoTwo) && ($archivoTwo['error'] == UPLOAD_ERR_OK)){

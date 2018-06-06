@@ -117,6 +117,7 @@ jQuery(function($){
 			url: 'controlador_actualizar_admin.php',
 			data: {password: $('#password').val()},
 			type: 'POST',
+            
 			success: function(response){
 				alert(" Se actualizo correctamente!!!");
 				//console.log(response);
@@ -129,4 +130,24 @@ jQuery(function($){
 			}
 		})
 	});
+    
+      $('#changeR').click(function(){
+		$.ajax({
+			url: 'controlador_actualiza_recursos.php',
+			data: {planBeneficios: $('#planBeneficios').val(),diapositivas:$('#diapositivas').val()},
+			type: 'POST',
+            
+			success: function(response){
+				alert(" Se actualizo correctamente!!!");
+				//console.log(response);
+			},
+			error: function(xhr, status){
+				console.log('Disculpe, ocurrió un problema')
+			},
+			complete: function(xhr, status){
+				console.log('Petición realizada')
+			}
+		})
+	});
+    
 });	

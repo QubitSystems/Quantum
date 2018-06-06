@@ -75,8 +75,8 @@
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center">Plan de Beneficios </h5>
-                                <a href="#"></a>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"><a id="planBeneficio" href="#">Plan de Beneficios</a> </h5>
+                                
                             </div>
                         </div>
                     </div>
@@ -86,8 +86,8 @@
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center">Recursos de Power Point </h5>
-                                <a href="#"></a>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a id="diapositivas" href="#">Recursos de Power Point </a></h5>
+                               
                             </div>
                         </div>
                     </div>
@@ -222,6 +222,7 @@ Footer -->
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
     <script src="js/controlador_enlace_video.js"></script>
+    <script src="js/controlador_editable_recursos.js"></script>
 </body>
 
 </html>
