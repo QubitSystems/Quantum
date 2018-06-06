@@ -6,7 +6,12 @@ jQuery(function($){
            
        $.ajax({
            url:'controlador_actualiza_evento.php',
-           data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val(),img_evento:$('#img_evento').val()},
+           //data:{'id':id ,fecha:$('#fecha').val(), nombre:$('#nombre').val(),speaker:$('#speaker').val(),hora:$('#hora').val(),direccion:$('#lugar').val(),descripcion:$('#descripcion').val(),img_evento:$('#img_evento').val()},
+		  // data:$('#frmEventsEdit').serialize(),
+		   data: new FormData($("#frmEventsEdit")[0]),
+           //dataType: 'json',
+           contentType: false,
+           processData: false,
            type:'POST',
            success : function(response){
                

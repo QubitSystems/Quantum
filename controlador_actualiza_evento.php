@@ -5,14 +5,14 @@
                 
             var_dump($_FILES);
     
-            $id=$_POST['id'];
+            $id=$_POST['selectEvento'];
             $fecha =$_POST['fecha'];
             $nomb_evento =$_POST['nombre'];
             $speaker =$_POST['speaker'];
             $hora =$_POST['hora'];
-            $lugar =$_POST['direccion'];
+            $lugar =$_POST['lugar'];
             $descripcion =$_POST['descripcion'];
-            //$img_evento =$_POST['img_evento'];
+            $img_evento =$_FILES['img_evento'];
             $conexion = new conexion; 
             $seccion =new seccion;
         
