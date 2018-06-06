@@ -85,7 +85,7 @@ height: 100%;
                         <div class="tab-content iq-mt-30" id="myTabContent">
                             <div class="tab-pane fade show active" id="eventone" role="tabpanel" aria-labelledby="eventone-tab">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-12"><img id="imagen1" src="images/eventos/jdgomez.jpg" class="img-fluid" alt="#"></div>
+                                    <div class="col-lg-4 col-md-12"><img id="imagen1" src="" class="img-fluid" alt="#"></div>
                                     <div class="col-lg-8 col-md-12">
                                         <h5 class="iq-tw-5 iq-mt-10"><div id="nombre1"></div></h5>
                                         <div id="speaker"><span class="iq-tw-5 iq-font-black lead">Speaker:</span><div id="speaker1"></div></div>

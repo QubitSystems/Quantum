@@ -5,14 +5,13 @@
 			
 		}
 		else{
-			header("Location:http://localhost/quantum/login.php"); 
+			header("Location:http://localhost/Repositorio/Quantum/login.php"); 
 			exit;
 		}
 		$now = time();
 		if($now > $_SESSION['expire']){
 			session_destroy();
-			header("Location: http://localhost/quantum/login.php");
-			
+			header("Location:http://localhost/Repositorio/Quantum/login.php");
 		}
 	}
 	
@@ -20,8 +19,7 @@
 		session_start();
 		unset($_SESSION['username']);
 		session_destroy();
-		header("Location: http://localhost/quantum/login.php");
-		
+		header("Location:http://localhost/Repositorio/Quantum/login.php");
 	}
 	
 	function is_InValid(){

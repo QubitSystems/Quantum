@@ -14,7 +14,9 @@ jQuery(function($){
             $('#hora1').text(col_fila1[3])
             $('#lugar1').text(col_fila1[4])
             $('#descripcion1').text(col_fila1[5])
-           
+             $("#imagen1").attr("src",col_fila1[6])
+           // var video1= $('#imagen1').attr("src",v1);
+          
            
            // $('#imagen1').text(col_fila1[6])
             
@@ -25,7 +27,7 @@ jQuery(function($){
             $('#hora2').text(col_fila2[3])
             $('#lugar2').text(col_fila2[4])
             $('#descripcion2').text(col_fila2[5])
-            $('#imagen2').text(col_fila2[6])
+            $('#imagen2').attr("src",col_fila2[6])
             
             var col_fila3 = fila[2].split('#')
             $('#fecha3').text(col_fila3[0])
@@ -34,6 +36,7 @@ jQuery(function($){
             $('#hora3').text(col_fila3[3])
             $('#lugar3').text(col_fila3[4])
             $('#descripcion3').text(col_fila3[5])
+            $('#imagen3').attr("src",col_fila3[6])
             
              var col_fila4 = fila[3].split('#')
             $('#fecha4').text(col_fila4[0])
@@ -42,6 +45,7 @@ jQuery(function($){
             $('#hora4').text(col_fila4[3])
             $('#lugar4').text(col_fila4[4])
             $('#descripcion4').text(col_fila4[5])
+            $('#imagen4').attr("src",col_fila4[6])
             
              var col_fila5 = fila[4].split('#')
             $('#fecha5').text(col_fila5[0])
@@ -50,6 +54,7 @@ jQuery(function($){
             $('#hora5').text(col_fila5[3])
             $('#lugar5').text(col_fila5[4])
             $('#descripcion5').text(col_fila5[5])
+            $('#imagen5').attr("src",col_fila5[6])
             	},
 		error: function(jqXHR, status, error){
 			alert('disculpe ocurrió un error');

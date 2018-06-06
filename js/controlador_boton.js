@@ -32,7 +32,11 @@ jQuery(function($){
         console.log("El valor del servicio es : " + id);
         $.ajax({
            url:'control_actualizar_servicios.php',
-           data:{'id':id ,titulo:$('#titulo').val(),nomb_servicio:$('#nomb_servicio').val(), desc_servicio:$('#desc_servicio').val(),caract1:$('#caracteristica1').val(),caract2:$('#caracteristica2').val(),caract3:$('#caracteristica3').val()},
+         //  data:{'id':id ,titulo:$('#titulo').val(),nomb_servicio:$('#nomb_servicio').val(), desc_servicio:$('#desc_servicio').val(),caract1:$('#caracteristica1').val(),caract2:$('#caracteristica2').val(),caract3:$('#caracteristica3').val()},
+              data: new FormData($("#frmServicesEdit")[0]),
+           //dataType: 'json',
+           contentType: false,
+           processData: false,
            type:'POST',
            success : function(response){
                

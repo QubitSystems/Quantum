@@ -6,4 +6,4 @@
      
     }   
      console.log("Sin Archivo Seleccionado " + document.getElementById('img_evento').files[0]);
-  console.log("el dato es:", dato);
+ 

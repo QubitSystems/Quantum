@@ -26,13 +26,14 @@ if ($dejarenblanco == '' && $nocambiar == 'http://') {
 	$errmsg='';
   // Check if name has been entered
   if (!$_POST['name']) {
-   $errmsg = 'Ingresar un nombre';
+        die('Ingresar un nombre');
+      //$errmsg = 'Ingresar un nombre';
   }
 
   
   // Check if email has been entered and is valid
   if (!$_POST['email'] || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
-   $errmsg = 'Ingresar un email valido';
+  $errmsg = 'Ingresar un email valido';
   }
   
   if(!$_POST['referencia']){

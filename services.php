@@ -275,10 +275,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" alt="" id="imagen1_1" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen1_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                                 
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio2" role="tabpanel" aria-labelledby="v-pills-profile-tab">
@@ -301,10 +301,10 @@
                             <img class="img-fluid" src="images/botonimg.png" style="border-radius:15px;max-height:20%;max-width:80%;margin-left:15%;position:relative;" alt=""></a>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" alt="" id="imagen2_1" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen2_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio3" role="tabpanel" aria-labelledby="v-pills-messages-tab">
@@ -324,10 +324,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" id="imagen3_1" alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen3_1" alt="" src="http://via.placeholder.com/1600x687"></div>
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio4" role="tabpanel" aria-labelledby="v-pills-settings-tab">
                                   <div class="heading-left title iq-mb-0">
@@ -345,10 +345,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" id="imagen4_1" alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen4_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio5" role="tabpanel" aria-labelledby="v-pills-union-tab">
@@ -367,10 +367,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" id="imagen5_1" alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen5_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio6" role="tabpanel" aria-labelledby="v-pills-cash-tab">
@@ -390,10 +390,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" id="imagen6_1"alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen6_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                              <div class="tab-pane fade" id="v-pills-servicio7" role="tabpanel" aria-labelledby="v-pills-cash-tab">
@@ -413,10 +413,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" alt="" id="imagen7_1" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen7_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                              <div class="tab-pane fade" id="v-pills-servicio8" role="tabpanel" aria-labelledby="v-pills-cash-tab">
@@ -436,10 +436,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" id="imagen8_1" alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen8_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                              <div class="tab-pane fade" id="v-pills-servicio9" role="tabpanel" aria-labelledby="v-pills-cash-tab">
@@ -459,10 +459,10 @@
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
-                                        <img class="img-fluid" alt="" src="http://via.placeholder.com/500x351">
+                                        <img class="img-fluid" id="imagen9_1" alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen9_2"alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
                         
