@@ -29,7 +29,7 @@
                         <nav> <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
                             <ul class="menu text-right">
                                 <form action="matar_sesion.php" method="post">
-							<input type="submit" id="SignOff" name="signOff" value="Salir" style="background-color:#001841;overflow:hidden; color:#fff;"/>
+							<input type="submit" id="SignOff" name="signOff" value="Salir" style="background-color:#001841;overflow:hidden;line-height: 50px;color:#fff;"/>
 						</form>
             
                             </ul>

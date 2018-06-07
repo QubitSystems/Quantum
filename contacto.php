@@ -98,7 +98,7 @@
                                 </div>
                             </div>
                         </form>
-                        <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/ajax-loader.gif" alt=""></div>
+                        <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="" alt=""></div>
                     </div>
                 </div>
             </div>
