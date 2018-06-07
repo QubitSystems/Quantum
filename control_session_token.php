@@ -5,13 +5,13 @@
 			
 		}
 		else{
-			header("Location:http://localhost/Repositorio/Quantum/login-recursos.php"); 
+			header("Location:http://localhost/quantum/login-recursos.php"); 
 			exit;
 		}
 		$now = time();
 		if($now > $_SESSION['expire']){
 			session_destroy();
-			header("Location: http://localhost/Repositorio/Quantum/login-recursos.php");
+			header("Location: http://localhost/quantum/login-recursos.php");
 			
 		}
 	}
@@ -20,7 +20,7 @@
 		session_start();
 		unset($_SESSION['username']);
 		session_destroy();
-		header("Location: http://localhost/Repositorio/Quantum/login-recursos.php");
+		header("Location: http://localhost/quantum/login-recursos.php");
 		
 	}
 	

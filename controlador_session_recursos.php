@@ -19,11 +19,11 @@
 		$_SESSION['start'] = time();
 		$_SESSION['expire'] = $_SESSION['start']+(5*60);
 		
-		header('Location: http://localhost/Repositorio/Quantum/recursos.php');
+		header('Location: http://localhost/quantum/recursos.php');
 		exit;
 	}
 	else {
 		$_SESSION['usuarioInvalido'] = true;
-		header('Location: http://localhost/Repositorio/Quantum/login-recursos.php');
+		header('Location: http://localhost/quantum/login-recursos.php');
 	}
 ?>

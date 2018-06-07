@@ -51,7 +51,7 @@
 						</p>
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <img class="img-fluid mx-auto d-block iq-mt-10" src="images/device/01.png" alt="icon1">
+                        <img class="img-fluid mx-auto d-block iq-mt-10" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="images/device/01.png" alt="icon1">
                     </div>
                     <div class="col-lg-6 col-md-12 about-box  align-self-center">
                         <blockquote class="iq-mt-20 white-bg iq-pall-30 font-italic">Quantum Club nace bajo la filosofía de precisión y excelencia, creemos que el profesionalismo y versatilidad pueden obtener resultados óptimos y crecientes. En consecuencia, de la filosofía creamos y adaptamos Quantum Club para cubrir las expectativas de las partes involucradas, desarrollando no solo el potencial financiero de nuestros clientes, sino también el potencial humano que todas las personas merecemos descubrir y desarrollar para una mejor calidad de vida.
