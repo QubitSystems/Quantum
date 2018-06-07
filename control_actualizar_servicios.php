@@ -14,7 +14,8 @@
             $archivo =$_FILES['img_servicio1'];
             $archivoTwo = $_FILES['img_servicio2'];
             //$archivo1 = $_FILES['imagen1'];
-            $data = time();
+            $data = date('d-m-Y');
+            
             //$archivo2 = $_FILES['imagen2'];
             $conexion = new conexion;
             $seccion =new seccion;

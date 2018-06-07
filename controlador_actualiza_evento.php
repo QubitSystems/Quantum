@@ -13,7 +13,8 @@
             $lugar =$_POST['lugar'];
             $descripcion =$_POST['descripcion'];
             $img_evento =$_FILES['img_evento'];
-            $date =time();
+            $date =date('d-m-Y');
+            $hora =date('H:i:s');
            /** $cargar_img = new cargar_imagen;
             if(isset($img_evento)){
 		      $cargar_img->subir_imagen($img_evento, $date.$nomb_evento.$id. '.jpg', 'images/Eventos/', 2000000);
