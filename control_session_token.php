@@ -1,17 +1,18 @@
 <?php
+    include('constantes_url.php');
 	function validar_Session(){
 		session_start();
 		if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true){
 			
 		}
 		else{
-			header("Location:http://localhost/quantum/login-recursos.php"); 
+			header(constantes_url::acceso_denegado_recursos); 
 			exit;
 		}
 		$now = time();
 		if($now > $_SESSION['expire']){
 			session_destroy();
-			header("Location: http://localhost/quantum/login-recursos.php");
+			header(constantes_url::tiempo_excedido_recursos);
 			
 		}
 	}
@@ -20,14 +21,14 @@
 		session_start();
 		unset($_SESSION['username']);
 		session_destroy();
-		header("Location: http://localhost/quantum/login-recursos.php");
+		header(constantes_url::finalizar_session_recursos);
 		
 	}
 	
 	function is_InValid(){
 		session_start();
 		if(isset($_SESSION['usuarioInvalido']) && $_SESSION['usuarioInvalido'] == true){
-			echo "<script>alert('Usuario y/o ".utf8_decode('contraseña')." invalido')</script>";
+			echo "<script>alert('".utf8_decode('contraseña')." invalido')</script>";
 		}
 		else{
 		}

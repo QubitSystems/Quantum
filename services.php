@@ -327,7 +327,7 @@
                                         <img class="img-fluid" id="imagen3_1" alt="" src="http://via.placeholder.com/500x351">
                                     </div>
                                 </div>
-                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen3_1" alt="" src="http://via.placeholder.com/1600x687"></div>
+                                <div class="iq-mtb-20"><img class="img-fluid" id="imagen3_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                             </div>
                             <div class="tab-pane fade" id="v-pills-servicio4" role="tabpanel" aria-labelledby="v-pills-settings-tab">
                                   <div class="heading-left title iq-mb-0">

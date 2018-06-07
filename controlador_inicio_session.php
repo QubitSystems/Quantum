@@ -2,6 +2,7 @@
 	include('conexion.php');
 	include('seccion.php');
 	include('consultas.php');
+    include('constantes_url.php');
 	
 	session_start();
 	$user = $_POST['user'];
@@ -20,11 +21,11 @@
 		$_SESSION['start'] = time();
 		$_SESSION['expire'] = $_SESSION['start']+(5*60);
 		
-		header('Location: http://localhost/quantum/administrador.php');
+		header(constantes_url::acceso);
 		exit;
 	}
 	else {
 		$_SESSION['usuarioInvalido'] = true;
-		header('Location: http://localhost/quantum/login.php');
+		header(constantes_url::denegado);
 	}
 ?>

@@ -1,10 +1,3 @@
-
-<?php
-    //sesion 
-    include('control_session_token.php');
-    validar_Session();
-?>
-
 <!doctype html>
 <html lang="en">
 <?php

@@ -19,6 +19,7 @@
             $seccion =new seccion;
             
             //metodo para subir imagen 1
+            
              $nombre_nuevo_archivo = $nomb_servicio.$id.'.jpg';
             $tamanio = 2000000;
              $ruta = 'images/Servicios/';

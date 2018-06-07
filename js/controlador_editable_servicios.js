@@ -34,7 +34,7 @@ jQuery(function($){
             $('#caract1_3').text(col_fila3[3])
             $('#caract2_3').text(col_fila3[4])
             $('#caract3_3').text(col_fila3[5])
-           $('#imagen3_1').attr("src",col_fila3[6])
+            $('#imagen3_1').attr("src",col_fila3[6])
             $('#imagen3_2').attr("src",col_fila3[7])
            
             

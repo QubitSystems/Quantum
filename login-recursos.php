@@ -1,3 +1,8 @@
+<?php
+    include('control_session_token.php');
+ //   break_Session_Invalid();
+//    is_Invalid();
+?>
 <!doctype html>
 <html lang="en">
 

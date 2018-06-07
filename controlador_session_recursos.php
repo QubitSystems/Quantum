@@ -1,7 +1,8 @@
   <?php
 	include('conexion.php');
 	include('seccion.php');
-	
+    include('consultas.php');
+	include('constantes_url.php');
 	session_start();
 	
 	$token = $_POST['token'];
@@ -19,11 +20,11 @@
 		$_SESSION['start'] = time();
 		$_SESSION['expire'] = $_SESSION['start']+(5*60);
 		
-		header('Location: http://localhost/quantum/recursos.php');
+		header(constantes_url::permisos_recursos);
 		exit;
 	}
 	else {
 		$_SESSION['usuarioInvalido'] = true;
-		header('Location: http://localhost/quantum/login-recursos.php');
+		header(constantes_url::denegado_recursos);
 	}
 ?>

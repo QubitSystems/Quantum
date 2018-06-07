@@ -1,17 +1,18 @@
 <?php
+    include('constantes_url.php');
 	function validar_Session(){
 		session_start();
 		if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true){
 			
 		}
 		else{
-			header("Location:http://localhost/quantum/login.php"); 
+			header(constantes_url::acceso_denegado); 
 			exit;
 		}
 		$now = time();
 		if($now > $_SESSION['expire']){
 			session_destroy();
-			header("Location:http://localhost/quantum/login.php");
+			header(constantes_url::tiempo_expirado);
 		}
 	}
 	
@@ -19,7 +20,7 @@
 		session_start();
 		unset($_SESSION['username']);
 		session_destroy();
-		header("Location:http://localhost/quantum/login.php");
+		header(constantes_url::finalizar_session);
 	}
 	
 	function is_InValid(){
