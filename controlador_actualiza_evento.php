@@ -1,5 +1,5 @@
 <?php
-		include('cargar_imagen.php');
+		//include('cargar_imagen.php');
 		include('conexion.php');
 		include('seccion.php');
                 
@@ -14,7 +14,7 @@
             $descripcion =$_POST['descripcion'];
             $img_evento =$_FILES['img_evento'];
             $date =date('d-m-Y');
-            $hora =date('H:i:s');
+           
            /** $cargar_img = new cargar_imagen;
             if(isset($img_evento)){
 		      $cargar_img->subir_imagen($img_evento, $date.$nomb_evento.$id. '.jpg', 'images/Eventos/', 2000000);
@@ -49,7 +49,12 @@
         
            /* $conexion ->actualizar_datos("UPDATE `eventos` SET `fecha`=$fecha,`nomb_evento`=$nomb_evento,`speaker`=$speaker,`hora`=$hora,`direccion`=$lugar,`descripcion`=$descripcion where id=$id");
             */
-           $consultaPersonalizada = "UPDATE eventos SET fecha='$fecha',nomb_evento='$nomb_evento',speaker='$speaker',hora='$hora',direccion='$lugar',descripcion='$descripcion',imagen='$newPath'  where id='$id'";  
+            if($newPath==""){
+                 $consultaPersonalizada = "UPDATE eventos SET fecha='$fecha',nomb_evento='$nomb_evento',speaker='$speaker',hora='$hora',direccion='$lugar',descripcion='$descripcion'  where id='$id'";       
+            }else{
+                 $consultaPersonalizada = "UPDATE eventos SET fecha='$fecha',nomb_evento='$nomb_evento',speaker='$speaker',hora='$hora',direccion='$lugar',descripcion='$descripcion',imagen='$newPath'  where id='$id'"; 
+            }
+           
 	       $conexion->actualizar_datos($consultaPersonalizada);
             
 ?>

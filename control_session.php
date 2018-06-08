@@ -25,17 +25,17 @@
 	
 	function is_InValid(){
 		session_start();
-		if(isset($_SESSION['usuarioInvalido']) && $_SESSION['usuarioInvalido'] == true){
-			echo "<script>alert('Usuario y/o ".utf8_decode('contraseña')." invalido')</script>";
+		if(isset($_SESSION['userInvalido']) && $_SESSION['userInvalido'] == true){
+			echo "<script>alert('Usuario y/o contraseña invalido')</script>";
 		}
 		else{
 		}
 	}	
 	
 	function break_Session_Invalid(){
-		if(isset($_SESSION['usuarioInvalido']) && $_SESSION['usuarioInvalido'] == true){
+		if(isset($_SESSION['userInvalido']) && $_SESSION['userInvalido'] == true){
 			session_start();
-			unset($_SESSION['usuarioInvalido']);
+			unset($_SESSION['userInvalido']);
 			session_destroy();
 		}
 	}

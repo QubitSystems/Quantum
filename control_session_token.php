@@ -19,7 +19,7 @@
 	
 	function cerrarSession(){
 		session_start();
-		unset($_SESSION['username']);
+		unset($_SESSION['dato']);
 		session_destroy();
 		header(constantes_url::finalizar_session_recursos);
 		
@@ -27,17 +27,17 @@
 	
 	function is_InValid(){
 		session_start();
-		if(isset($_SESSION['usuarioInvalido']) && $_SESSION['usuarioInvalido'] == true){
-			echo "<script>alert('".utf8_decode('contraseña')." invalido')</script>";
+		if(isset($_SESSION['passwordInvalido']) && $_SESSION['passwordInvalido'] == true){
+			echo "<script>alert('La contraseña ingresada es invalida')</script>";
 		}
 		else{
 		}
 	}	
 	
 	function break_Session_Invalid(){
-		if(isset($_SESSION['usuarioInvalido']) && $_SESSION['usuarioInvalido'] == true){
+		if(isset($_SESSION['passwordInvalido']) && $_SESSION['passwordInvalido'] == true){
 			session_start();
-			unset($_SESSION['usuarioInvalido']);
+			unset($_SESSION['passwordInvalido']);
 			session_destroy();
 		}
 	}

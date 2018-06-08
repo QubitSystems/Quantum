@@ -83,10 +83,10 @@
                                     <input id="name" type="text" placeholder="Nombre*" name="name" requerid="true" required="">
                                 </div>
                                 <div class="section-field iq-mb-30">
-                                    <input id="email" type="text" placeholder="Email*" name="email"  required="">
+                                    <input id="email" type="email" placeholder="Email:*" name="email" pattern="[a-zA-Z0-9_]+([.][a-zA-Z0-9_]+)*@[a-zA-Z0-9_]+([.][a-zA-Z0-9_]+)*[.][a-zA-Z]{1,5}" required="">
                                 </div>
                                 <div class="section-field iq-mb-30">
-                                    <input id="phone" type="text" placeholder="Celular*" pattern="[0-9]{9}"name="phone" required="">
+                                    <input id="phone" type="text" placeholder="Celular* " pattern="[0-9]{9}"name="phone" required="">
                                 </div>
                                  <div class="section-field iq-mb-30">
                                     <input id="referencia" type="text" placeholder="Quien lo refirio o como llego a nosotros*" name="referencia" required="">

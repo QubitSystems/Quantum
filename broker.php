@@ -84,7 +84,7 @@ include("head.php");
                         <ul class="listing-hand iq-tw-5 iq-font-white">
                             <!--<li class="iq-mt-20">Simply dummy text of the Lorem Ipsum is printing and type setting.</li>-->
                         </ul>
-                        <a href="#" class="button  iq-mt-10">Registrarse</a>
+                       <!-- <a href="https://my.lcg.com/apply/#/step1" class="button  iq-mt-10">Registrarse</a>-->
                     </div>
                   </div>
             </div>

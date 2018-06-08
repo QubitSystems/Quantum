@@ -72,8 +72,19 @@
             }else {
 					print "No se selecciono un archivo valido.";
 			}
-            $consultaPersonalizada = "UPDATE servicios SET titulo='$titulo', nomb_servicio='$nomb_servicio',desc_servicio='$desc_servicio',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3',imagen1='$newPath',imagen2='$newPathTwo' where id='$id'";
-	       $conexion->actualizar_datos($consultaPersonalizada);
+            if($newPath =="" && $newPathTwo==""){
+                   $consultaPersonalizada = "UPDATE servicios SET titulo='$titulo', nomb_servicio='$nomb_servicio',desc_servicio='$desc_servicio',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3' where id='$id'";
+            }elseif($newPath=="" && $newPathTwo!=""){
+                   $consultaPersonalizada = "UPDATE servicios SET titulo='$titulo', nomb_servicio='$nomb_servicio',desc_servicio='$desc_servicio',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3',imagen2='$newPathTwo' where id='$id'";
+	      
+            }elseif($newPath!="" && $newPathTwo==""){
+                   $consultaPersonalizada = "UPDATE servicios SET titulo='$titulo', nomb_servicio='$nomb_servicio',desc_servicio='$desc_servicio',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3',imagen1='$newPath' where id='$id'";
+	      
+            }else{
+                   $consultaPersonalizada = "UPDATE servicios SET titulo='$titulo', nomb_servicio='$nomb_servicio',desc_servicio='$desc_servicio',caracteristica1='$caract1',caracteristica2='$caract2',caracteristica3='$caract3',imagen1='$newPath',imagen2='$newPathTwo' where id='$id'";
+            }
+            
+           $conexion->actualizar_datos($consultaPersonalizada);
             
             
 ?>

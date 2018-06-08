@@ -23,9 +23,9 @@
 		
 		header(constantes_url::acceso);
 		exit;
-	}
-	else {
-		$_SESSION['usuarioInvalido'] = true;
+	}else {
+		$_SESSION['userInvalido'] = true;
 		header(constantes_url::denegado);
 	}
+    session_destroy();
 ?>

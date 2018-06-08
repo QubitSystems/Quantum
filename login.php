@@ -7,40 +7,7 @@
 <html lang="en">
 
 <head>
-    <title>Quantum Club</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;Ubuntu:400,500,700" rel="stylesheet">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <!-- Magnific Popup CSS -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup/magnific-popup.css" />
-    <!-- owl-carousel CSS -->
-    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.css" />
-    <!-- Animate CSS -->
-    <link rel="stylesheet" type="text/css" href="css/animate.css" />
-    <!-- Font Awesome -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
-    <!-- Ionicons CSS -->
-    <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" type="text/css" href="css/shop.css">
-    <!-- REVOLUTION STYLE SHEETS -->
-    <link rel="stylesheet" type="text/css" href="revslider/css/settings.css">
-    <!-- style CSS -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
-        <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
-
+   <?php include('head.php');?>
 </head>
 
 <body>
@@ -61,9 +28,10 @@
   
     <section class="overview-block-ptb iq-feature-aria">
         <div class="container" style="height:650px;">
+            
                  <div class="box">
                         <h2>LOGIN</h2>
-                     <form action="controlador_inicio_session.php" method="post">
+                     <form action="controlador_inicio_session.php" id="frmAdministrador"method="post">
                          <div class="inputBox">
                              <input type="text" id="user" name="user"  required="">
                             <label>Username</label>
@@ -72,7 +40,7 @@
                             <input type="password" id="pass" name="pass"  required="">
                             <label>Password</label>
                             </div>
-                         <center><input class="btn" type="submit" name="send-message" value="Iniciar Session"/></center>
+                         <center><input class="btn" type="submit" name="send-admin" value="Iniciar Session"/></center>
                          <!--button type="submit" style="background: transparent; border: none;outline: none;color:#fff;align-content: center;
                                                       background: #03a9f4;padding: 10px 20px;cursor: pointer;border-radius: 5px;">Iniciar Sesion</button>
                          <!--input type="submit" name="" id=""  value="Iniciar Sesion"-->
