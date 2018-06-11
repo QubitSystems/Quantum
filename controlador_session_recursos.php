@@ -1,12 +1,13 @@
   <?php
-	include('conexion.php');
+    session_start();
+
+    include('conexion.php');
 	include('seccion.php');
     include('consultas.php');
 	include('constantes_url.php');
 	
-    session_start();
-	$token = $_POST['token'];
-	$seccion = new seccion;
+    $token = $_POST['token'];
+    $seccion = new seccion;
 	$conexion = new conexion;
 	//CONTRASEÑA
 	$campos = array( 'codigo'); //campo a buscar una vez devuelta la consulta.
@@ -27,5 +28,5 @@
 		$_SESSION['passwordInvalido'] = true;
 		header(constantes_url::denegado_recursos);
 	}
-    session_destroy();
+  
 ?>

@@ -40,7 +40,7 @@
                             <input type="password" id="pass" name="pass"  required="">
                             <label>Password</label>
                             </div>
-                         <center><input class="btn" type="submit" name="send-admin" value="Iniciar Session"/></center>
+                         <center><input class="btn" type="submit" name="send_admin" value="Iniciar Session"/></center>
                          <!--button type="submit" style="background: transparent; border: none;outline: none;color:#fff;align-content: center;
                                                       background: #03a9f4;padding: 10px 20px;cursor: pointer;border-radius: 5px;">Iniciar Sesion</button>
                          <!--input type="submit" name="" id=""  value="Iniciar Sesion"-->

@@ -32,6 +32,7 @@
 		}
 		else{
 		}
+        session_destroy();
 	}	
 	
 	function break_Session_Invalid(){

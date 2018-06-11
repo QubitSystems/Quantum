@@ -120,7 +120,7 @@
 				</form>
 				<!--end-->
 				                    </div>
-                                  <!-- .portfolio-item-container ends -->
+                                  
                             </div>
                             
                     </div>
@@ -130,7 +130,7 @@
 					               <img src="images/beneficios.png" style="max-height:609px;">
                                   </div>
                             </div>
-                <!-- .portfolio-item-container ends -->
+                <!-- fprmulario de actualizar evento ends -->
               
                             
                     </div>
@@ -164,24 +164,25 @@
 				</form>
 				<!--end-->
 				</div>
-                <!-- .portfolio-item-container ends -->
+                
               </div>
                             
                     </div>
+                    <!--imagen-->
                      <div id="grid mix">
                         	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
                                   <div class="portfolio-item-contain">
 					               <img src="images/beneficios.png" style="max-height:609px;">
                                   </div>
                             </div>
-                <!-- .portfolio-item-container ends -->
+              
               
                             
                     </div>
-                  
+                    <!-- formulario de actualizar servicios ends -->
                     <!--Formulario de contacto-->
-                       <div id="grid mix">
-                        	  <div class="item col-md-12   contacto" style = "border: 2px solid;">
+             <div id="grid mix">
+              <div class="item col-md-12   contacto" style = "border: 2px solid;">
                 <div class="portfolio-item-container">
 				<h1>Contacto</h1>
 			  <!--begin-->
@@ -195,23 +196,19 @@
                                     <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-20">Guardar </button>--> 
 					</fieldset>
 				</form>
-				<!--end-->
-				</div>
-                <!-- .portfolio-item-container ends -->
-              </div>
-                            
+
+                  </div>
+                </div>
+            </div>
+                <!-- imagen -->
+                    <div id="grid mix">
+                        <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
+                          <div class="portfolio-item-contain">
+					          <img src="images/beneficios.png" style="max-height:609px;">
+                           </div>
+                         </div>     
                     </div>
-                     <div id="grid mix">
-                        	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
-                                  <div class="portfolio-item-contain">
-					               <img src="images/beneficios.png" style="max-height:609px;">
-                                  </div>
-                            </div>
-                <!-- .portfolio-item-container ends -->
-              
-                            
-                    </div>
-                    
+                <!-- formulario de contacto ends -->      
                       <!--Formulario de Recursos Virtuales-->
             <div id="grid mix">
                         	  <div class="item col-md-12 recursos" style = "border: 2px solid;">
@@ -296,24 +293,19 @@
                                 <input id="changeT" class="btn" type="button" name="send-message" value="Guardar" />
                                 <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->           
 					           </fieldset>
-				        </form>
-				<!--end-->
-				</div>
-                <!-- .portfolio-item-container ends -->
-              </div>
-         
+                            </form>
+                            </div>
+                        </div>
                     </div>
-                    <div id="grid mix">
+                     <!-- imagen-->
+                 <div id="grid mix">
                         	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
                                   <div class="portfolio-item-contain">
 					               <img src="images/beneficios.png" style="max-height:609px;">
                                   </div>
                             </div>
-                <!-- .portfolio-item-container ends -->
-              
-                            
                     </div>
-                    <!--End Codigo-->
+                    <!--End formulario de modificar -->
                     
                     <!--Formulario para modificar la contraseña del administrador-->
                     <div id="grid mix">
@@ -329,26 +321,20 @@
                                    <h3>Contraseña:</h3>
 						            <label class="requerid product"><input id="password" type="text" name="password" placeholder="Ingrese una  nueva contraseña" value=""></label>   
                                 <input id="changeA" class="btn" type="button" name="send-message" value="Guardar" />
-                                <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->           
-					           </fieldset>
-				        </form>
-				<!--end-->
-				</div>
-                <!-- .portfolio-item-container ends -->
-              </div>
-         
+                                </fieldset>
+                            </form>
+				        </div>
                     </div>
+                    </div>
+                    <!--imagen-->
                     <div id="grid mix">
                         	  <div class="item col-md-12  oportunidad" style = "border: 2px solid;">
                                   <div class="portfolio-item-contain">
 					               <img src="images/beneficios.png" style="max-height:609px;">
                                   </div>
                             </div>
-                <!-- .portfolio-item-container ends -->
-              
-                            
                     </div>
-                    <!--End Codigo-->
+                    <!--End administrador-->
                 </div>
         </div>
         </div>
