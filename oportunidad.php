@@ -290,7 +290,7 @@ height: 100%;
                               
                     <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
                         <figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/silver.png">
+                            <img src="images/paquete04.jpeg">
                                 <figcaption style="font-size:1.2ex;">
                                     <h5>Cobertura de Vida</h5>
                                     <p >Pago Incial:Segun Plan<br>
@@ -314,7 +314,7 @@ height: 100%;
                    
                       <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
 						<figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/gold.png">
+                            <img src="images/paquete05.jpeg">
                                 <figcaption style="font-size:1.2ex;">
                                     <h6>Cobertura de Vida mas inversion</h6>
                                     <p >Pago Incial:Segun Plan<br>
@@ -340,7 +340,7 @@ height: 100%;
                     
                     <div class="col-lg-4 col-md-4 offset=-1 align-self-center text-center" >
 						<figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/platinum.png">
+                            <img src="images/paquete06.jpeg">
                                 <figcaption style="font-size:14px;font-size:1.2ex;">
                                     <h6>Fondo Profesional Quantum</h6>
                                     <p >Nivel A<br>

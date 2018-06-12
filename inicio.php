@@ -51,7 +51,7 @@
 					<!-- SLIDE  2-->
                     <li data-index="rs-8" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,default,default,default" data-thumb="" data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/slide1.png" data-bgcolor='#000000' style='background:#000000' alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <img src="revslider/assets/slide2.png" data-bgcolor='#000000' style='background:#000000' alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 26-->
                         <div class="tp-caption   tp-resizeme" id="slide-8-layer-11" data-x="180" data-y="220" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-type="image" data-responsive_offset="on" data-frames='[{"delay":660,"speed":1000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"><img src="revslider/assets/spear.png" alt="" data-ww="265px" data-hh="263px" data-no-retina> </div>
@@ -73,7 +73,7 @@
                     <!-- SLIDE  3-->
                     <li data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_bebf9-11.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/slide2.jpg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <img src="revslider/assets/slide3.jpg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 9 -->
                         <div class="tp-caption   tp-resizeme" id="slide-7-layer-6" data-x="center" data-hoffset="" data-y="center" data-voffset="-98" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;text-transform:uppercase;">La comunidad Financiera<br> de mayor crecimiento</div>
@@ -136,7 +136,7 @@
                      <!-- SLIDE  4-->
                     <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-thumb="revslider/assets/100x50_bebf9-11.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="revslider/assets/la-salud-y-el-feng-shui.jpeg" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                        <img src="revslider/assets/slide4.png" alt="" data-bgposition="bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 9 -->
                         <div class="tp-caption   tp-resizeme" id="slide-7-layer-6" data-x="center" data-hoffset="" data-y="center" data-voffset="-98" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;text-transform:uppercase;">SEGURO DE VIDA MAS INVERSION</div>
@@ -286,7 +286,7 @@
                                  </div>           
                     <div class="col-lg-4 col-md-6 offset=-1 align-self-center text-center" >
                         <figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/socio.jpg">
+                            <img src="images/socio.png">
                                 <figcaption>
                                     <h3 style="font-size:1em;">Como socio</h3>
                                     <br><br>
@@ -299,7 +299,7 @@
                    
                     <div class="col-lg-4 col-md-6 offset=-1 align-self-center text-center" >
 						<figure class="imghvr-shutter-out-diag-1">
-                            <img src="images/cliente.jpg">
+                            <img src="images/cliente.png">
                                 <figcaption>
                                         <H3 style="font-size:1em;">Como cliente</H3>
                                         <br><br>
