@@ -1,5 +1,8 @@
+<?php 
+session_start();
+?>
 <?php
-    session_start();
+    
 	include('conexion.php');
 	include('seccion.php');
 	include('consultas.php');

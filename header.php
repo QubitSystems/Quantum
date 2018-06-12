@@ -60,31 +60,20 @@
                             <ul class="menu text-right">
                                 <li><a class="active" href="inicio.php">Inicio</a>
                                 </li>
-                               <li><a href="quantum.php">Quantum</a>
-                                    
+                                <li><a href="quantum.php">Quantum</a>  
                                 </li>
                                 <li><a href="services.php">Servicios</a>
-                                
                                 </li>
                                  <li><a href="oportunidad.php">Oportunidad</a>
-                                  
                                 </li>
                                 
-                                
                                 <li><a href="contacto.php">Contacto</a>
-                                   
                                 </li>
                                 <li><a href="broker.php">Brokers</a>
                                     
                                 </li>
                                 
-                                <!--<li>
-                                    <div class="iq-search"> <a class="search-btn not_click" href="javascript:void(0);"> <span>Search Button</span></a>
-                                        <div class="search-box not-click">
-                                            <input type="email" class="form-control not-click" id="exampleInputEmail1" placeholder="Search">
-                                            <i class="ti-search"></i> </div>
-                                    </div>
-                                </li>-->
+                               
                             </ul>
                         </nav>
                     </div>

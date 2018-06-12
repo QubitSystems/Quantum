@@ -1,6 +1,5 @@
-
 <?php
-    //sesion 
+
     include('control_session.php');
     validar_Session();
 ?>

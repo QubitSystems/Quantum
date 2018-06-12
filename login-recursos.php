@@ -27,7 +27,7 @@
         
   
     <section class="overview-block-ptb iq-feature-aria">
-        <div class="container" style="height:650px;">
+        <div class="contenedor">
                  <div class="box">
                         <h2>LOGIN RECURSOS</h2>
                      <form action="controlador_session_recursos.php" method="post">
@@ -87,85 +87,15 @@
     <script src="revslider/js/extensions/revolution.extension.video.min.js"></script>
     <!-- Custom JavaScript -->
     <script src="js/custom.js "></script>
-    <script>
-    var revapi3,
-        tpj = jQuery;
-    tpj(document).ready(function() {
-        if (tpj("#rev_slider_3_1").revolution == undefined) {
-            revslider_showDoubleJqueryError("#rev_slider_3_1");
-        } else {
-            revapi3 = tpj("#rev_slider_3_1").show().revolution({
-                sliderType: "standard",
-                sliderLayout: "fullwidth",
-                dottedOverlay: "none",
-                delay: 9000,
-                navigation: {
-                    keyboardNavigation: "off",
-                    keyboard_direction: "horizontal",
-                    mouseScrollNavigation: "off",
-                    mouseScrollReverse: "default",
-                    onHoverStop: "off",
-                    arrows: {
-                        style: "persephone",
-                        enable: true,
-                        hide_onmobile: false,
-                        hide_onleave: false,
-                        tmp: '',
-                        left: {
-                            h_align: "left",
-                            v_align: "center",
-                            h_offset: 20,
-                            v_offset: 0
-                        },
-                        right: {
-                            h_align: "right",
-                            v_align: "center",
-                            h_offset: 20,
-                            v_offset: 0
-                        }
-                    }
-                },
-                visibilityLevels: [1240, 1024, 778, 480],
-                gridwidth: 1170,
-                gridheight: 480,
-                lazyType: "none",
-                parallax: {
-                    type: "mouse",
-                    origo: "enterpoint",
-                    speed: 400,
-                    speedbg: 0,
-                    speedls: 0,
-                    levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 46, 47, 48, 49, 50, 51, 55],
-                },
-                shadow: 0,
-                spinner: "spinner0",
-                stopLoop: "off",
-                stopAfterLoops: -1,
-                stopAtSlide: -1,
-                shuffle: "off",
-                autoHeight: "off",
-                disableProgressBar: "on",
-                hideThumbsOnMobile: "off",
-                hideSliderAtLimit: 0,
-                hideCaptionAtLimit: 0,
-                hideAllCaptionAtLilmit: 0,
-                debugMode: false,
-                fallbacks: {
-                    simplifyAll: "off",
-                    nextSlideOnWindowFocus: "off",
-                    disableFocusListener: false,
-                }
-            });
-        }
-    }); /*ready*/
-    </script>
+
     <style>
-       /* body{
-         margin: 0;
-            padding: 0;
-            font-family: sans-serif;
-            background-size: cover;
-        }*/
+       
+         .contenedor{
+                max-height: 600px;
+                height: 650px;
+                width: 400px;
+                margin-top: auto;
+            }
         .box{
             position: absolute;
             top: 50%;
@@ -227,6 +157,26 @@
             padding: 10px 20px;
             cursor: pointer;
             border-radius: 5px;
+        }
+         
+         @media (max-width:768px){
+            .contenedor{
+                width: 75%;
+                
+            }
+            .box{
+                width: 100%;
+            }
+        }
+        
+        @media (max-width:480px){
+            .contenedor{
+                width: 50%;
+                
+            }
+            .box{
+                width: 100%;
+            }
         }
     </style>
 </body>

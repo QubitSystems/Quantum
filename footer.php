@@ -2,11 +2,11 @@
         <div class="footer-top iq-bg iq-bg-fixed iq-over-black-80" style="background-image:url(http://via.placeholder.com/1800x1200); ">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12">
+                    <div class="col-sm-12 ">
                         <ul class="iq-media-blog" style="text-align:center">
-                        <li>Terminos y condiciones | Politicas de Privacidad</li><br>
-                            <li>Politicas de Spam | Anuncios SBS</li><br>
-                            <li>Politicas  de Reembolso y cancelacion</li><br>
+                            <a href="contacto.php"><li>Terminos y condiciones</li></a> |<a href="contacto.php"><li>Politicas de Privacidad</li></a><br>
+                            <a href="contacto.php"><li>Politicas de Spam</li></a> | <a href="contacto.php"><li>Anuncios SBS</li></a><br>
+                            <a href="contacto.php"><li>Politicas  de Reembolso y cancelacion</li></a><br>
                         </ul>
                         </div>
                 </div>

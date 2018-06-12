@@ -42,7 +42,7 @@
                                  <li id="oportunidad"><a class="" href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
-                                
+                             
                                 
                                 <li id="contacto"><a href="contacto.php">Contacto</a>
                                     
