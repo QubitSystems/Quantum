@@ -21,19 +21,13 @@
     </div>
     <!-- loading End -->
     <!-- Header -->
-    <header>
+    
             <?php 
             include('header2.php');
             ?>
-    </header>
-   <!-- Header End -->
-       <div class="clearfix"></div>
-     <section class="overview-block-ptb iq-feature-aria pading=40px"></section>
-        
   
-    <section class="overview-block-ptb iq-feature-aria">
+   <!-- Header End -->
         <div class="contenedor ">
-            <div class="row">
                  <div class="box">
                         <h2>LOGIN</h2>
                      <form  action="controlador_inicio_session.php" method="post">
@@ -48,12 +42,7 @@
                          <center><input class="btn" type="submit" name="send_admin" value="Iniciar Session"/></center>
                         </form>
             </div>
-            </div>
         </div>
-    </section>
-     <section class="overview-block-ptb iq-feature-aria pading=1px"></section>
-
-        
     
     <!-- Main Content End -->
     <!--=================================Footer -->
@@ -96,10 +85,12 @@
     <style>
         
           .contenedor{
-                max-height: 100%;
-                height: 350px;
-                width: 400px;
-                margin-top: auto;
+              height: 90vh;
+              min-height: 105px;
+              width: 400px;
+              margin-top: auto;
+              position: relative;
+              width: 100%;
             }
         .box{
             position: absolute;
@@ -177,8 +168,6 @@
         @media (max-width:480px){
             .contenedor{
                 width: 100%;
-        
-                margin-left: 1%;
             }
             .box{
                 width: 100%;

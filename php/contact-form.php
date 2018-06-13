@@ -51,7 +51,6 @@ if ($dejarenblanco == '' && $nocambiar == 'http://') {
 			//$result='<div class="alert alert-success">Thank you for contacting us. Your message has been successfully sent. We will contact you very soon!</div>'; 
             $result='<script type="text/javascript">
                 alert("Su mensaje fue enviado con exito");
-                window.location.href="contacto.php";
                 </script>';
 		} 
 		else {

@@ -620,7 +620,7 @@ ul.listing-mark li:after { content: "\f0a4"; font-size: 22px }
 /*---------------------------------------------------------------------
                                 Header
 ---------------------------------------------------------------------*/
-header { display: inline-block; width: 100%; float: left; position: relative; z-index: 99; background: #fff; -webkit-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
+header { display: inline-block; width: 100%; position: relative; z-index: 99; background: #fff; -webkit-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
 header .logo { display: inline-block; float: left; margin-top: 20px; }
 header .logo a { text-transform: uppercase; color: #1a1a1a; font-size: 30px; letter-spacing: 2px; }
 header .logo a img { height: 40px; }

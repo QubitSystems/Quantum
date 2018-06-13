@@ -23,11 +23,7 @@
     include('header2.php');
     ?>
     <!-- Header End -->
-     <section class="overview-block-ptb iq-feature-aria pading=5px"></section>
-        
-  
-    <section class="overview-block-ptb iq-feature-aria">
-        <div class="contenedor">
+         <div class="contenedor">
                  <div class="box">
                         <h2>LOGIN RECURSOS</h2>
                      <form action="controlador_session_recursos.php" method="post">
@@ -41,8 +37,7 @@
                      </form>
             </div>
         </div>
-        </section>
-
+        
         
     
         
@@ -91,10 +86,12 @@
     <style>
        
          .contenedor{
-                max-height: 600px;
-                height: 650px;
-                width: 400px;
-                margin-top: auto;
+              height: 90vh;
+              min-height: 105px;
+              width: 400px;
+              margin-top: auto;
+              position: relative;
+              width: 100%;
             }
         .box{
             position: absolute;
@@ -171,7 +168,7 @@
         
         @media (max-width:480px){
             .contenedor{
-                width: 50%;
+                width: 100%;
                 
             }
             .box{
