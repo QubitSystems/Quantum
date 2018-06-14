@@ -190,7 +190,11 @@
 						             <label class="requerid product"><textarea id="direccion" type="text" name="direccion" placeholder="Direccion:" value=""></textarea></label>
                                   
                                     <label class="requerid product"><input id="telefono" type="text" name="telefono" placeholder="Telefono" value=""></label>
+                                     <label class="requerid product"><input id="celular" type="text" name="celular" placeholder="Celular" value=""></label>
+                                   
                                     <label class="requerid product"><input id="correo" type="email" name="email" placeholder="Correo" value=""></label>
+                                    <label class="requerid product"><input id="correosecond" type="email" name="emailsecond" placeholder="Segundo Correo " value=""></label>
+                                    
                                     <input id="changeC" class="btn" type="button" name="send-message" value="Guardar" />
                                     <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-20">Guardar </button>--> 
 					</fieldset>

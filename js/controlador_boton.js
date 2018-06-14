@@ -78,9 +78,10 @@ jQuery(function($){
     $('#changeC').click(function(){
 		$.ajax({
 			url: 'controlador_actualiza_contacto.php',
-			data: {direccion: $('#direccion').val(), telefono: $('#telefono').val(), correo: $('#correo').val()},
+			data: {direccion: $('#direccion').val(), telefono: $('#telefono').val(), celular: $('#celular').val(), correo: $('#correo').val(), correosecond: $('#correosecond').val()},
 			type: 'POST',
 			success: function(response){
+                console.log(response);
 				alert(" Se actualizo correctamente!!!");
 				//console.log(response);
 			},

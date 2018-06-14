@@ -56,14 +56,16 @@
                             <div>
                                 <i aria-hidden="true" class="ion-ios-telephone-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Telefono</span>
                             </div>
-                            <div id="telefono"></div>
-                            
+                               <div id="telefono"></div>
+                                <div id="celular"></div>
+                         
                         </div>
                         <div class="contact-box iq-mb-30">
                             <div>
                                 <i aria-hidden="true" class="ion-ios-email-outline iq-icon"></i><span class="iq-title text-uppercase iq-ml-15 iq-tw-6 iq-font-yellow">Correo</span>
                             </div>
                             <div id="correo"></div>
+                            <div id="correosecond"></div>
                         </div>
                     </div>
                     <div class="col-lg-7">
