@@ -6,7 +6,7 @@
                         <div class="topbar-left">
                             <ul class="list-inline">
                                <!-- <li class="list-inline-item"><i class="fa fa-phone text-blue"></i> +0123 456 789</li>-->
-                                <li class="list-inline-item"><a href="login.php"><i class="fa fa-user-circle text-blue"></i>Login</a></li>
+                                <li class="list-inline-item"><a href="login.php"><i class="fa fa-user-circle text-blue"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                                 <li id="contacto"><a href="contacto.php">Contacto</a>
                                     
                                 </li>
-                                <li id="broker"><a href="broker.php">Brokers</a>
+                                <li id="blog"><a href="#">Blog</a>
                                     
                                 </li>
                                 

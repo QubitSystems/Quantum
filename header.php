@@ -5,7 +5,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="topbar-left">
                             <ul class="list-inline">
-                              <li class="list-inline-item"><a href="login.php"><i class="fa fa-user-circle text-blue"></i>Login</a></li>
+                              <li class="list-inline-item"><a href="login.php"><i class="fa fa-user-circle text-blue"></i></a></li>
                                 <!--  <li class="list-inline-item"><i class="fa fa-envelope-o"> </i> </li>-->
                             </ul>
                         </div>
@@ -69,7 +69,7 @@
                                 
                                 <li><a href="contacto.php">Contacto</a>
                                 </li>
-                                <li><a href="broker.php">Brokers</a>
+                                <li><a href="#">Blog</a>
                                     
                                 </li>
                                 

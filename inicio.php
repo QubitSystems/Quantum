@@ -367,7 +367,7 @@
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
-                                        "Los Saltos Quanticos se producen cuando, yo bautice mi progreso como un triangulo Quantico, donde en la parte superior tengo las fortalezas, en el vertice inferior izquierdo esta el tiempo y el dinero y en el vertice inferior derecho esta la motivacion 10 de tu vida, cuando estos tres vertices se relacionan con tu proposito de vida, lograras dar Saltos Quanticos."
+                                        "Los Saltos Quanticos, yo bautice mi progreso como un triangulo Quantico, donde en la parte superior tengo las fortalezas, en el vertice inferior izquierdo esta el tiempo y el dinero y en el vertice inferior derecho esta la motivacion 10 de tu vida, cuando estos tres vertices se relacionan con tu proposito de vida, lograras dar Saltos Quanticos."
                                     </p>
                                     <h5 class="iq-tw-6 ">Juan Diego Gomez</h5>
                                     <span>Invertir Mejor</span>
@@ -398,40 +398,39 @@
                         <div class="iq-feature2 iq-mtb-20 first-l">
                             <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">1</span>Reducir y optimizar tus gastos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/01.png" alt=""></span>
 							</h4>
-                            <p>Gasta menos y mejor, te ayudamos a salir rápidamente de deudas.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
+                            <p>Gasta menos y mejor, te ayudamos a salir rápidamente de deudas.</p>
                         </div>
                         <div class="iq-feature2 iq-mtb-20 second-l">
                             <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">2</span>Incrementar tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/02.png" alt=""></span>
 							</h4>
-                            <p>Desarrolla un sistema para mejorar tus márgenes de ganancia.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
+                            <p>Desarrolla un sistema para mejorar tus márgenes de ganancia.</p>
                         </div>
                      
                     </div>
                     <div class="col-lg-4 col-md-12 align-self-center text-center">
                         <img class="img-fluid" src="images/quantum-logo.png"  alt="">
                     </div>
-                    <div class="col-lg-4 col-md-12">
+                    <div class="col-lg-4 col-md-12 flex-row-reverse">
                         <div class="iq-feature2 iq-mtb-20 first-r">
                             <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">5</span>Vivir de tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>
 							</h4>
-                            
+                            <p>Obten la libertad financiera y disfruta de tu familia.</p>  
                         </div>
                         
-                           <div class="iq-feature2 iq-mtb-20 second-r">
-                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">4</span>Proteger tus ingresos<span class="iq-icon iq-ml-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
+                        <div class="iq-feature2 iq-mtb-20 second-r">
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">4</span>Proteger tus ingresos<span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/03.png" alt=""></span>
 							</h4>
-                            <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
+                            <p>Invierte correctamente y de manera inteligente para proteger tu patrimonio.</p>
                         </div>
                      </div>
-                    <div class="particles text-center"><img class="img-fluid" src="images/particles.png" width="500px" height="520px" alt=""></div>
                     <div class="iq-feature2 iq-mtb-20 " style="margin-left:auto;margin-right:auto;">
-                        <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">3</span><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/04.png" alt=""></span>Acumular Patrimonio
+                            <h4 class="iq-font-black iq-tw-5"><span style="color:#f9b707;font-size:2em;">3</span><span class="iq-icon iq-mr-10"><img class="img-fluid" src="images/services/icon/05.png" alt=""></span>Acumular Patrimonio
 							</h4>
-                            <p>Traza un plan y gestiona correctamente,<br> convierte en cifras creíbles tu plan de vida.<!--<a href="#" class="iq-font-green">[ ... ]</a>--></p>
-                        </div>
-                    
+                            <p>Traza un plan y gestiona correctamente,<br> convierte en cifras creíbles tu plan de vida.</p>
+                     </div>
+                    <div class="particles text-center"><img class="img-fluid" src="images/particles.png" width="500px" height="520px" alt=""></div>     
                 </div>
-        </div>
+            </div>
         </section>
         <!-- end Quantum club -->
         
