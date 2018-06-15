@@ -42,7 +42,7 @@
     <!-- Header End -->
     <div class="clearfix"></div>
     <!--======= Breadcrumb Inner Page =======-->
-    <section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('http://via.placeholder.com/1800x1200'); background-position: center center;">
+    <section class="iq-bg iq-bg-fixed iq-over-black-80 jarallax iq-breadcrumb text-center iq-font-white" style="background-image: url('images/bg/bg-2.jpg'); background-position: center center;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -69,22 +69,22 @@
               <div class="row">
                     <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-bg" style="background-image: url('images/pdf.jpg');"></div>
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center"><a id="planBeneficio" href="#">Plan de Beneficios</a> </h5>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"><a id="planBeneficio" href="#">Plan de Beneficios (PDF)</a> </h5>
                                 
                             </div>
                         </div>
                     </div>
                         <div class="col-lg-6 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
-                            <div class="iq-bg" style="background-image: url('http://via.placeholder.com/315x150');"></div>
+                            <div class="iq-bg" style="background-image: url('images/ppt.jpg');"></div>
                             <div class="iq-blog">
                                 <!--<div class="step">1</div>
                                 <div class="icon"><i aria-hidden="true" class="ion-ios-color-wand-outline"></i></div>-->
-                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a id="diapositivas" href="#">Recursos de Power Point </a></h5>
+                                <h5 class="iq-tw-5 iq-mt-20 text-center"> <a id="diapositivas" href="#">Plan de Beneficios (PPT)</a></h5>
                                
                             </div>
                         </div>
@@ -100,7 +100,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-4 offset=-1 align-self-center text-center">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/800x600" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/videoPrincipal.jpg" class="img-fluid"> </div>
                             <div class="video play"><a  id ="video1" name="video1" class="popup-youtube" href="https://www.youtube.com/watch?v=Op7Mx7ihyyo&t=74s"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
@@ -115,7 +115,7 @@
                     <br>
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/video.jpg" class="img-fluid"> </div>
                             <div class="video play"><a id="video2" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
@@ -127,7 +127,7 @@
                     </div>
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/video.jpg" class="img-fluid"> </div>
                             <div class="video play"><a id="video3" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
@@ -140,7 +140,7 @@
                     
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/video.jpg" class="img-fluid"> </div>
                             <div class="video play"><a id="video4" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
@@ -152,7 +152,7 @@
                     </div>
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/video.jpg" class="img-fluid"> </div>
                             <div class="video play"><a id="video5" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
@@ -164,7 +164,7 @@
                     </div>
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/video.jpg" class="img-fluid"> </div>
                             <div class="video play"><a id="video6" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">
@@ -176,7 +176,7 @@
                     </div>
                     <div class="col-sm-4 iq-mtb-15">
                         <div class="popup-gallery play-video">
-                            <div class="video-img"> <img alt="#" src="http://via.placeholder.com/700x700" class="img-fluid"> </div>
+                            <div class="video-img"> <img alt="#" src="images/recursos/video.jpg" class="img-fluid"> </div>
                             <div class="video play"><a id="video7" class="popup-youtube" href="http://www.youtube.com/watch?v=rAe_Ln88-6Y"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></div>
                         </div>
                         <div class="iq-news-detai iq-pt-15">

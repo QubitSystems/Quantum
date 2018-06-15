@@ -69,7 +69,7 @@
                                 
                                 <li><a href="contacto.php">Contacto</a>
                                 </li>
-                                <li><a href="#">Blog</a>
+                                <li><a href="https://medium.com/@quantumclubpro">Blog</a>
                                     
                                 </li>
                                 

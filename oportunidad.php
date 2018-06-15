@@ -181,7 +181,7 @@ height: 100%;
 
         
         
-          <section class="main-content">
+          <section class="main-content" style="margin-bottom: 40px;">
             <div class="container">
                     <div class="col-lg-12 col-md-3 offset=-1 align-self-center text-center" >
                             <div class="iq-features1">
@@ -195,7 +195,7 @@ height: 100%;
             </div>
         </section>
     <!--Eventos end -->
-        <section class="overview-block-ptb pading=45px">
+        <!--section class="overview-block-ptb pading=45px">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -369,7 +369,7 @@ height: 100%;
                      
             </div>
 
-        </section>		
+        </section-->		
 		
         <!-- Paquetes end-->
         <!--Informacion de los paquetes-->

@@ -354,7 +354,7 @@
                                     <h5 class="iq-tw-6 ">Julio Zoller</h5>
                                     <span>Asesor para LATAM</span>
                                     <br><br>
-                                    <img src="images/julioZoller.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;" >
+                                    <img src="images/testimonio4.jpg" style="position: relative; width: 80px; height: 80px; margin: 0 2px; border-radius: 50%; display: inline-block; border: 4px solid #f7f7f7; float: center;" >
                                 </div>
                                 <div class="testimonial ">
                                     <p class="description ">
@@ -440,10 +440,11 @@
     <!--Marquesina de las divisas-->
     <section class="overview-block-ptb iq-feature-aria">
         <div class="container">
-        <div class="col-lg-12" style="height: 465px;">
-            <iframe src="https://es.investingwidgets.com/top-cryptocurrencies?theme=darkTheme" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" style="heigth='458px';"></iframe>
-            </div>
-    </div>
+			<div class="col-lg-12" style="height: 465px;">
+				<!--iframe src="https://es.investingwidgets.com/top-cryptocurrencies?theme=darkTheme" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" style="heigth='458px';"></iframe-->
+				<iframe src="https://es.widgets.investing.com/live-indices?theme=darkTheme&hideTitle=true&pairs=166,27,172,177,170,23658,174,178,24441,959206" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
+			</div>
+		</div>
     </section>
     <!---end Marquesina-->
     
@@ -454,15 +455,15 @@
                 <div class="row ">
                     <div class="col-lg-12 col-md-12 ">
                         <div class="owl-carousel" data-nav-dots="false" data-nav-arrow="false" data-items="5" data-sm-items="3" data-lg-items="5" data-md-items="4" data-autoplay="true">
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
-                            
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
+                                                        
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/01.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/02.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/03.png" alt="#"></a></div>
+                            <div class="item"> <a href="#"><img class="img-fluid" src="images/clients/white/04.png" alt="#"></a></div>
                             
                         </div>
                     </div>

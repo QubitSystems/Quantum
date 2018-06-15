@@ -41,7 +41,7 @@ include("head.php");
     <div class="main-content">
         <!-- Contact Us -->
          <section class="overview-block-ptb iq-feature-aria pading=45px"></section>
-        <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-about-us" style="background-image: url('http://via.placeholder.com/2000x1080'); background-position: left center;">
+        <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-about-us" style="background-image: url('images/bg/bg-8.png'); background-position: left center;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-12">
@@ -66,7 +66,7 @@ include("head.php");
         </section>
         <section class="overview-block-ptb iq-feature-aria pading=45px"></section>
          
-         <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-about-us" style="background-image: url('http://via.placeholder.com/2000x1080'); background-position: left center;">
+         <section class="overview-block-ptb iq-bg iq-over-black-80 jarallax iq-about-us" style="background-image: url('images/bg/bg-9.jpg'); background-position: left center;">
             <div class="container">
                 <div class="row">
                          <div class="col-lg-4 col-md-12 iq-about1 iq-r-mt-40">
