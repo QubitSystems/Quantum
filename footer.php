@@ -4,6 +4,7 @@
                 <div class="row">
                     <div class="col-sm-12 ">
                         <ul class="iq-media-blog" style="text-align:center">
+                            <a href="broker.php"><li>Brokers</li></a><br>
                             <a href="contacto.php"><li>Terminos y condiciones</li></a> |<a href="contacto.php"><li>Politicas de Privacidad</li></a><br>
                             <a href="contacto.php"><li>Politicas de Spam</li></a> | <a href="contacto.php"><li>Anuncios SBS</li></a><br>
                             <a href="contacto.php"><li>Politicas  de Reembolso y cancelacion</li></a><br>
@@ -23,8 +24,7 @@
                             <li><a href="https://twitter.com/QuantumClubPro"><i class="fa fa-twitter "></i></a></li>
                             <li><a href="https://es-la.facebook.com/QuantumClubpro/"><i class="fa fa-facebook "></i></a></li>
                             <li><a href="https://www.youtube.com/channel/UCy9sL3sAOfd-ITiOUDRDSGA/videos"><i class="fa fa-youtube "></i></a></li>
-                            <li><a href="broker.php"><i class="fa fa-user"></i></a></li>
-                       
+                                                
                         </ul>
                     </div>
                     
