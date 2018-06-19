@@ -146,8 +146,9 @@
 								
 							</select>
 						  </label>
+                                                            
+                                    <label class="requerid product"><input type="checkbox"  name="condiciones" value="1"> Deshabilitar</label>
 						            <label class="requerid product"><input id="titulo" type="text" name="titulo" placeholder="Titulo del Servicio" value=""></label>
-                                    
                                     <label class="requerid product"><input id="nomb_servicio" type="text" name="nomb_servicio" placeholder="Nombre del Servicio" value=""></label>
                                      <label class="requerid product"><textarea id="desc_servicio" type="text" name="desc_servicio" placeholder="Descripcion del Servicio" value=""></textarea></label>
                                     <a>Caracteristicas:</a>
@@ -156,6 +157,7 @@
                                     <label class="requerid product"><input id="caracteristica3" type="text" name="caract3" placeholder="Caracteristica 3" value=""></label>  
                                     <label class="required product"><input id="imagen_Servicio1" type="file" name="img_servicio1" placeholder="" /></label>
                                     <label class="required product"><input id="imagen_Servicio2" type="file" name="img_servicio2" placeholder="" /></label>
+                                    
                                 <input id="changeS" class="btn" type="button" name="send-message" value="Guardar" />
                                 <!--<button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Guardar </button>-->    
                                 

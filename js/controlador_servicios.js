@@ -23,14 +23,15 @@ jQuery(function($){
             data:{'id': id },
             success:function(response){
                 servicio = response.split('#');
-                $('#titulo').val(servicio[0]);
-                $('#nomb_servicio').val(servicio[1]);
-                $('#desc_servicio').val(servicio[2]);
-                $('#caracteristica1').val(servicio[3]);
-                $('#caracteristica2').val(servicio[4]);
-                $('#caracteristica3').val(servicio[5]);
-                $('#imagen1').val(servicio[6]);
-                $('#imagen2').val(servicio[7]);   
+                $('#condiciones').val(servicio[0]);
+                $('#titulo').val(servicio[1]);
+                $('#nomb_servicio').val(servicio[2]);
+                $('#desc_servicio').val(servicio[3]);
+                $('#caracteristica1').val(servicio[4]);
+                $('#caracteristica2').val(servicio[5]);
+                $('#caracteristica3').val(servicio[6]);
+                $('#imagen1').val(servicio[7]);
+                $('#imagen2').val(servicio[8]);   
             }
         })
     })

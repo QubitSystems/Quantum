@@ -247,20 +247,20 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-12">
                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                            <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-servicio1" aria-selected="true"><div id ="titulo1"></div></a>
-                            <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-servicio2" aria-selected="false"><div id="titulo2"></div></a>
-                            <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-servicio3" aria-selected="false"><div id="titulo3"></div></a>
-                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-servicio4" aria-selected="false"><div id="titulo4"></div></a>
-                            <a class="nav-link" id="v-pills-union-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-servico5" aria-selected="false"><div id="titulo5"></div> </a>
-                            <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-servicio6" aria-selected="false"><div id="titulo6"></div></a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-servicio7" aria-selected="false"><div id="titulo7"></div></a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-servicio8" aria-selected="false"><div id="titulo8"></div> </a>
-                             <a class="nav-link" id="v-pills-cash-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-servicio9" aria-selected="false"><div id="titulo9"></div></a>
+                            <a class="nav-link active" id="v-pills-servicio1-tab" data-toggle="pill" href="#v-pills-servicio1" role="tab" aria-controls="v-pills-servicio1" aria-selected="true" style=""><div id ="titulo1"></div></a>
+                            <a class="nav-link" id="v-pills-servicio2-tab" data-toggle="pill" href="#v-pills-servicio2" role="tab" aria-controls="v-pills-servicio2" aria-selected="false" style=""><div id="titulo2"></div></a>
+                            <a class="nav-link" id="v-pills-servicio3-tab" data-toggle="pill" href="#v-pills-servicio3" role="tab" aria-controls="v-pills-servicio3" aria-selected="false" style=""><div id="titulo3"></div></a>
+                            <a class="nav-link" id="v-pills-servicio4-tab" data-toggle="pill" href="#v-pills-servicio4" role="tab" aria-controls="v-pills-servicio4" aria-selected="false" style=""><div id="titulo4"></div></a>
+                            <a class="nav-link" id="v-pills-servicio5-tab" data-toggle="pill" href="#v-pills-servicio5" role="tab" aria-controls="v-pills-servico5" aria-selected="false" style=""><div id="titulo5"></div> </a>
+                            <a class="nav-link" id="v-pills-servicio6-tab" data-toggle="pill" href="#v-pills-servicio6" role="tab" aria-controls="v-pills-servicio6" aria-selected="false" style=""><div id="titulo6"></div></a>
+                             <a class="nav-link" id="v-pills-servicio7-tab" data-toggle="pill" href="#v-pills-servicio7" role="tab" aria-controls="v-pills-servicio7" aria-selected="false" style=""><div id="titulo7"></div></a>
+                             <a class="nav-link" id="v-pills-servicio8-tab" data-toggle="pill" href="#v-pills-servicio8" role="tab" aria-controls="v-pills-servicio8" aria-selected="false" style=""><div id="titulo8"></div> </a>
+                             <a class="nav-link" id="v-pills-servicio9-tab" data-toggle="pill" href="#v-pills-servicio9" role="tab" aria-controls="v-pills-servicio9" aria-selected="false" style=""><div id="titulo9"></div></a>
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-12">
                         <div class="tab-content" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-servicio1" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                            <div class="tab-pane fade show active" id="v-pills-servicio1" role="tabpanel" aria-labelledby="v-pills-servicio1-tab">
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio1"></div></h3>
                                 </div>
@@ -281,7 +281,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen1_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                                 
                             </div>
-                            <div class="tab-pane fade" id="v-pills-servicio2" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                            <div class="tab-pane fade" id="v-pills-servicio2" role="tabpanel" aria-labelledby="v-pills-servicio2-tab">
                                    <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio2"></div></h3>
                                 </div>
@@ -307,7 +307,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen2_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
-                            <div class="tab-pane fade" id="v-pills-servicio3" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                            <div class="tab-pane fade" id="v-pills-servicio3" role="tabpanel" aria-labelledby="v-pills-servicio3-tab">
                             <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio3"></div></h3>
                                 </div>
@@ -329,7 +329,7 @@
                                 </div>
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen3_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-servicio4" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                            <div class="tab-pane fade" id="v-pills-servicio4" role="tabpanel" aria-labelledby="v-pills-servicio4-tab">
                                   <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio4"></div></h3>
                                 </div>
@@ -351,7 +351,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen4_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
-                            <div class="tab-pane fade" id="v-pills-servicio5" role="tabpanel" aria-labelledby="v-pills-union-tab">
+                            <div class="tab-pane fade" id="v-pills-servicio5" role="tabpanel" aria-labelledby="v-pills-servicio5-tab">
                                 <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio5"></div></h3>
                                 </div>
@@ -373,7 +373,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen5_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
-                            <div class="tab-pane fade" id="v-pills-servicio6" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                            <div class="tab-pane fade" id="v-pills-servicio6" role="tabpanel" aria-labelledby="v-pills-servicio6-tab">
                                    <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio6"></div></h3>
                                 </div>
@@ -396,7 +396,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen6_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
-                             <div class="tab-pane fade" id="v-pills-servicio7" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                             <div class="tab-pane fade" id="v-pills-servicio7" role="tabpanel" aria-labelledby="v-pills-servicio7-tab">
                                    <div class="heading-left title iq-mb-0">
                                 <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio7"></div></h3>
                                 </div>
@@ -419,7 +419,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen7_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
-                             <div class="tab-pane fade" id="v-pills-servicio8" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                             <div class="tab-pane fade" id="v-pills-servicio8" role="tabpanel" aria-labelledby="v-pills-servicio8-tab">
                                    <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio8"></div></h3>
                                 </div>
@@ -442,7 +442,7 @@
                                 <div class="iq-mtb-20"><img class="img-fluid" id="imagen8_2" alt="" src="http://via.placeholder.com/1600x687"></div>
                              
                             </div>
-                             <div class="tab-pane fade" id="v-pills-servicio9" role="tabpanel" aria-labelledby="v-pills-cash-tab">
+                             <div class="tab-pane fade" id="v-pills-servicio9" role="tabpanel" aria-labelledby="v-pills-servicio9-tab">
                                    <div class="heading-left title iq-mb-0">
                                     <h3 class="title iq-tw-5 iq-mb-20"><div id="nomb_servicio9"></div></h3><br>
                                 </div>

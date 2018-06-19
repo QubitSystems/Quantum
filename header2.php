@@ -39,7 +39,7 @@
                                 <li id="services"><a href="services.php">Servicios</a>
                                 
                                 </li>
-                                 <li id="oportunidad"><a class="" href="oportunidad.php">Oportunidad</a>
+                                 <li id="oportunidad"><a  href="oportunidad.php">Oportunidad</a>
                                   
                                 </li>
                              
@@ -65,4 +65,4 @@
             </div>
         </div>
     </header>
-  
+ 
